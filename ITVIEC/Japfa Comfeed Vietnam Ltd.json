@@ -1,0 +1,20 @@
+{
+    "name": "Japfa Comfeed Vietnam Ltd",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2937/japfa-comfeed-vietnam-ltd-logo-170-151.jpg?1473155313",
+    "position": "Others",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (.NET, ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/software-developer-net-asp-net-c-japfa-comfeed-vietnam-ltd-0246",
+            "description": "- Phát triển phần mềm ứng dụng theo yêu cầu của quản lý trực tiếp.  Cụ thể hơn về công việc vui lòng trao đổi trong buổi phỏng vấn.",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

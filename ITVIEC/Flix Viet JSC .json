@@ -1,0 +1,30 @@
+{
+    "name": "Flix Viet JSC ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3288/flix-viet-jsc-logo-170-151.png?1482462343",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "2 Software Architect (Javascript)",
+            "link": "https://itviec.com/it-jobs/software-architect-sr-technical-leader-flix-viet-jsc-5441",
+            "description": "We are seeking a Software Architect/ Senior Technical Leader who wants to tackle technical challenges in a highly dynamic environment of a technology...",
+            "skills": [
+                "Software Architect",
+                "Team Leader",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "4 Frontend Developers (JavaScript,HTML5)",
+            "link": "https://itviec.com/it-jobs/4-frontend-developers-html5-javascript-flix-viet-jsc-3457",
+            "description": "Working as a Front end Web Developer, you will help develop websites using latest technologies, cool effects… Develop and maintenance old and new...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

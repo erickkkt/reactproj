@@ -1,0 +1,20 @@
+{
+    "name": "Fitech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1151/fitech-logo-170-151.JPG?1473236839",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "07 .NET/C# Developers ($600-$1,000 net)",
+            "link": "https://itviec.com/it-jobs/07-net-c-developers-600-1-000-net-fitech-0514",
+            "description": "Làm việc cùng với nhóm trong nước và nước ngoài. Chịu trách nhiệm với chất lượng của ứng dụng xây dựng triển khai trong suốt vòng đời sử dụng:  • Nghiên...",
+            "skills": [
+                "C#",
+                "MVC",
+                ".NET"
+            ]
+        }
+    ]
+},

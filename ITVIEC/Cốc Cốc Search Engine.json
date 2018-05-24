@@ -1,0 +1,40 @@
+{
+    "name": "Cốc Cốc Search Engine",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/88/c-c-c-c-search-engine-logo-170-151.png?1454112716",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[Urgent] C++ Developer",
+            "link": "https://itviec.com/it-jobs/urgent-c-developer-coc-coc-search-engine-4804",
+            "description": "We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design,...",
+            "skills": [
+                "Linux",
+                "C++",
+                "C language"
+            ]
+        },
+        {
+            "name": "[Urgent] Senior PHP dev ($1000- $2000)",
+            "link": "https://itviec.com/it-jobs/urgent-senior-php-dev-1000-2000-coc-coc-search-engine-4816",
+            "description": "We are looking for talented, passionate PHP Developers with cutting-edge coding skills and solid experience! Working with us, you will solve a lot of...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Linux Administrator",
+            "link": "https://itviec.com/it-jobs/linux-administrator-coc-coc-search-engine-3851",
+            "description": "We are looking for talented candidates who have good experience in the administration of large Linux servers. As a System Administrator you will be a...",
+            "skills": [
+                "Python",
+                "MySQL",
+                "Linux"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "TTG Holding",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4173/ttg-holding-logo-170-151.png?1505985368",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (PHP, JavaScript, HTML5)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-javascript-html5-ttg-holding-2425",
+            "description": "Knowledge of HTML languages, CSS technologies and JavaScript libraries. · Convert PSD to HTML with CSS/JavaScript integrated · Knowledge of website...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Project Director",
+            "link": "https://itviec.com/it-jobs/project-director-ttg-holding-1904",
+            "description": "Design Development and Procurement   Work with Senior Manager (Architecture) to source, recommend for approval and appoint all relevant consultants....",
+            "skills": [
+                "English",
+                "Project Manager",
+                "Manager"
+            ]
+        }
+    ]
+},

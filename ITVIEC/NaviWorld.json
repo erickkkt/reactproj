@@ -1,0 +1,20 @@
+{
+    "name": "NaviWorld",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1183/naviworld-logo-170-151.png?1454113045",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ERP Developer (.NET, SQL)",
+            "link": "https://itviec.com/it-jobs/erp-developer-net-sql-naviworld-4348",
+            "description": "Với vai trò là nhân viên kỹ thuật phát triển giải pháp Microsoft Dynamics, bạn chịu trách nhiệm thiết kế, lập trình, tùy biến, chỉnh sửa giải pháp theo...",
+            "skills": [
+                "SQL",
+                "ERP",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Đất Việt Tour",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4138/d-t-vi-t-tour-logo-170-151.png?1504882378",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-dat-viet-tour-5421",
+            "description": "- Lập trình web dựa trên mã nguồn Wordpress - Chỉnh sửa hoặc bổ sung các tính năng cho plugin của Wordpress - Tối ưu hóa website thân thiện với người...",
+            "skills": [
+                "MySQL",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

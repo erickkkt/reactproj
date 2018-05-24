@@ -1,0 +1,20 @@
+{
+    "name": "Pharmacity",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1916/pharmacity-logo-170-151.png?1500531926",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "OT included in base salary",
+    "jobs": [
+        {
+            "name": "ERP Developer (X++, MS Dynamic AX 2012)",
+            "link": "https://itviec.com/it-jobs/erp-developer-x-ms-dynamic-ax-2012-pharmacity-0805",
+            "description": "Understand Microsoft Dynamics AX 2012 R3 business process. Write technical document Able to use X++ programming language to develop new solution per...",
+            "skills": [
+                "C#",
+                "SQL",
+                "ERP"
+            ]
+        }
+    ]
+},

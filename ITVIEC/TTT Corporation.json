@@ -1,0 +1,20 @@
+{
+    "name": "TTT Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/970/ttt-corporation-logo-170-151.jpg?1491627659",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Web Developer",
+            "link": "https://itviec.com/it-jobs/net-web-developer-ttt-corporation-5320",
+            "description": "Công ty TTT đang có nhu cầu tuyển dụng vị trí Lập Trình Viên với mô tả chi tiết công việc như sau:- Tiếp nhận thông tin từ phía khách hàng nội bộ, phân...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

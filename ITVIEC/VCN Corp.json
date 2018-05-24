@@ -1,0 +1,20 @@
+{
+    "name": "VCN Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3626/vcn-corp-logo-170-151.png?1492831528",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (JavaScript, HTML5, MVC)",
+            "link": "https://itviec.com/it-jobs/web-developer-javascript-html5-mvc-vcn-corp-2437",
+            "description": "Phát triển và duy trì hệ thống website. Hỗ trợ khách hàng. Làm việc nhóm, đảm bảo Deadline của dự án. ",
+            "skills": [
+                "HTML5",
+                "MVC",
+                "JavaScript"
+            ]
+        }
+    ]
+},

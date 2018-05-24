@@ -1,0 +1,20 @@
+{
+    "name": "Precio Fishbone",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3986/precio-fishbone-logo-170-151.png?1500718384",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Web Developer ",
+            "link": "https://itviec.com/it-jobs/net-web-developer-precio-fishbone-2029",
+            "description": "- Design and develop web solutions based on the Office 365, Azure or the latest Microsoft web technologies, such as .Net Core, Angular and TypeScript or...",
+            "skills": [
+                "English",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

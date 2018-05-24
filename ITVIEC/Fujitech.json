@@ -1,0 +1,20 @@
+{
+    "name": "Fujitech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/856/fujitech-logo-170-151.png?1454113313",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "2 React Native Fullstack Dev-up to $1500",
+            "link": "https://itviec.com/it-jobs/02-junior-senior-expert-full-stack-dev-fujitech-2451",
+            "description": "At Fuji Technology, we are looking for (02) React Native (junior/senior/expert) full stack developers to join our mobile application development team....",
+            "skills": [
+                "Japanese",
+                "Mobile Apps",
+                "JavaScript"
+            ]
+        }
+    ]
+},

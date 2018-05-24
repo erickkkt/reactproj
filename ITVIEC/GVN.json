@@ -1,0 +1,30 @@
+{
+    "name": "GVN",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/720/gvn-logo-170-151.png?1488532935",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Back-end Dev(PHP,Java,NodeJS,Angular JS)",
+            "link": "https://itviec.com/it-jobs/back-end-dev-php-java-nodejs-angular-js-gvn-3949",
+            "description": "Tham gia phát triển và maintain hệ thống Backend/API cho các ứng dụng mobile mạng xã hội/platform/thương mại điện tử trên nền tảng iOS/Android. Làm việc...",
+            "skills": [
+                "NodeJS",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Mobile Dev (Android, iOS) - Up to $1000",
+            "link": "https://itviec.com/it-jobs/mobile-dev-android-ios-up-to-1000-gvn-0126",
+            "description": "Tham gia vào các dự án trên nền tảng Web và Mobile Nghiên cứu các công nghệ mới và áp dụng vào các dự án của công ty. Làm việc, phối hợp công việc theo...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

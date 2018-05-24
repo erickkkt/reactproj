@@ -1,0 +1,30 @@
+{
+    "name": "Fresh House",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4169/fresh-house-logo-170-151.jpg?1505978510",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Graphic Designer",
+            "link": "https://itviec.com/it-jobs/graphic-designer-fresh-house-3329",
+            "description": "Access and deploy design projects including brand identity, advertising materials and publications, website, design any ideas from clients, company and...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "PHP/Laravel Engineer",
+            "link": "https://itviec.com/it-jobs/php-laravel-engineer-fresh-house-2620",
+            "description": "● Loves working and building new things ● Has strong communication skills ● Works well flying solo or running in a pack ● Enjoys working smarter and...",
+            "skills": [
+                "HTML5",
+                "PHP",
+                "Designer"
+            ]
+        }
+    ]
+},

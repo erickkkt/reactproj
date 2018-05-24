@@ -1,0 +1,40 @@
+{
+    "name": "CO-WELL ASIA",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/543/co-well-asia-logo-170-151.jpg?1466580961",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Ruby on Rails Developer (Lương hấp dẫn)",
+            "link": "https://itviec.com/it-jobs/ruby-on-rails-developer-luong-hap-dan-co-well-asia-0412",
+            "description": "Lập trình chính trong các dự án công nghệ sử dụng Ruby on Rails Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi...",
+            "skills": [
+                "Ruby on Rails",
+                "Ruby",
+                "Java"
+            ]
+        },
+        {
+            "name": "Sr. Front-end Dev (JavaScript/PHP/HTML5)",
+            "link": "https://itviec.com/it-jobs/sr-front-end-dev-javascript-php-html5-co-well-asia-1212",
+            "description": "Lập trình chính trong các dự án gia công phần mềm sử dụng HTML/CSS cho khách hàng Nhật. Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế,...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "10 QA/Tester tiếng Nhật (Jr, Sr, Leader)",
+            "link": "https://itviec.com/it-jobs/10-qa-tester-tieng-nhat-jr-sr-leader-co-well-asia-3103",
+            "description": "1. Đối với QA/Tester (Junior, Senior)   Viết testcase, tạo test data chi tiết cho các dự án nhằm kiểm soát chất lượng của tất cả các ứng dụng sản phẩm...",
+            "skills": [
+                "Team Leader",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

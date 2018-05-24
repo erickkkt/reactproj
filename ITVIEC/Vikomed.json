@@ -1,0 +1,20 @@
+{
+    "name": "Vikomed",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1645/vikomed-logo-170-151.jpg?1454113849",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "[HN-HCM] Kỹ sư hệ thống PACS (C/C++,SQL)",
+            "link": "https://itviec.com/it-jobs/hn-hcm-ky-su-he-thong-pacs-c-c-sql-vikomed-2224",
+            "description": "Thực hiện các hoạt động kỹ thuật, bao gồm khảo sát, lên kế hoạch lắp đặt, chuẩn bị các điều kiện để lặp đặt tại cơ sở, lắp đặt hệ thống phần mềm Vận...",
+            "skills": [
+                "System Admin",
+                "SQL",
+                "Networking"
+            ]
+        }
+    ]
+},

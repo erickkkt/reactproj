@@ -1,0 +1,20 @@
+{
+    "name": "NEOGOV - GovernmentJobs",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1418/neogov-governmentjobs-logo-170-151.PNG?1497433403",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior .NET Developers (Up to 2000$)",
+            "link": "https://itviec.com/it-jobs/senior-net-developers-up-to-2000-neogov-governmentjobs-5609",
+            "description": "We are currently looking for strong developers. We're the award winning revolutionary platform that will change the way talent management is conceived...",
+            "skills": [
+                "Mobile Apps",
+                "JavaScript",
+                ".NET"
+            ]
+        }
+    ]
+},

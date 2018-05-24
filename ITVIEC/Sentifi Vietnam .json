@@ -1,0 +1,29 @@
+{
+    "name": "Sentifi Vietnam ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/698/sentifi-vietnam-logo-170-151.png?1455683124",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Data Scientist ",
+            "link": "https://itviec.com/it-jobs/senior-data-scientist-sentifi-vietnam-2714",
+            "description": "Your Role  Within this role you will work with a senior team of other Data Scientists to build meaningful insights for products used by customers in...",
+            "skills": [
+                "Python",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Head of IT Services - $6K Sign-on Bonus",
+            "link": "https://itviec.com/it-jobs/head-of-it-services-6k-sign-on-bonus-sentifi-vietnam-4818",
+            "description": "The Head of IT Services is responsible for managing a senior team of 5-8 and being hands-on for all IT Operations, DevOps and Service Desk needs of...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "Team Leader"
+            ]
+        }
+    ]
+},

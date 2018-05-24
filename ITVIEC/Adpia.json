@@ -1,0 +1,20 @@
+{
+    "name": "Adpia",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2438/adpia-logo-170-151.jpg?1467011390",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-adpia-5057",
+            "description": "- Lập trình, quản lý và phát triển hệ thống của công ty.  Hỗ trợ khách hàng kết nối service, triển khai API- Xây dựng các module ứng dụng phát triển...",
+            "skills": [
+                "MySQL",
+                "Oracle",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Vitalify Asia",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/637/vitalify-asia-logo-170-151.jpg?1478856811",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Web Developer (PHP/Javascript)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-javascript-vitalify-asia-4725",
+            "description": "Web Developer for a backend system of smartphone application (React Native). Development Rest API for smartphone application and backend system. It uses...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

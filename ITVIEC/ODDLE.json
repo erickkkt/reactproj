@@ -1,0 +1,20 @@
+{
+    "name": "ODDLE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3780/oddle-logo-170-151.jpg?1496721494",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Backend Engineer (Java, SQL)",
+            "link": "https://itviec.com/it-jobs/backend-engineer-java-sql-oddle-4810",
+            "description": "We have embarked on a journey where we can support thousands of F&B businesses around the world with a scalable, robust system. By joining our...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Java"
+            ]
+        }
+    ]
+},

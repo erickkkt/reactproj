@@ -1,0 +1,30 @@
+{
+    "name": "Oneempower",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2699/oneempower-logo-170-151.jpg?1469937027",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Unity 3D Developer",
+            "link": "https://itviec.com/it-jobs/unity-3d-developer-oneempower-2155",
+            "description": "OneEmpower is looking for a Unity3D game developer with experience ranging from PC/Mac games/apps to Android/iOS mobile apps, web apps and games are a...",
+            "skills": [
+                "C#",
+                "Unity",
+                "Games"
+            ]
+        },
+        {
+            "name": "Mobile Developer (Android/iOS)",
+            "link": "https://itviec.com/it-jobs/mobile-developer-android-ios-oneempower-2247",
+            "description": "- Chi tiết công việc sẽ được trao đổi khi phỏng vấn",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

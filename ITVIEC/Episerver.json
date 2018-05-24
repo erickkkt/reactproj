@@ -1,0 +1,60 @@
+{
+    "name": "Episerver",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2044/episerver-logo-170-151.png?1455698622",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full-stack .NET Developer (Up to $1300)",
+            "link": "https://itviec.com/it-jobs/full-stack-net-developer-up-to-1300-episerver-5240",
+            "description": "Episerver Vietnam is looking for a talented and experienced developer for our Development Team in Hanoi. Are you the one who is always eager to learn...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "UX Designer (Up to $1200)",
+            "link": "https://itviec.com/it-jobs/ux-designer-episerver-5014",
+            "description": "As a UX designer you will be joining our Global UX team. The team consists of UX Designers, Graphic Designers and Front End developers. You will be...",
+            "skills": [
+                "Agile",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Web Application Engineer (C#, MVC, SQL)",
+            "link": "https://itviec.com/it-jobs/web-application-engineer-c-mvc-sql-episerver-4118",
+            "description": "You will join the Web Operations team, supporting customers by helping in troubleshooting issues with their web applications built in Episerver...",
+            "skills": [
+                "C#",
+                "MVC",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Linux Administrator",
+            "link": "https://itviec.com/it-jobs/linux-administrator-episerver-3914",
+            "description": "We are looking for a Linux administrator who will be responsible for designing, implementing, and monitoring the infrastructure; also, to collaborate...",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "System Admin"
+            ]
+        },
+        {
+            "name": "Project Manager",
+            "link": "https://itviec.com/it-jobs/project-manager-episerver-3749",
+            "description": "Episerver’s Expert Services team offer in-depth technical expertise to maximize our customer’s value of the Episerver product portfolio. Whether its...",
+            "skills": [
+                "Project Manager",
+                "Manager",
+                ".NET"
+            ]
+        }
+    ]
+},

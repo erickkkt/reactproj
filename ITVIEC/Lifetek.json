@@ -1,0 +1,20 @@
+{
+    "name": "Lifetek",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2507/lifetek-logo-170-151.png?1486434892",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-lifetek-2535",
+            "description": "Lập trình chương trình bằng ngôn ngữ PHP và hệ cơ sở dữ liệu MySQL ",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

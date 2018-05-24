@@ -1,0 +1,20 @@
+{
+    "name": "Dược Phẩm CPC1 Hà Nội",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4181/d-c-ph-m-cpc1-ha-n-i-logo-170-151.png?1506182394",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ERP Team Leader (.NET, C#, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/erp-team-leader-net-c-asp-net-duoc-pham-cpc1-ha-noi-0238",
+            "description": " Quản trị, vận hành và phát triển lập trình hệ thống cơ sở dữ liệu của công ty: SQL Server, Oracle, MySQL theo yêu cầu của công ty. Nghiên cứu và phát...",
+            "skills": [
+                "Team Leader",
+                "ERP",
+                ".NET"
+            ]
+        }
+    ]
+},

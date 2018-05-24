@@ -1,0 +1,20 @@
+{
+    "name": "Phuong Dong Education",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4116/phuong-dong-education-logo-170-151.png?1504165816",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (PHP, MySQL, HTML5)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-mysql-html5-phuong-dong-education-5218",
+            "description": "-  Quản trị hệ thống máy tính, hỗ trợ thành viên công ty hoạt động hiệu quả -  Quản trị website thông tin công ty - Thiết kế tài liệu Marketing gồm:...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

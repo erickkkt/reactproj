@@ -1,0 +1,20 @@
+{
+    "name": "OPSWAT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2225/opswat-logo-170-151.JPG?1460702739",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "C/C++ Developers - (18mil - 25mil)",
+            "link": "https://itviec.com/it-jobs/c-c-developers-opswat-2910",
+            "description": "We are now seeking talented, highly motivated and result-oriented software engineers/computer scientists to join our growing family as C/C++ developers....",
+            "skills": [
+                "OOP",
+                "C++",
+                "C language"
+            ]
+        }
+    ]
+},

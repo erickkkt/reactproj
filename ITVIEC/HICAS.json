@@ -1,0 +1,20 @@
+{
+    "name": "HICAS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1772/hicas-logo-170-151.png?1454113187",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "10 Dev C#/C++(cơ hội On-site Mỹ, Nhật)",
+            "link": "https://itviec.com/it-jobs/10-dev-c-c-co-hoi-on-site-my-nhat-hicas-5419",
+            "description": "Sau thời gian đào tạo (dự kiến 3 tháng) sẽ tham gia phát triển các sản phẩm cho lĩnh vực thiết kế nhà máy, công trình: Piping, Structure, BIM… Phát...",
+            "skills": [
+                "C#",
+                "C++",
+                "C language"
+            ]
+        }
+    ]
+},

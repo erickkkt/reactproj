@@ -1,0 +1,30 @@
+{
+    "name": "honestbee",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3009/honestbee-logo-170-151.png?1499679093",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Fullstack Developer (Java, Ruby, Python)",
+            "link": "https://itviec.com/it-jobs/fullstack-developer-java-ruby-python-honestbee-4112",
+            "description": "What you'll be doing:   You’ll be the advocate of software engineering as it relates to logistics and eCommerce You’ll be steering the design of...",
+            "skills": [
+                "Ruby on Rails",
+                "Database",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior iOS Engineer ",
+            "link": "https://itviec.com/it-jobs/senior-ios-engineer-honestbee-2523",
+            "description": "Design and improve upon existing app architecture in iOS Work closely with other mobile engineers, product manager and designers to build and improve...",
+            "skills": [
+                "Objective C",
+                "UI-UX",
+                "iOS"
+            ]
+        }
+    ]
+},

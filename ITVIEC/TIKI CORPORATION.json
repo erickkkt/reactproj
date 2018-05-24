@@ -1,0 +1,30 @@
+{
+    "name": "TIKI CORPORATION",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/176/tiki-corporation-logo-170-151.png?1454113377",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "2 Frontend Developer (JS/CSS/HTML5)",
+            "link": "https://itviec.com/it-jobs/2-front-end-developer-js-css-html5-tiki-corporation-2750",
+            "description": "We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. We put \"Mobile First\" as our...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Back-end Developer (PHP, MySQL, API)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-php-mysql-api-tiki-corporation-0028",
+            "description": "Be a technical leader within your squad and within Tiki in general Become a valued member of an autonomous, cross- functional team Collaborate with...",
+            "skills": [
+                "MySQL",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

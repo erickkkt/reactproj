@@ -1,0 +1,20 @@
+{
+    "name": "SHS | Chứng khoán Sài Gòn - Hà Nội",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4175/shs-ch-ng-khoan-sai-gon-ha-n-i-logo-170-151.png?1505987106",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT System (Oracle, SQL)",
+            "link": "https://itviec.com/it-jobs/it-system-oracle-sql-shs-chung-khoan-sai-gon-ha-noi-4734",
+            "description": "Tốt nghiệp Đại học CNTT, Điện tử Viễn thông, Tin học, Toán tin hoặc tương đương Kinh nghiệm làm việc tối thiểu 1 năm. Đã từng làm việc trong ngành Tài...",
+            "skills": [
+                "System Admin",
+                "SQL",
+                "Oracle"
+            ]
+        }
+    ]
+},

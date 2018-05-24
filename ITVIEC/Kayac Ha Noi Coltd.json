@@ -1,0 +1,20 @@
+{
+    "name": "Kayac Ha Noi Co.ltd",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/373/kayac-ha-noi-co-ltd-logo-170-151.jpg?1489485524",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Backend Engineer (PHP,JavaScript,My SQL)",
+            "link": "https://itviec.com/it-jobs/server-engineer-php-ruby-mysql-kayac-ha-noi-co-ltd-3731",
+            "description": "- Bảo trì và phát triển các Web service (APIs) cho các game, app với lượng user lớn, truy xuất lớn- Có khả năng viết code tốt, theo tiêu chuẩn, đáp ứng...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

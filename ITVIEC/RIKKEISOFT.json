@@ -1,0 +1,20 @@
+{
+    "name": "RIKKEISOFT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/245/rikkeisoft-logo-170-151.png?1454113296",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developer (All levels)",
+            "link": "https://itviec.com/it-jobs/php-developer-all-levels-rikkeisoft-0339",
+            "description": "Thiết kế, coding và kiểm thử hệ thống hoặc chức năng sau khi hoàn thành.        Xây dựng kế hoạch và quản lý tiến độ lập trình...",
+            "skills": [
+                "MySQL",
+                "PostgreSql",
+                "PHP"
+            ]
+        }
+    ]
+},

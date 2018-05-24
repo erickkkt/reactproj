@@ -1,0 +1,20 @@
+{
+    "name": "Square Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2925/square-group-logo-170-151.png?1472957332",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Technical Supervior (PHP/.NET/Database)",
+            "link": "https://itviec.com/it-jobs/technical-supervior-php-net-database-square-group-1212",
+            "description": "- Chịu trách nhiệm xây dựng, nghiên cứu và phát triển các ứng dụng dựa trên yêu cầu công việc đúng chất lượng và tiến độ được giao - Phân tich,́...",
+            "skills": [
+                "Database",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

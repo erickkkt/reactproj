@@ -1,0 +1,30 @@
+{
+    "name": "Biztech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2500/biztech-logo-170-151.png?1468034321",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 .NET Developers",
+            "link": "https://itviec.com/it-jobs/02-net-developers-biztech-4423",
+            "description": "Tham gia vào các hạng mục của dự án: Phân tích thiết kế hệ thống, thiết kế cơ sở dữ liệu, lập trình, hỗ trợ kỹ thuật. Thực hiện lập trình phần mềm...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "02 Triển khai phần mềm (.NET, C#, SQL)",
+            "link": "https://itviec.com/it-jobs/02-trien-khai-phan-mem-net-c-sql-biztech-4406",
+            "description": "Kiểm tra phần mềm, đảm bảo chất lượng hệ thống khi triển khai. Thực hiện vận hành chạy thử, đánh giá mức độ phù hợp của phần mềm đối với các yêu cầu của...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

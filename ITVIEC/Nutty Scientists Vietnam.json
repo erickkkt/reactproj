@@ -1,0 +1,20 @@
+{
+    "name": "Nutty Scientists Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3958/nutty-scientists-vietnam-logo-170-151.png?1499938324",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-nutty-scientists-vietnam-0419",
+            "description": "Sáng tạo ý tưởng, thiết kế baner, cataloge, brochure và các vật dụng khác liên quan. Quản trị, kiểm tra, phân tích, phát triển và tối ưu chất lượng nội...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        }
+    ]
+},

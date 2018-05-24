@@ -1,0 +1,20 @@
+{
+    "name": "TEG Consulting",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/730/teg-consulting-logo-170-151.png?1454112502",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior iOS Developer ",
+            "link": "https://itviec.com/it-jobs/senior-ios-developer-teg-consulting-4131",
+            "description": "Development, maintenance of applications aimed at a range of iOS devices (mobile phones, tablet, computers) and integration with back-end services...",
+            "skills": [
+                "Objective C",
+                "JSON",
+                "iOS"
+            ]
+        }
+    ]
+},

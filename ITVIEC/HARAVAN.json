@@ -1,0 +1,20 @@
+{
+    "name": "HARAVAN",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3605/haravan-logo-170-151.jpg?1492423165",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Hybrid Mobile App Developer",
+            "link": "https://itviec.com/it-jobs/hybrid-mobile-app-developer-haravan-4828",
+            "description": "- Phát triển và nâng cao Ứng dụng di động sử dụng AngularJS, JQueryMobile, Javascript và Ionic - Phối hợp với bộ phận thiết kế và bộ phận khách hàng...",
+            "skills": [
+                "Mobile Apps",
+                "AngularJS",
+                "NodeJS"
+            ]
+        }
+    ]
+},

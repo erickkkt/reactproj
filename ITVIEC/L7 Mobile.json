@@ -1,0 +1,20 @@
+{
+    "name": "L7 Mobile",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3999/l7-mobile-logo-170-151.png?1501145134",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Back-End Developer ($500-$1000)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-500-1000-l7-mobile-5409",
+            "description": "- Trao đổi cụ thể khi phỏng vấn",
+            "skills": [
+                "MySQL",
+                "NodeJS",
+                "PHP"
+            ]
+        }
+    ]
+},

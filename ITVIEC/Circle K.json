@@ -1,0 +1,20 @@
+{
+    "name": "Circle K",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1122/circle-k-logo-170-151.png?1454112498",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT Application Developer (C++, C#)",
+            "link": "https://itviec.com/it-jobs/it-application-developer-c-c-circle-k-1756",
+            "description": "Job Purpose   To support IT Application Supervisor in discharging his / her duties and responsibilities on the users’ requirement on software...",
+            "skills": [
+                "C#",
+                "SQL",
+                "C++"
+            ]
+        }
+    ]
+},

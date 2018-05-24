@@ -1,0 +1,20 @@
+{
+    "name": "Vision Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/203/vision-vietnam-logo-170-151.jpg?1454112621",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "10 PHP Developers (MySQL, JavaScript)",
+            "link": "https://itviec.com/it-jobs/10-php-developers-mysql-javascript-vision-vietnam-0424",
+            "description": "We are in urgent need of 10 enthusiastic and professional PHP developers from at least 2 years experience and strong knowledge in PHP.   Typical working...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

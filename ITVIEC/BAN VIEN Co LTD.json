@@ -1,0 +1,20 @@
+{
+    "name": "BAN VIEN Co., LTD",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/728/ban-vien-co-ltd-logo-170-151.png?1481863158",
+    "position": "Others",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "20 Embedded Software Engineers (C#, C)",
+            "link": "https://itviec.com/it-jobs/20-embedded-software-engineers-c-c-ban-vien-co-ltd-2119",
+            "description": "Software Embedded - AUTOSAR  Join AUTOSAR (Automotive Open System Architecture) full-cycle development from design phase to system test phase,...",
+            "skills": [
+                "C#",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "VINIFERA",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4092/vinifera-logo-170-151.jpg?1503565338",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Phát triển CRM (PHP, HTML5, MySQL)",
+            "link": "https://itviec.com/it-jobs/phat-trien-crm-php-html5-mysql-vinifera-0522",
+            "description": "- Triển khai và vận hành ứng dụng VtigerCRM trong doanh nghiệp: + Cài đặt ứng dụng  VtigerCRM + Quản trị Server (Backup, Bảo trì, Update) + Phát triển,...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

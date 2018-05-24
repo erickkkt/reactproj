@@ -1,0 +1,20 @@
+{
+    "name": "TLsoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/579/tlsoft-logo-170-151.png?1454112850",
+    "position": "Da Nang",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "50 Developers ( Java/C#/.NET) Upto $1000",
+            "link": "https://itviec.com/it-jobs/50-developers-java-c-net-upto-1000-tlsoft-4157",
+            "description": "*** Tham gia các dự án:  Thương mại điện tử cho khách hàng Nhật, Mỹ Chính phủ điện tử cho các cơ quan chính phủ Việt Nam *** Tham gia vào quá trình: ...",
+            "skills": [
+                "C#",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

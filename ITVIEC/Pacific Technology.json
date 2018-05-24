@@ -1,0 +1,20 @@
+{
+    "name": "Pacific Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1793/pacific-technology-logo-170-151.jpg?1454113613",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 .NET Developer (C#, SQL, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/05-lap-trinh-vien-net-c-sql-asp-net-pacific-technology-5033",
+            "description": "Có thể đọc và hiểu được thiết kế thực hiện tài liệu. Tạo, đơn vị kiểm tra, duy trì và tìm lỗi phần mềm. Làm việc với các thành viên dự án nhằm đảm...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

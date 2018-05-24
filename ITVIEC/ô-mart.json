@@ -1,0 +1,49 @@
+{
+    "name": "ô-mart",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3966/o-mart-logo-170-151.png?1500168921",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": " Software QC/Test Engineer",
+            "link": "https://itviec.com/it-jobs/software-qc-test-engineer-o-mart-4128",
+            "description": "Develop, maintain and execute manual test cases for major projects, maintenance, and emergency releases Design and implement automation tests scripts,...",
+            "skills": [
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "UI-UX Designer",
+            "link": "https://itviec.com/it-jobs/ui-ux-designer-o-mart-4309",
+            "description": "We are an equal opportunity company who are looking for creative, results-driven professionals who strive to advance their careers through continual...",
+            "skills": [
+                "CSS",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-o-mart-2642",
+            "description": "We are looking for an iOS developer responsible for the development and maintenance of applications aimed at a range of iOS devices including mobile...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-o-mart-3109",
+            "description": "We are looking for an Android developer responsible for the development and maintenance of applications aimed at a range of Android devices including...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

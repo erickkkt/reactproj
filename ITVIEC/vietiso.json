@@ -1,0 +1,30 @@
+{
+    "name": "vietiso",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2979/vietiso-logo-170-151.png?1474273369",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-vietiso-5624",
+            "description": "- Lập Trình PHP - MySQL- Làm giao diện HTML5 (tương thích trên các thiết bị di động)- Thiết kế website thông tin mã nguồn mở ( Framework : Wordpress …...",
+            "skills": [
+                "MySQL",
+                "Wordpress",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-vietiso-5826",
+            "description": "- Thiết kế giao diện website du lịch (inbound, outbound, nội địa), khách sạn- Banner quảng cáo tĩnh, banner quảng cáo bằng flash.  Thiết kế logo",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        }
+    ]
+},

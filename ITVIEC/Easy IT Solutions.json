@@ -1,0 +1,30 @@
+{
+    "name": "Easy IT Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/190/easy-it-solutions-logo-170-151.png?1454113536",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Java Developer",
+            "link": "https://itviec.com/it-jobs/java-developer-easy-it-solutions-0457",
+            "description": "Do you want to design, create, and solve problems in a fun working environment? Do you excel at what you do, take pride in your work, and motivate...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Sr. Front End Developer (AngularJS, CSS)",
+            "link": "https://itviec.com/it-jobs/sr-front-end-developer-angularjs-css-easy-it-solutions-0050",
+            "description": "Looking for an experienced web developer who can quickly understand requirements then design and implement front-end SPA for our SaaS platform that are...",
+            "skills": [
+                "CSS",
+                "AngularJS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

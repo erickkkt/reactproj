@@ -1,0 +1,30 @@
+{
+    "name": "VNPT Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1658/vnpt-software-logo-170-151.png?1454112506",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "An toàn thông tin (Linux/Java/.NET)",
+            "link": "https://itviec.com/it-jobs/an-toan-thong-tin-linux-java-net-vnpt-software-1441",
+            "description": "Đảm bảo ATTT trong xây dựng phần mềm, vận hành và triển khai hệ thống CNTT, ATTT người dùng Ban hành các hướng dẫn xây dựng sản phẩm, cấu hình ATTT Đào...",
+            "skills": [
+                "Linux",
+                "Software Architect",
+                "C++"
+            ]
+        },
+        {
+            "name": "[GẤP] 10 Lập trình viên .NET/ SQL",
+            "link": "https://itviec.com/it-jobs/gap-10-lap-trinh-vien-net-sql-vnpt-software-1756",
+            "description": "Lập trình các ứng dụng trên nền tảng .Net Tham gia trực tiếp dự án của công ty Quản lý, phát triển, triển khai sản phẩm trong các mảng dự án về Y tế,...",
+            "skills": [
+                "SQL",
+                "Oracle",
+                ".NET"
+            ]
+        }
+    ]
+},

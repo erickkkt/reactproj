@@ -1,0 +1,30 @@
+{
+    "name": "Spiraledge",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/395/spiraledge-logo-170-151.jpg?1454112705",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-spiraledge-1108",
+            "description": "We're looking for talented, creative and motivated iOS Developer to join our engineering team. We welcome bright individuals that are lifelong learners,...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Tableau / Data Analyst",
+            "link": "https://itviec.com/it-jobs/tableau-data-analyst-spiraledge-2339",
+            "description": "Create dashboards and reports using Tableau desktop and web Design and implement visualizations in response to business needs Create Tableau data...",
+            "skills": [
+                "Python",
+                "Database",
+                "SQL"
+            ]
+        }
+    ]
+},

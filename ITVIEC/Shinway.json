@@ -1,0 +1,20 @@
+{
+    "name": "Shinway",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/931/shinway-logo-170-151.png?1454112808",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "02 PHP Developers (JavaScript, MySQL)",
+            "link": "https://itviec.com/it-jobs/02-php-developers-javascript-mysql-shinway-1639",
+            "description": "Phân tích thiết kế triển khai triển dự án theo yêu cầu. Lập trình và thiết kế Website. Outsourcing cho các công ty bên Japan. Góp phần xây dựng công ty,...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

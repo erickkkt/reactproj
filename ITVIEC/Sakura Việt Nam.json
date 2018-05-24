@@ -1,0 +1,20 @@
+{
+    "name": "Sakura Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4143/sakura-vi-t-nam-logo-170-151.png?1504934226",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Business Analyst (Tester)",
+            "link": "https://itviec.com/it-jobs/business-analyst-tester-sakura-viet-nam-1925",
+            "description": "1. Tiếp nhận, khảo sát, thu thập yêu cầu về nghiệp vụ & quy trình từ các bên liên quan phục vụ phạm vi của dự án; 2. Tham gia phân tích & xem...",
+            "skills": [
+                "Tester",
+                "Business Analyst",
+                "QA QC"
+            ]
+        }
+    ]
+},

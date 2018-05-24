@@ -1,0 +1,30 @@
+{
+    "name": "WSOFT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2863/wsoft-logo-170-151.png?1471945802",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-wsoft-4150",
+            "description": "- Triển khai các ứng dụng Mobile theo kế hoạch của công ty - Phối hợp với các phòng ban khác phát triển các ứng dụng phục vụ hoạt...",
+            "skills": [
+                "Objective C",
+                "C language",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-wsoft-5228",
+            "description": "- Triển khai các ứng dụng Mobile theo kế hoạch của công ty - Phối hợp với các phòng ban khác phát triển các ứng dụng phục vụ hoạt...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

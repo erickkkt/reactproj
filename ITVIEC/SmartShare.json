@@ -1,0 +1,30 @@
+{
+    "name": "SmartShare",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3635/smartshare-logo-170-151.jpg?1493105814",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "PHP/Laravel Developer",
+            "link": "https://itviec.com/it-jobs/php-laravel-developer-smartshare-3206",
+            "description": "• Có kinh nghiệm sử dụng một trong các Framework PHP: Laravel, CakePHP, Yii• Thao tác tốt với HTML, CSS, JavaScript (Jquery, Ajax), Bootstrap, JSON,...",
+            "skills": [
+                "Database",
+                "SQL",
+                "PHP"
+            ]
+        },
+        {
+            "name": "02 Front-end Dev (HTML,CSS, JAVASCRIPT)",
+            "link": "https://itviec.com/it-jobs/02-front-end-developers-smartshare-3926",
+            "description": "- Sử dụng HTML để tạo các trang web thân thiện với người dùng- Duy trì và cải tiến trang web- Tối ưu hóa ứng dụng với tốc độ tối đa - Phối hợp với...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

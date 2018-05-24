@@ -1,0 +1,40 @@
+{
+    "name": "mgm technology partners Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1109/mgm-technology-partners-vietnam-logo-170-151.png?1502682300",
+    "position": "Da Nang",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Java Developer",
+            "link": "https://itviec.com/it-jobs/java-developer-mgm-technology-partners-vietnam-1142",
+            "description": "Work on projects for our international customers within an international team together with colleagues from our German, Czech and French offices Be...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Developer Girl (Java, SQL, JavaScript)",
+            "link": "https://itviec.com/it-jobs/developer-girl-java-sql-javascript-mgm-technology-partners-vietnam-1105",
+            "description": "Are you a female developer? Doing Java, SQL or JavaScript?   mgm technology partners wants you!  At mgm technology partners we believe that women offer...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "System Administrator ",
+            "link": "https://itviec.com/it-jobs/system-administrator-mgm-technology-partners-vietnam-1000",
+            "description": "We are looking for individuals who are capable of taking on responsibility. Our work is characterized by the commitment and engagement of individuals...",
+            "skills": [
+                "System Admin",
+                "English",
+                "Networking"
+            ]
+        }
+    ]
+},

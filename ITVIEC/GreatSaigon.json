@@ -1,0 +1,20 @@
+{
+    "name": "GreatSaigon",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4150/greatsaigon-logo-170-151.png?1505358035",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Developers (PHP/.NET/SQL/JavaScript)",
+            "link": "https://itviec.com/it-jobs/web-developer-net-javascript-sql-greatsaigon-0231",
+            "description": "GreatSaigon.com is a directory for expats and the English-speaking community in Saigon. Currently on beta 1 version, the website focuses mainly on...",
+            "skills": [
+                "SQL",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

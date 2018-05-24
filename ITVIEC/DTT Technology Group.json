@@ -1,0 +1,30 @@
+{
+    "name": "DTT Technology Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/555/dtt-technology-group-logo-170-151.png?1454113144",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 Developers (JavaScript, HTML5)",
+            "link": "https://itviec.com/it-jobs/03-developers-javascript-html5-dtt-technology-group-3317",
+            "description": "- Xây dựng ứng dụng Chính phủ điện tử, các hệ thống dịch vụ hành chính công trên nền công nghệ Java và Phần mềm mở (Open Source Software). - Tham gia...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "02 Team Leaders (JavaScript, HTML5)",
+            "link": "https://itviec.com/it-jobs/02-team-leaders-javascript-html5-dtt-technology-group-3539",
+            "description": "- Nghiên cứu các văn bản quy phạm pháp luật, các văn bản chỉ đạo điều hành, các thủ tục hành chính và các tài liệu liên quan đến nghiệp vụ của dự án/sản...",
+            "skills": [
+                "HTML5",
+                "Team Leader",
+                "JavaScript"
+            ]
+        }
+    ]
+},

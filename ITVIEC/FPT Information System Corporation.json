@@ -1,0 +1,60 @@
+{
+    "name": "FPT Information System Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/642/fpt-information-system-corporation-logo-170-151.jpg?1454112611",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": ".NET Developer",
+            "link": "https://itviec.com/it-jobs/net-developer-fpt-information-system-corporation-1148",
+            "description": "Tham gia phân tích, thiết kế và phát triển phần mềm cho nhiều dự án khác nhau; Xây dựng và chỉnh sửa các module, tính năng theo yêu cầu; Nghiên cứu công...",
+            "skills": [
+                "C#",
+                "MVC",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Mobile App Developer (IOS/Android)",
+            "link": "https://itviec.com/it-jobs/mobile-app-developer-ios-android-fpt-information-system-corporation-2854",
+            "description": "- Phát triển các ứng dụng trên nền tảng iOS và Android App phục vụ hoạt động kinh doanh của đơn vị làm dịch vụ; - Cập nhật và am hiểu về các công nghệ...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "4 System Engineer ($500 - $700)",
+            "link": "https://itviec.com/it-jobs/4-system-engineer-500-700-fpt-information-system-corporation-5117",
+            "description": "Nghiên cứu, triển khai các giải pháp công nghệ cho khách hàng và doanh nghiệp  Giải pháp quản trị, giám sát hệ thống; Máy chủ UNIX; Giải pháp lưu trữ;...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "System Admin"
+            ]
+        },
+        {
+            "name": "05 Java Developers (Junior/senior)",
+            "link": "https://itviec.com/it-jobs/java-developer-fresher-senior-sl-05-fpt-information-system-corporation-4750",
+            "description": "Lập trình theo module được phân công; Nghiên cứu yêu cầu của khách hàng, xây dựng tài liệu thiết kế và code, triển khai giải pháp và unit test; Đ Đào...",
+            "skills": [
+                "MySQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": ".NET Developer (Junior/senior)",
+            "link": "https://itviec.com/it-jobs/net-developer-fresher-senior-fpt-information-system-corporation-1605",
+            "description": "Tham gia phân tích, thiết kế và phát triển phần mềm cho nhiều dự án khác nhau; Xây dựng và chỉnh sửa các module, tính năng theo yêu cầu; Nghiên cứu công...",
+            "skills": [
+                "C#",
+                "MVC",
+                "SQL"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "AZORA",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4154/azora-logo-170-151.png?1505552137",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Developer",
+            "link": "https://itviec.com/it-jobs/net-developer-azora-5734",
+            "description": "Tham gia vào giai đoạn thiết kế phần mềm Lập trình, phát triển các phần mềm trên nền Window Form, Webform APS.NET (C#), Entity Framework / MVC4 / 5,...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

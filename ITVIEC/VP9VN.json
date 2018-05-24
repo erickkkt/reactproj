@@ -1,0 +1,30 @@
+{
+    "name": "VP9VN",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1319/vp9vn-logo-170-151.png?1499498208",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Security Engineer (cryptography, C++)",
+            "link": "https://itviec.com/it-jobs/security-engineer-cryptography-c-vp9vn-0406",
+            "description": "VP9 Vietnam is looking for a Software Engineer to work on our software security technologies. You’ll work on projects that touch all aspects of VP9...",
+            "skills": [
+                "Python",
+                "C++",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "Web/Server Dev (NodeJS/PHP) Up to $2000",
+            "link": "https://itviec.com/it-jobs/web-server-dev-node-js-php-up-to-2000-vp9vn-2255",
+            "description": "– Thành thạo javascript.– Yêu cầu ít nhất 1 năm kinh nghiệm node.js.– Có kinh nghiệm debug javascript.– Code tối ưu, bảo mật.– Xử lý thành thạo...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "PHP"
+            ]
+        }
+    ]
+},

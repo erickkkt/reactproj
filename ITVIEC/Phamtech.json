@@ -1,0 +1,20 @@
+{
+    "name": "Phamtech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3955/phamtech-logo-170-151.png?1499934491",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 PHP Developers (MySQL)",
+            "link": "https://itviec.com/it-jobs/03-php-developers-mysql-phamtech-1041",
+            "description": "+ Thiết kế & lập trình web chuyên mảng PHP/ MySQL phục vụ thị trường trong & ngoài nước+ Trao đổi cụ thể khi phỏng vấn",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

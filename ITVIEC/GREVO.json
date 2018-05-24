@@ -1,0 +1,20 @@
+{
+    "name": "GREVO",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3577/grevo-logo-170-151.jpg?1496635217",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Native Mobile Game Engineer/CocosJS",
+            "link": "https://itviec.com/it-jobs/cocosjs-games-engineer-android-or-ios-grevo-4437",
+            "description": "Where do you want to be…in a year, in 5 years?What if you had an opportunity to achieve more in less time then you could ever imagine?At GREVO, you...",
+            "skills": [
+                "Games",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

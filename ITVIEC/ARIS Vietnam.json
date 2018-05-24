@@ -1,0 +1,60 @@
+{
+    "name": "ARIS Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/222/aris-vietnam-logo-170-151.png?1454113494",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java (Experience) Developer ",
+            "link": "https://itviec.com/it-jobs/java-experience-aris-vietnam-5938",
+            "description": "- Nghiên cứu các công nghệ mới và áp dụng vào các dự án của công ty.  Tham gia vào rất nhiều dự án với khách hàng Nhật bản, chủ yếu là các hệ thống Web,...",
+            "skills": [
+                "MySQL",
+                "SQL",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior C# Developer (ASP.NET)",
+            "link": "https://itviec.com/it-jobs/senior-c-developer-aris-vietnam-5532",
+            "description": "- Tham gia phát triển các dự án trên nền tảng C# của khách hàng. - Tham gia vào tất cả các giai đoạn của một dự án như: lập kế hoạch, phân tích, thiết...",
+            "skills": [
+                "C#",
+                "MVC",
+                "ASP.NET"
+            ]
+        },
+        {
+            "name": "PHP (Experience) Developer ",
+            "link": "https://itviec.com/it-jobs/php-experience-developer-aris-vietnam-2054",
+            "description": "- Join various software development && maintenance projects (Web Application, API development,...)- The responsibility includes: design, coding,...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "QC (Experience) Engineer",
+            "link": "https://itviec.com/it-jobs/qc-experience-engineer-aris-vietnam-2117",
+            "description": "- Execute manual testing in Web and mobile applications. - Read the specifications document then identifying unclear or inconsistent items and Q&A...",
+            "skills": [
+                "Tester",
+                "Business Analyst",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Senior iOS Developers",
+            "link": "https://itviec.com/it-jobs/senior-ios-developers-aris-vietnam-5446",
+            "description": "ARIS is currently seeking for a Senior iOS Developer to join our Mobile Team. In this role, you will: - Developing apps, games used by everyone users...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

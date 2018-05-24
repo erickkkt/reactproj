@@ -1,0 +1,20 @@
+{
+    "name": "S-cubism Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3333/s-cubism-vietnam-logo-170-151.jpg?1483584012",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Full-Stack Developer (JavaScript, PHP)",
+            "link": "https://itviec.com/it-jobs/full-stack-developer-javascript-php-s-cubism-vietnam-4454",
+            "description": "- Product: EC system with our brand “EC-Orange”- Position is on your demands　* Main coder 　* Leading developer　* Task manager on your demands　* QA, QC-...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

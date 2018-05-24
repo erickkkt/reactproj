@@ -1,0 +1,28 @@
+{
+    "name": "Viet Han Life Source",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4127/viet-han-life-source-logo-170-151.png?1504411130",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Web Developer (MySQL, Linux)",
+            "link": "https://itviec.com/it-jobs/php-web-developer-mysql-linux-viet-han-life-source-0158",
+            "description": "• Phát triển và duy trì hệ thống website.• Hỗ trợ khách hàng.• Làm việc nhóm, đảm bảo deadline của dự án.• Trao đổi chi tiết trong quá trình phỏng vấn",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-viet-han-life-source-0029",
+            "description": "+ Thiết kế giao diện Website+ Thiết kế Logo, nhận diện thương hiệu+ Thiết kế các ấn phẩm truyền thông: Banner, poster, brochure, catalogue+ Trao đổi chi...",
+            "skills": [
+                "Designer"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,50 @@
+{
+    "name": "EXOCOMETS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3527/exocomets-logo-170-151.png?1496479819",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Web Developer (C#, ASP.NET, MVC)",
+            "link": "https://itviec.com/it-jobs/web-developer-c-asp-net-mvc-exocomets-4450",
+            "description": "Refer to the development and system site of the company under the Agile model • Doing report and working directly with IT Manager. • Review and improve...",
+            "skills": [
+                "C#",
+                "MVC",
+                "ASP.NET"
+            ]
+        },
+        {
+            "name": "E-Commerce Business Analyst",
+            "link": "https://itviec.com/it-jobs/e-commerce-business-analyst-exocomets-2542",
+            "description": "Tham gia một phần, hay toàn bộ quy trình phát triển dự án theo mô hình Agile. Chịu trách nhiệm phân tích, xây dựng yêu cầu chức năng sản phẩm TMĐT như:...",
+            "skills": [
+                "Product Manager",
+                "Project Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Junior / Mid Level Web/Graphic Designer ",
+            "link": "https://itviec.com/it-jobs/web-graphic-designer-exocomets-1056",
+            "description": "Thiết kế giao diện website chuyên thương mại điện tử. HTML / CSS các trang đã thiết kế. Work closely with Development Team through collaboration tools....",
+            "skills": [
+                "CSS",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Asp.Net Web Developer (C#, ASP.NET, MVC)",
+            "link": "https://itviec.com/it-jobs/asp-net-web-developer-c-asp-net-mvc-exocomets-4432",
+            "description": "Refer to the development and system site of the company under the Agile model • Doing report and working directly with IT Manager. • Review and improve...",
+            "skills": [
+                "C#",
+                "MVC",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Galagala ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1284/galagala-logo-170-151.png?1454112872",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "R&D Software Engineer (C/C++/Java/MySQL)",
+            "link": "https://itviec.com/it-jobs/software-engineer-c-c-java-mysql-galagala-4408",
+            "description": "Programming by C, Java, MySQL platform Working with the IMS-core project ",
+            "skills": [
+                "MySQL",
+                "C language",
+                "Java"
+            ]
+        }
+    ]
+},

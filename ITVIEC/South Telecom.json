@@ -1,0 +1,20 @@
+{
+    "name": "South Telecom",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1545/south-telecom-logo-170-151.png?1452224964",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (MySQL/CSS/HTML5) - Urgent",
+            "link": "https://itviec.com/it-jobs/05-php-developer-mysql-html-south-telecom-1607",
+            "description": "Thực hiện nhiệm vụ do cấp trên phân công theo kế hoạch. Cùng cấp quản lý phân tích và thiết kế các tính năng sản phẩm. Lập trình và kiểm thử dự án phần...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

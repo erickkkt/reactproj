@@ -1,0 +1,20 @@
+{
+    "name": "NATAES",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3088/nataes-logo-170-151.jpg?1477301984",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Embedded software Engineer (Above $2000)",
+            "link": "https://itviec.com/it-jobs/embedded-software-engineer-above-2000-nataes-1117",
+            "description": "Phát triển phần mềm nhúng cho các đối tác Nhật Bản, Mỹ, Châu Âu Tham gia vào các quá trình thiết kế, phát triển, kiểm thử, triển khai phần mềm Nghiên...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

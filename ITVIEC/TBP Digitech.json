@@ -1,0 +1,30 @@
+{
+    "name": "TBP Digitech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3569/tbp-digitech-logo-170-151.png?1491905254",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "QA / QC / Tester",
+            "link": "https://itviec.com/it-jobs/qa-qc-tester-tbp-digitech-5048",
+            "description": "Leading testing team, assign and review task for testing team for software development project. Plan/estimate project testing activities. Create test...",
+            "skills": [
+                "Mobile Apps",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Javascript Developer (AngularJS)",
+            "link": "https://itviec.com/it-jobs/javascript-developer-angularjs-tbp-digitech-0419",
+            "description": "Work together with our development team to plan and execute projects. Be responsible for the layout, visual appearance and usability of webapps. Edit...",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

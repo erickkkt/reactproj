@@ -1,0 +1,20 @@
+{
+    "name": "FPT Telecom",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/390/fpt-telecom-logo-170-151.jpg?1454113107",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Software Developer (Java, PHP)",
+            "link": "https://itviec.com/it-jobs/senior-software-developer-java-php-fpt-telecom-4329",
+            "description": "Research and develop Advertising System Build and develop products or systems with high users Build the architecture and design of new products and...",
+            "skills": [
+                "Python",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

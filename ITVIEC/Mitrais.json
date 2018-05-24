@@ -1,0 +1,20 @@
+{
+    "name": "Mitrais",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/437/mitrais-logo-170-151.jpg?1454113732",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developers (Attractive Salary)",
+            "link": "https://itviec.com/it-jobs/java-developers-attractive-salary-mitrais-5948",
+            "description": "We have openings for experienced senior, mid-level and junior developers so if you have been working with Java for 2 years or more we are keen to talk...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

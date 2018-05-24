@@ -1,0 +1,20 @@
+{
+    "name": "Nexcel Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/137/nexcel-solutions-logo-170-151.jpg?1454113251",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Database Developer (SQL Sever)",
+            "link": "https://itviec.com/it-jobs/database-developer-sql-sever-nexcel-solutions-0820",
+            "description": "Develop, update and maintain complex reporting systems focusing on real-time data analyzing and data forecasting. Quickly respond to, investigate and...",
+            "skills": [
+                "Database",
+                "SQL",
+                "English"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Green System Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/779/green-system-solutions-logo-170-151.gif?1454113569",
+    "position": "Da Nang",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập trình viên PHP (MySQL, JavaScript)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-mysql-javascript-green-system-solutions-0945",
+            "description": "- Tham gia phát triển ứng dụng và thương mại hóa giải pháp quản trị doanh nghiệp- Làm việc với đối tác có trên 30 năm kinh nghiệm trong lĩnh vực PMP,...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

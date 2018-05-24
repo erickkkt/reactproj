@@ -1,0 +1,20 @@
+{
+    "name": "NTQ Solution",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/629/ntq-solution-logo-170-151.jpg?1454112901",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 Android Developers",
+            "link": "https://itviec.com/it-jobs/03-android-developers-ntq-solution-0710",
+            "description": "Tham gia phát triển các ứng dụng Andoid cho các khách hàng Nhật//Mỹ/Sing Có cơ hội tham gia vào những dự án lớn (teamsize lên đến 20 người). Làm việc ở...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Altium Viet Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4166/altium-viet-nam-logo-170-151.png?1505905778",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Architect (.Net)",
+            "link": "https://itviec.com/it-jobs/software-architect-net-altium-viet-nam-0600",
+            "description": "Lead the development team, monitor / track the progress of the prioritized topics   Take the ownership of the product, working closely with other...",
+            "skills": [
+                "Database",
+                "Software Architect",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Data Scientist",
+            "link": "https://itviec.com/it-jobs/data-scientist-altium-viet-nam-0737",
+            "description": "Work with team leader and members to solve data problems and document results and methodologies   Collect and organize raw data from all possible...",
+            "skills": [
+                "MySQL",
+                "Database",
+                "SQL"
+            ]
+        }
+    ]
+},

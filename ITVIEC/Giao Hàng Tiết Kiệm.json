@@ -1,0 +1,30 @@
+{
+    "name": "Giao Hàng Tiết Kiệm",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3148/giao-hang-ti-t-ki-m-logo-170-151.jpg?1479182029",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[HN] PHP Developer (Up to $1200)",
+            "link": "https://itviec.com/it-jobs/hn-php-developer-up-to-1200-giao-hang-tiet-kiem-2033",
+            "description": "– Lập trình website bằng ngôn ngữ PHP;– Phát triển hệ thống thương mại điện tử bằng PHP/MySQL;– Tham gia xây dựng các ứng dụng web theo thiết kế sẵn...",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Chuyên viên R&D (C/C++, Java) Upto $1500",
+            "link": "https://itviec.com/it-jobs/chuyen-vien-r-d-c-c-java-upto-1500-giao-hang-tiet-kiem-1808",
+            "description": "– Xây dựng hệ thống phần mềm phân tích và báo cáo dữ liệu liên quan đến lĩnh vực giao vận;– Giải quyết các bài toán về trích xuất thông tin, xử lý ngôn...",
+            "skills": [
+                "C++",
+                "C language",
+                "Java"
+            ]
+        }
+    ]
+},

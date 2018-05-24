@@ -1,0 +1,30 @@
+{
+    "name": "Inspectorio",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3156/inspectorio-logo-170-151.jpg?1506666987",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Product Owner - Up to $2.5K",
+            "link": "https://itviec.com/it-jobs/product-owner-up-to-2-5k-inspectorio-4527",
+            "description": "Act as Product Owner for one or several Scrum teams being the empowered central point of the Product Leadership as representative of the Business and...",
+            "skills": [
+                "Agile",
+                "Product Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Front-end Engineer – Up to $2K",
+            "link": "https://itviec.com/it-jobs/front-end-engineer-up-to-2k-inspectorio-0109",
+            "description": "Brainstorm, design, and develop our online products – including our websites, platforms, mobile apps and product-related things. Work with team to...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

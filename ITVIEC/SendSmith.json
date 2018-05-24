@@ -1,0 +1,20 @@
+{
+    "name": "SendSmith",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3682/sendsmith-logo-170-151.png?1494227137",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Programmer (PHP, HTML5, JQuery)",
+            "link": "https://itviec.com/it-jobs/php-programmer-html5-php-jquery-sendsmith-3549",
+            "description": "We are seeking creative programmers with good problem solving skills.    Good Common Sense   Problem-Solving Abilities   Hard-working, meticulous and...",
+            "skills": [
+                "HTML5",
+                "JQuery",
+                "PHP"
+            ]
+        }
+    ]
+},

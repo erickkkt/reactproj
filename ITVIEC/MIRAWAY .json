@@ -1,0 +1,30 @@
+{
+    "name": "MIRAWAY ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1055/miraway-logo-170-151.png?1454113687",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Business Analyst",
+            "link": "https://itviec.com/it-jobs/business-analyst-miraway-2439",
+            "description": "Phụ trách phân tích các chức năng nghiệp vụ và tính năng các sản phẩm phần mềm Thu thập thông tin khảo sát từ phía khách hàng Viết các đặc tả yêu cầu...",
+            "skills": [
+                "Tester",
+                "Business Analyst",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Backend Developer (C, Java, Go lang)",
+            "link": "https://itviec.com/it-jobs/technical-leader-c-javascript-miraway-4137",
+            "description": "Mô tả công việc:  - Thực hiện thiết kế và phát triển sản phẩm trên nền tảng công nghệ mới- Làm việc trực tiếp với khách hàng lớn, đối tác trong và ngoài...",
+            "skills": [
+                "Team Leader",
+                "C language",
+                "Java"
+            ]
+        }
+    ]
+},

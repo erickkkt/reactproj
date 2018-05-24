@@ -1,0 +1,50 @@
+{
+    "name": "POETA",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/148/poeta-logo-170-151.png?1492418400",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": ".Net Developer",
+            "link": "https://itviec.com/it-jobs/net-developer-poeta-2715",
+            "description": "Working with Project Managers to determine needs and applying / customizing existing technology to meet those needs Designing and coding superior...",
+            "skills": [
+                "SQL",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Project Manager - Up to $2000",
+            "link": "https://itviec.com/it-jobs/project-manager-up-to-2000-poeta-3535",
+            "description": "Key Responsibilities include ● Managing 1-3 medium to large projects simultaneously ●Taking leadership role in reviewing and improving working process ●...",
+            "skills": [
+                "English",
+                "Project Manager",
+                "Manager"
+            ]
+        },
+        {
+            "name": "JavaScript Engineer (React/React Native)",
+            "link": "https://itviec.com/it-jobs/javascript-engineer-react-react-native-poeta-2507",
+            "description": "We are looking for front-end developers trained with the Javascript platform to build high-quality web-based applications. As a User Interface...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Business Analyst (Agile, Tester)",
+            "link": "https://itviec.com/it-jobs/business-analyst-agile-tester-poeta-1111",
+            "description": "Primary Role  Business Analyst is responsible for understanding client’s business need, capturing the domain expertise that client has, and translating...",
+            "skills": [
+                "Agile",
+                "Tester",
+                "Business Analyst"
+            ]
+        }
+    ]
+},

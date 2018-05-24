@@ -1,0 +1,39 @@
+{
+    "name": "Glite Digital",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2040/glite-digital-logo-170-151.png?1497189176",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-glite-digital-1005",
+            "description": "* What You Will Do • Design and Develop iOS applications • System Design including basic and detail design. •Writing program documentation. • Prepare...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Senior PHP Developer",
+            "link": "https://itviec.com/it-jobs/senior-php-developer-glite-digital-0414",
+            "description": "Reporting to Project CTO, you will be responsible for : - Design and implementation of web-based front-end components that are high-performing and...",
+            "skills": [
+                "HTML5",
+                "JQuery",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-glite-digital-1838",
+            "description": "What You Will Do • Design and Develop Android applications• System Design including basic and detail design. • Writing program documentation. • Prepare...",
+            "skills": [
+                "Mobile Apps",
+                "Android"
+            ]
+        }
+    ]
+},

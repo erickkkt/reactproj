@@ -1,0 +1,38 @@
+{
+    "name": "Enclave",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4126/enclave-logo-170-151.png?1505295443",
+    "position": "Da Nang",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Experienced Python Engineers",
+            "link": "https://itviec.com/it-jobs/experienced-python-engineers-enclave-10-3832",
+            "description": "• Available to recruit: 5 engineers• Writing reusable, testable, and efficient code• Design and implementation of low-latency, high-availability, and...",
+            "skills": [
+                "Python",
+                "Database",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Experienced iOS Engineers",
+            "link": "https://itviec.com/it-jobs/experienced-ios-engineers-enclave-10-3549",
+            "description": "• Design and build advanced applications for the iOS platform• Collaborate with cross-functional teams to define, design, and ship new features•...",
+            "skills": [
+                "Mobile Apps",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Automation Tester",
+            "link": "https://itviec.com/it-jobs/automation-tester-enclave-10-2103",
+            "description": "Write, follow test cases and test plans and communicate with the team about issues Review the quality of unit testing, functional testing, system...",
+            "skills": [
+                "English",
+                "Tester"
+            ]
+        }
+    ]
+},

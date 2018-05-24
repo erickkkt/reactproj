@@ -1,0 +1,20 @@
+{
+    "name": "XTrans | A-Trans",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3344/xtrans-a-trans-logo-170-151.JPG?1483764152",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (experienced)",
+            "link": "https://itviec.com/it-jobs/php-developer-experienced-xtrans-a-trans-1211",
+            "description": "Phát triển phần mềm/ ứng dụng web cùng với nhóm lập trình viên phía Nhật Bản với vai trò là một thành viên/ trưởng nhóm phía Việt Nam.Định nghĩa yêu cầu...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

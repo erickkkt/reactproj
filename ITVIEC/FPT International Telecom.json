@@ -1,0 +1,50 @@
+{
+    "name": "FPT International Telecom",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4149/fpt-international-telecom-logo-170-151.jpg?1505272938",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 PHP developers",
+            "link": "https://itviec.com/it-jobs/02-php-developers-fpt-international-telecom-2516",
+            "description": "- Phát triển sản phẩm mới theo định hướng của công ty",
+            "skills": [
+                "OOP",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Back-End developers (700$ - 800$)",
+            "link": "https://itviec.com/it-jobs/back-end-developers-700-800-fpt-international-telecom-4122",
+            "description": "Phát triển sản phẩm mới theo định hướng của công ty",
+            "skills": [
+                "Python",
+                "JSON",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "Android Developers (600USD - 700 USD)",
+            "link": "https://itviec.com/it-jobs/android-developers-600usd-700-usd-fpt-international-telecom-3801",
+            "description": "Phát triển sản phẩm mới theo định hướng của công ty",
+            "skills": [
+                "OOP",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "iOS developers (2 years exp, 600$-800$)",
+            "link": "https://itviec.com/it-jobs/ios-developers-2-years-exp-600-800-fpt-international-telecom-2941",
+            "description": "Phát triển sản phẩm mới theo định hướng của công ty",
+            "skills": [
+                "OOP",
+                "C++",
+                "iOS"
+            ]
+        }
+    ]
+},

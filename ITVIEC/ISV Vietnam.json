@@ -1,0 +1,20 @@
+{
+    "name": "ISV Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1485/isv-vietnam-logo-170-151.png?1482828722",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Teachnical Team Leader (.NET, Java)",
+            "link": "https://itviec.com/it-jobs/teachnical-team-leader-from-1-000-isv-vietnam-5157",
+            "description": "Quản lý và điều hành nhóm lập trình để phát triển dự án theo yêu cầu. Quản lý về chất lượng và tiến độ dự án Báo cáo với cấp trên và khách hàng về dự án...",
+            "skills": [
+                "Team Leader",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

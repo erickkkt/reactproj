@@ -1,0 +1,20 @@
+{
+    "name": "VMMS | Truyền Thông Đa Phương Tiện",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3008/vmms-truy-n-thong-da-ph-ng-ti-n-logo-170-151.png?1474863276",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (Laravel + AngularJS)",
+            "link": "https://itviec.com/it-jobs/php-developer-laravel-angularjs-vmms-truyen-thong-da-phuong-tien-3454",
+            "description": "Tham gia phát triển các dự án website, mobile web cho các khách hàng nước ngoài trên ngôn ngữ PHP ( Laravel + AngularJS, Bootstrap/SASS...) Làm việc,...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

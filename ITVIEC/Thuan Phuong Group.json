@@ -1,0 +1,20 @@
+{
+    "name": "Thuan Phuong Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3865/thuan-phuong-group-logo-170-151.jpg?1498122518",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ERP Project Manager",
+            "link": "https://itviec.com/it-jobs/erp-project-manager-thuan-phuong-group-5920",
+            "description": "- Tổ chức việc lập kế hoạch chi tiết, nâng cấp và thực thi hệ thống ERP. - Trực tiếp triển khai thực hiện hệ thống ERP đối với các vấn đề như lựa chọn...",
+            "skills": [
+                "Database",
+                "ERP",
+                "Project Manager"
+            ]
+        }
+    ]
+},

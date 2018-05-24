@@ -1,0 +1,20 @@
+{
+    "name": "TOA Paint Viet Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4105/toa-paint-viet-nam-logo-170-151.png?1503807367",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ERP Specialist",
+            "link": "https://itviec.com/it-jobs/erp-specialist-toa-paint-viet-nam-1820",
+            "description": "Khắc phục sự cố của phần mềm ERP BPCS. Tạo và chỉnh sửa chương trình, truy vấn trong BPCS theo yêu cầu của người dùng. Cải thiện hệ thống để...",
+            "skills": [
+                "Database",
+                "ERP",
+                "English"
+            ]
+        }
+    ]
+},

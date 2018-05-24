@@ -1,0 +1,20 @@
+{
+    "name": "VTC Digicom ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3489/vtc-digicom-logo-170-151.png?1488856448",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Back-end Engineer (ASP.NET, JavaScript)",
+            "link": "https://itviec.com/it-jobs/back-end-engineer-asp-net-javascript-vtc-digicom-3628",
+            "description": "Phát triển các sản phẩm thuộc các lĩnh vực: Chính phủ điện tử, giao thông thông minh,... dựa trên những công nghệ mới nhất. Phối hợp với Project...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "gobear",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2943/gobear-logo-170-151.png?1473320680",
+    "position": "Others",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Testing Engineer",
+            "link": "https://itviec.com/it-jobs/software-testing-engineer-gobear-5131",
+            "description": "Reporting directly to the QA Manager in Singapore, the Software Testing Engineer will be based at our Ho Chi Minh City office. You’re responsible for...",
+            "skills": [
+                "Software Architect",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

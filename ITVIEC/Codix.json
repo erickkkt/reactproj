@@ -1,0 +1,20 @@
+{
+    "name": "Codix",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/411/codix-logo-170-151.gif?1454113927",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "C and SQL Developer – Training in Europe",
+            "link": "https://itviec.com/it-jobs/c-and-sql-developer-training-in-europe-codix-1021",
+            "description": "Participate to the development of our software with C and SQL   Analyze client’s requirements   Design and develop new features according to detailed...",
+            "skills": [
+                "SQL",
+                "English",
+                "C language"
+            ]
+        }
+    ]
+},

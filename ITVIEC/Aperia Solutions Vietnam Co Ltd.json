@@ -1,0 +1,30 @@
+{
+    "name": "Aperia Solutions Vietnam Co Ltd",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/723/aperia-solutions-vietnam-co-ltd-logo-170-151.png?1454112791",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[Urgent]Front End Developer (HTML,CSS,JS",
+            "link": "https://itviec.com/it-jobs/urgent-front-end-developer-html-css-js-aperia-solutions-vietnam-co-ltd-0753",
+            "description": "We are waiting for you! If you love to create awesome UI from some lines of code that make user happy, let's join our team.  KEY RESPONSIBILITY: - You...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "[Urgent] - UX/UI Designer ",
+            "link": "https://itviec.com/it-jobs/urgent-ux-ui-designer-aperia-solutions-vietnam-co-ltd-5635",
+            "description": "• To interact with US Design Team in developing designs/wireframes in order to meet feature requirements in new/existing software systems. • To provide...",
+            "skills": [
+                "UI-UX",
+                "English",
+                "Designer"
+            ]
+        }
+    ]
+},

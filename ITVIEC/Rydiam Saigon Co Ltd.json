@@ -1,0 +1,20 @@
+{
+    "name": "Rydiam Saigon Co. Ltd.",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2267/rydiam-saigon-co-ltd-logo-170-151.jpg?1461914035",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (C#, .NET, SQL)",
+            "link": "https://itviec.com/it-jobs/software-developer-c-net-sql-rydiam-saigon-co-ltd-2715",
+            "description": " Responsible for the solutions for business logic challenges of development projects  Analyze system requirements and review specifications ...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

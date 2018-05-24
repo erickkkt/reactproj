@@ -1,0 +1,20 @@
+{
+    "name": "AGC-SSIER Việt Nam ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4132/agc-ssier-vi-t-nam-logo-170-151.jpg?1504576941",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-agc-ssier-viet-nam-1508",
+            "description": "Nội dung công việc: tham gia vào các dự án như ứng dụng mobile dùng cho hệ thống thu âm, hệ thống đa ngôn ngữ, dịch tự dộng, sử dụng AI ACTIS (đối với...",
+            "skills": [
+                "Mobile Apps",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

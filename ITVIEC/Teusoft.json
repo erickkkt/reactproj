@@ -1,0 +1,20 @@
+{
+    "name": "Teusoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/805/teusoft-logo-170-151.png?1491368326",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior .NET developer - Up to 1,500 USD",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-up-to-1-500-usd-teusoft-4123",
+            "description": "Building web solution based on .NET C#",
+            "skills": [
+                "SQL",
+                "AngularJS",
+                ".NET"
+            ]
+        }
+    ]
+},

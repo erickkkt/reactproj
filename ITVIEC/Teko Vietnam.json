@@ -1,0 +1,20 @@
+{
+    "name": "Teko Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3590/teko-vietnam-logo-170-151.png?1494503231",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Senior QC Lead",
+            "link": "https://itviec.com/it-jobs/senior-qc-lead-teko-vietnam-5859",
+            "description": "Tham gia thiết kế và viết test plan, test case, test procedure để đảm bảo tính ổn định, bảo mật tốt của phần mềm Thực hiện kiểm thử tính năng ở các cấp...",
+            "skills": [
+                "Team Leader",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

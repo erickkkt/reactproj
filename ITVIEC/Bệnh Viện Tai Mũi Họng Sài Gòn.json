@@ -1,0 +1,20 @@
+{
+    "name": "Bệnh Viện Tai Mũi Họng Sài Gòn",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4170/b-nh-vi-n-tai-mui-h-ng-sai-gon-logo-170-151.png?1505981786",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên .Net",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-net-benh-vien-tai-mui-hong-sai-gon-2407",
+            "description": "- Phát triển các dự án phần mềm trên nền tảng C# và MS SQL- Kiểm thử phần mềm sau khi dự án hoàn tất- Nghiên cứu các công nghệ mới để ứng dụng vào phần...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

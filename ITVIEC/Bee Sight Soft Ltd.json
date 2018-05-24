@@ -1,0 +1,20 @@
+{
+    "name": "Bee Sight Soft Ltd.,",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/469/bee-sight-soft-ltd-logo-170-151.jpg?1499697591",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "iOS (Obj-C/Swift) Developer",
+            "link": "https://itviec.com/it-jobs/ios-obj-c-swift-developer-bee-sight-soft-ltd-1811",
+            "description": "We are looking for top talent iOS (Obj-C/Swift) developers to join our team. You must be proactive, detail-oriented and having a passion in new...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

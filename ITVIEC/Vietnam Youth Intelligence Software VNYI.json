@@ -1,0 +1,30 @@
+{
+    "name": "Vietnam Youth Intelligence Software (VNYI)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/878/vietnam-youth-intelligence-software-vnyi-logo-170-151.png?1454113341",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Support Technical (ERP, SQL)",
+            "link": "https://itviec.com/it-jobs/erp-development-specialist-sql-vietnam-youth-intelligence-software-vnyi-3453",
+            "description": "Mô tả công việc:  Học về sản phẩm phần mềm quản lý nhà hàng và bán lẻ Học về quy trình triển khai và thực hiện theo quy trình triển khai Học về các...",
+            "skills": [
+                "Database",
+                "SQL",
+                "ERP"
+            ]
+        },
+        {
+            "name": "03 Web/App Developers (C#, ASP.NET, SQL)",
+            "link": "https://itviec.com/it-jobs/03-web-app-developers-c-asp-net-sql-vietnam-youth-intelligence-software-vnyi-3044",
+            "description": "Tham gia phát triển các dự án phần mềm quản trị doanh nghiệp, hệ thống nhà hàng, chuỗi bán lẻ…của công ty Phối hợp với bộ phẩn triển khai để triển khai...",
+            "skills": [
+                "C#",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

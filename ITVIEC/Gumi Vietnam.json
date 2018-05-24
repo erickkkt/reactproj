@@ -1,0 +1,40 @@
+{
+    "name": "Gumi Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/855/gumi-vietnam-logo-170-151.jpg?1476873954",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Devops Engineer(Git,Linux/Unix OS)",
+            "link": "https://itviec.com/it-jobs/devops-engineer-git-linux-unix-os-gumi-vietnam-5615",
+            "description": "Deploying, automating, maintaining and managing AWS cloud based production system, to ensure the availability, performance, scalability and security of...",
+            "skills": [
+                "Python",
+                "Linux",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Python Developer Members ",
+            "link": "https://itviec.com/it-jobs/python-developer-members-gumi-vietnam-4728",
+            "description": "We are looking for experienced Developers with experience in Python. This position will play the primary role to deliver high-quality projects to our...",
+            "skills": [
+                "Python",
+                "Ruby on Rails",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Javascript Developer (AngularJS/ReactJS)",
+            "link": "https://itviec.com/it-jobs/javascript-developer-angularjs-reactjs-gumi-vietnam-2022",
+            "description": "We are looking for experienced Developers with experience in Javascript This position will play the primary role to deliver high-quality projects to our...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Truyền Thông World News Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3795/truy-n-thong-world-news-vi-t-nam-logo-170-151.png?1496480618",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-truyen-thong-world-news-viet-nam-3156",
+            "description": "- Phát triển các tính năng, web services realtime có hiệu năng cao, có thể scale. - Duy trì và tối ưu code để dịch vụ ổn định, tin cậy, nhanh chóng. -...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Web/App Designer",
+            "link": "https://itviec.com/it-jobs/web-app-designer-truyen-thong-world-news-viet-nam-3120",
+            "description": "- Thiết kế các ấn phầm truyền thông, logo banner, bộ nhận diện thương hiệu, landingpage, hình ảnh.",
+            "skills": [
+                "HTML5",
+                "Mobile Apps",
+                "Designer"
+            ]
+        }
+    ]
+},

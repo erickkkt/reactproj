@@ -1,0 +1,20 @@
+{
+    "name": "RightMarket VietNam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3833/rightmarket-vietnam-logo-170-151.png?1497338808",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full Stack Senior .NET Developer /Tester",
+            "link": "https://itviec.com/it-jobs/full-stack-senior-net-developer-tester-rightmarket-vietnam-3252",
+            "description": "We are looking for committed, talented and experienced Full Stack Senior .NET Developers/ Testers to join our young and dynamic team in Ho Chi Minh City...",
+            "skills": [
+                "OOP",
+                "AngularJS",
+                ".NET"
+            ]
+        }
+    ]
+},

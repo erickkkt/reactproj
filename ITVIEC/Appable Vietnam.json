@@ -1,0 +1,20 @@
+{
+    "name": "Appable Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1029/appable-vietnam-logo-170-151.jpg?1493728195",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Data Scientist (Python, C++, Java)",
+            "link": "https://itviec.com/it-jobs/data-scientist-appable-vietnam-3559",
+            "description": "We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you...",
+            "skills": [
+                "Python",
+                "C++",
+                "Java"
+            ]
+        }
+    ]
+},

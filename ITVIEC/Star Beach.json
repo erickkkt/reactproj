@@ -1,0 +1,20 @@
+{
+    "name": "Star Beach",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3741/star-beach-logo-170-151.png?1495192709",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Chuyên Viên Lập Trình Web",
+            "link": "https://itviec.com/it-jobs/chuyen-vien-lap-trinh-web-star-beach-1915",
+            "description": "Lập trình web site cho Công ty và các đơn vị thành viên. Các công việc khác sẽ được trao đổi trong buổi phỏng vấn. ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        }
+    ]
+},

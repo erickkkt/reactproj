@@ -1,0 +1,20 @@
+{
+    "name": "Nhatrang Hitech company",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1364/nhatrang-hitech-company-logo-170-151.jpg?1452224235",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Software Engineer (.NET, C#, SQL)",
+            "link": "https://itviec.com/it-jobs/software-engineer-net-c-sql-nhatrang-hitech-company-0414",
+            "description": "Hiện tại chúng tôi đang có nhu cầu tìm kiếm ứng viên cho vị trí Software Engineer để phát triển các dự án của công ty. Số lượng tuyển dụng: 5 người Sinh...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

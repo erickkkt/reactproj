@@ -1,0 +1,20 @@
+{
+    "name": "GOHA",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4120/goha-logo-170-151.png?1504173579",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web PHP Developer",
+            "link": "https://itviec.com/it-jobs/web-php-developer-goha-0252",
+            "description": "Lập trình và phát triển ứng dụng web, web service trên nền tảng PHP Tham gia nghiên cứu và ứng dụng các công nghệ mã nguồn mở vào Ecommerce Phát triển...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

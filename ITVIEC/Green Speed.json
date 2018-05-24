@@ -1,0 +1,19 @@
+{
+    "name": "Green Speed",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4124/green-speed-logo-170-151.png?1504250124",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Database Administrator (ERP)",
+            "link": "https://itviec.com/it-jobs/database-administrator-erp-green-speed-0815",
+            "description": "Kiểm tra hệ thống cơ sở dữ liệu khi phát hiện lỗi Tiến hành khắc phục khi có lỗi xảy ra Đảm bảo hệ thống vận hành thông suốt Trích xuất dữ liệu trong hệ...",
+            "skills": [
+                "Database",
+                "ERP"
+            ]
+        }
+    ]
+},

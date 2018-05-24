@@ -1,0 +1,28 @@
+{
+    "name": "NTT Data Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/240/ntt-data-vietnam-logo-170-151.png?1466061972",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Java Developer in Hanoi, Danang, HCM",
+            "link": "https://itviec.com/it-jobs/java-developer-in-hanoi-danang-hcm-ntt-data-vietnam-1556",
+            "description": "- Contribute to all aspects of the product development process, from specification and design, throughout integration, release. - Participate in the...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "PHP Developer (03 positions in HCMC)",
+            "link": "https://itviec.com/it-jobs/php-developer-in-ho-chi-minh-city-ntt-data-vietnam-3235",
+            "description": "• Work in dynamic and forward thinking teams in software development projects. Design, code, debug, test components, modules.• Join projects with...",
+            "skills": [
+                "PHP"
+            ]
+        }
+    ]
+},

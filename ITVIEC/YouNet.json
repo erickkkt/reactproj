@@ -1,0 +1,30 @@
+{
+    "name": "YouNet",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/45/younet-logo-170-151.jpg?1472110016",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Business Analyst Manager",
+            "link": "https://itviec.com/it-jobs/business-analyst-manager-younet-4108",
+            "description": "YouNetCo is a member of YouNet Group (www.younet.co) , focusing on providing customer engagement platform and services. YouNetCo is the top provider of...",
+            "skills": [
+                "Project Manager",
+                "Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "PHP Engineer (MySQL, JavaScript)",
+            "link": "https://itviec.com/it-jobs/php-engineer-younet-2717",
+            "description": "RESPONSIBILITIES   Work in social projects with tasks assigned by Project Manager Support other engineers Participate to all phases in product...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

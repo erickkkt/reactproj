@@ -1,0 +1,30 @@
+{
+    "name": "Hoang Duong Trading & Service",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1275/hoang-duong-trading-service-logo-170-151.png?1452223777",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Magento Developer",
+            "link": "https://itviec.com/it-jobs/magento-developer-hoang-duong-trading-service-5527",
+            "description": "1. Duy trì, quản lý và theo dõi backend web:  Thực hiện các công việc Coding website, module, software, application, extention. Xử lý phát sinh lỗi...",
+            "skills": [
+                "HTML5",
+                "Magento",
+                "PHP"
+            ]
+        },
+        {
+            "name": "System Admin (Linux)",
+            "link": "https://itviec.com/it-jobs/system-admin-linux-hoang-duong-trading-service-2550",
+            "description": "Cài đặt, quản trị và duy trì các server Linux (Webserver, Mail server, Tools monitor) Cài đặt và quản trị các máy chủ ảo trên hệ thống Theo dõi hiệu...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "IT Support"
+            ]
+        }
+    ]
+},

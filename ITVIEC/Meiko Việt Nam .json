@@ -1,0 +1,20 @@
+{
+    "name": "Meiko Việt Nam ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2291/meiko-vi-t-nam-logo-170-151.png?1482517595",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Database Developer (ERP, Oracle)",
+            "link": "https://itviec.com/it-jobs/database-developer-erp-oracle-meiko-viet-nam-5811",
+            "description": "- Quản lý, thúc đẩy các hệ thống phần mềm trong nhà máy (ERP).  Quản lý, phát triển hệ thống cơ sở dữ liệu Oracle.  Cùng đồng nghiệp nghiên cứu phương...",
+            "skills": [
+                "Database",
+                "ERP",
+                "Oracle"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Empire Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4022/empire-group-logo-170-151.png?1501755749",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Admin",
+            "link": "https://itviec.com/it-jobs/system-admin-empire-group-0506",
+            "description": "- Hỗ trợ, hướng dẫn các đơn vị sử dụng các hệ thống phần mềm và vận hành.  Triển khai Server theo giải pháp, thiết lập và cấu hình an ninh, đảm bảo hệ...",
+            "skills": [
+                "System Admin",
+                "Database",
+                "Networking"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Scansia Pacific",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3184/scansia-pacific-logo-170-151.jpg?1484556231",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (.NET C#, Java)",
+            "link": "https://itviec.com/it-jobs/software-developer-net-c-java-scansia-pacific-2136",
+            "description": "Ứng viên chưa có kinh nghiệm đều có cơ hội ứng tuyển, chúng tôi sẽ đào tạo thêm nghiệp vụ. Chi tiết thêm sẽ được trao đổi thêm khi phỏng vấn Công ty sẽ...",
+            "skills": [
+                "C#",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

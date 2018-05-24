@@ -1,0 +1,20 @@
+{
+    "name": "OceanNet Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/24/oceannet-software-logo-170-151.png?1454113086",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developer (J2EE, Oracle)",
+            "link": "https://itviec.com/it-jobs/java-developer-oceannet-software-0134",
+            "description": "We are looking for a skilled Java Developer to join our ranks. The services we provide are all client-facing, so a high attention to usability and...",
+            "skills": [
+                "J2EE",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

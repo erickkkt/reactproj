@@ -1,0 +1,30 @@
+{
+    "name": "Quape Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2091/quape-vietnam-logo-170-151.png?1456980928",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "React Native JavaScript Dev (Mobile app)",
+            "link": "https://itviec.com/it-jobs/react-native-javascript-developer-quape-vietnam-2532",
+            "description": "Full time working at Hanoi Office from 9:00 AM to 6:00 PM (Monday to Friday) Work on outsourcing projects Work on internal projects, QUAPE's products ",
+            "skills": [
+                "Mobile Apps",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Full stack PHP Developer",
+            "link": "https://itviec.com/it-jobs/full-stack-php-developer-quape-vietnam-0213",
+            "description": "Full time working at Hanoi Office from 9:00 AM to 6:00 PM (Monday to Friday) Work on outsourcing projects Work on internal projects, QUAPE's products ",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

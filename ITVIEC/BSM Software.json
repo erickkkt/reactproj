@@ -1,0 +1,20 @@
+{
+    "name": "BSM Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1690/bsm-software-logo-170-151.png?1454113259",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Junior ASP.NET Developers (C#)",
+            "link": "https://itviec.com/it-jobs/02-junior-asp-net-developers-c-bsm-software-1146",
+            "description": "Lập trình hệ thống theo nhu cầu từng khách hàng, sử dụng ngôn ngữ ASP.NET, C#, Web API, MVC Tham gia vào quy trình phân tích thiết kế hệ thống Trực tiếp...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

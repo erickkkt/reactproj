@@ -1,0 +1,20 @@
+{
+    "name": "Cofeas Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3510/cofeas-vietnam-logo-170-151.png?1489654429",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developer (1,000$ - 2,000$ )",
+            "link": "https://itviec.com/it-jobs/php-developer-1-000-2-000-cofeas-vietnam-5713",
+            "description": "We (US based company) plan to establish remote/smart team in VN and currently seeking a PHP Web Developer (senior) to participate in on-going...",
+            "skills": [
+                "MySQL",
+                "English",
+                "PHP"
+            ]
+        }
+    ]
+},

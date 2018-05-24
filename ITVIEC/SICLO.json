@@ -1,0 +1,20 @@
+{
+    "name": "SICLO",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2338/siclo-logo-170-151.png?1488782488",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software tester",
+            "link": "https://itviec.com/it-jobs/software-tester-siclo-5016",
+            "description": "Behind every great application stands an even greater QC Team. Testers set the final standard for the app look & feel, and protect the user...",
+            "skills": [
+                "Agile",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

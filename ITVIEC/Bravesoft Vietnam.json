@@ -1,0 +1,30 @@
+{
+    "name": "Bravesoft Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/322/bravesoft-vietnam-logo-170-151.jpg?1454113037",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior iOS/Android Engineer (~1200$)",
+            "link": "https://itviec.com/it-jobs/senior-ios-android-engineer-1200-bravesoft-vietnam-0706",
+            "description": "- Developing applications for Android smartphone using Java, Android SDK (Android Developer) or applications for iOS smartphone using Objective-C and...",
+            "skills": [
+                "Objective C",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "(Now) Node.js/Socket.io Talent (~2000$)",
+            "link": "https://itviec.com/it-jobs/now-node-js-socket-io-talent-2000-bravesoft-vietnam-3953",
+            "description": "- Developing Web Application (Frontend, Backend, Chat Service), APIs systems;- Working under the division of Project Manager;- Assuring the progress of...",
+            "skills": [
+                "AngularJS",
+                "NodeJS",
+                "PHP"
+            ]
+        }
+    ]
+},

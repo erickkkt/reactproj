@@ -1,0 +1,20 @@
+{
+    "name": "Quant Edge Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1253/quant-edge-corp-logo-170-151.jpg?1502441942",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "06 JavaScript Developers - Up to 18M",
+            "link": "https://itviec.com/it-jobs/06-javascript-developers-up-to-18m-quant-edge-corp-2947",
+            "description": "Lập trình JavaScript: viết chương trình, lập kế hoạch, thiết kế module chức năng, xây dựng công cụ cài đặt, viết thử nghiệm. Hỗ trợ triển khai các hệ...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        }
+    ]
+},

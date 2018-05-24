@@ -1,0 +1,20 @@
+{
+    "name": "Manifera Software Development",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1528/manifera-software-development-logo-170-151.png?1454112767",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-manifera-software-development-1238",
+            "description": "Chúng tôi đang tuyển vị trí lập trình viên website để làm dự án cho các khách hàng ở Singapore và châu Âu. Các hoạt động của bạn:  Phân tích yêu cầu dự...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

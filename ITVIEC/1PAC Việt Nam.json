@@ -1,0 +1,20 @@
+{
+    "name": "1PAC Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2167/1pac-vi-t-nam-logo-170-151.png?1500363803",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Front-end Developer (JavaScript, HTML)",
+            "link": "https://itviec.com/it-jobs/front-end-developer-javascript-html-1pac-viet-nam-0958",
+            "description": "We are actively looking for Front-End engineer to develop the our product for educational institutes in Japan and other countries, communicating with...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

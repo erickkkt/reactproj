@@ -1,0 +1,20 @@
+{
+    "name": "TMON",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2697/tmon-logo-170-151.png?1499326148",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Web Developer (MySQL, Agile)",
+            "link": "https://itviec.com/it-jobs/java-web-developer-mysql-agile-tmon-5549",
+            "description": "Chúng tôi đang tìm kiếm những kỹ sư IT có thể làm việc tại trung tâm R&D tại thành phố Hồ Chí Minh, Việt Nam.TMON là nhà cung cấp dịch vụ thương mại...",
+            "skills": [
+                "MySQL",
+                "Agile",
+                "Java"
+            ]
+        }
+    ]
+},

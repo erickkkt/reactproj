@@ -1,0 +1,19 @@
+{
+    "name": "American General Construction",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2245/american-general-construction-logo-170-151.png?1461213507",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "SQL Developer",
+            "link": "https://itviec.com/it-jobs/sql-developer-american-general-construction-4445",
+            "description": "- Tham gia triển khai xây dựng hệ thống phần mềm theo kế hoạch được phê duyệt- Tham gia triển khai chiến lược và chính sách Công nghệ thông tin (CNTT)...",
+            "skills": [
+                "Database",
+                "SQL"
+            ]
+        }
+    ]
+},

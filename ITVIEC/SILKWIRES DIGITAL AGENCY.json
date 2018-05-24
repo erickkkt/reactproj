@@ -1,0 +1,30 @@
+{
+    "name": "SILKWIRES DIGITAL AGENCY",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1437/silkwires-digital-agency-logo-170-151.jpg?1503551655",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Ruby on Rails Developer - $ 2000-3000",
+            "link": "https://itviec.com/it-jobs/ruby-on-rail-developer-attractive-salary-silkwires-digital-agency-4037",
+            "description": "You will work for a powerful and affordable social media monitoring and analytics solution. Based on a search engine that monitors all types of sources...",
+            "skills": [
+                "MySQL",
+                "Ruby on Rails",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "03 PHP Developers (MySQL) Up to $1000",
+            "link": "https://itviec.com/it-jobs/2-sr-php-developers-mysql-up-to-1200-silkwires-digital-agency-5502",
+            "description": "Tham gia phát triển và xây dựng các chức năng những dự án Outsource, Web ứng dụng, phần mềm theo yêu cầu, ứng dụng trực tuyến cho khách hàng Châu Âu ,...",
+            "skills": [
+                "MySQL",
+                "Agile",
+                "PHP"
+            ]
+        }
+    ]
+},

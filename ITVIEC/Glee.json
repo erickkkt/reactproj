@@ -1,0 +1,30 @@
+{
+    "name": "Glee",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2231/glee-logo-170-151.png?1460865681",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-glee-1212",
+            "description": "Lập trình web PHP. Thiết kế, xây dựng, triển khai các dự án sản phẩm của công ty. Chịu trách nhiệm về tiến độ và kết quả công việc được giao. ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Front-end Dev (JavaScript, CSS, HTML5)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-javascript-css-html5-glee-1126",
+            "description": "Tham gia phát triển các sản phẩm của công ty Tìm hiểu các công nghệ mới và đề xuất áp dụng và công việc Tham gia các buổi đào tạo chuyên môn của công ty ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

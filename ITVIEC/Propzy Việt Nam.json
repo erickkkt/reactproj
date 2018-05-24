@@ -1,0 +1,30 @@
+{
+    "name": "Propzy Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1982/propzy-vi-t-nam-logo-170-151.png?1454113573",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "15 Full-Stack Java Developers",
+            "link": "https://itviec.com/it-jobs/15-full-stack-java-developers-propzy-viet-nam-1905",
+            "description": "Làm việc trực tiếp với đội ngũ phát triển ý tưởng để có và hiểu được requirement Phân tích và thiết kế cơ sở dữ liệu, xây dựng project phía máy chủ để...",
+            "skills": [
+                "MySQL",
+                "Team Leader",
+                "Java"
+            ]
+        },
+        {
+            "name": "15 Full-Stack PHP Developers",
+            "link": "https://itviec.com/it-jobs/15-full-stack-php-developers-propzy-viet-nam-1858",
+            "description": "Xây dựng, phát triển và bảo trì web service cho website và các ứng dụng mobile của công ty dựa trên nền tảng Java, PHP, HTML5, Jquery, CSS. Phân tích và...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

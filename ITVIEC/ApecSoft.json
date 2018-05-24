@@ -1,0 +1,30 @@
+{
+    "name": "ApecSoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4180/apecsoft-logo-170-151.png?1506179416",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web and Mobile App Designer",
+            "link": "https://itviec.com/it-jobs/web-and-mobile-app-designer-apecsoft-2252",
+            "description": "Làm việc với các dự án Web – App – Phần mềm trong nước và quốc tế Thiết kế UI cho Web – App – Phần mềm theo yêu cầu của khách hàng Thiết kế graphic cho...",
+            "skills": [
+                "Mobile Apps",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Web Developer (HTML, CSS, JavaScript)",
+            "link": "https://itviec.com/it-jobs/web-developer-html-css-javascript-apecsoft-2009",
+            "description": "Cắt giao diện website từ file thiết kế photoshop (PSD) thành HTML/CSS, Phối hợp với team Back-end để triển khai giao diện website cho sản phẩm Triển...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

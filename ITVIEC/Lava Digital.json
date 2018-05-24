@@ -1,0 +1,20 @@
+{
+    "name": "Lava Digital",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3735/lava-digital-logo-170-151.png?1495180635",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front-end Developer (HTML5, JavaScript)",
+            "link": "https://itviec.com/it-jobs/front-end-developer-html5-javascript-lava-digital-5417",
+            "description": "+ Quản trị, thiết lập, theo dõi chiến dịch quảng cáo digital. + Hỗ trợ về mặt kỹ thuật cho các bộ phận khác khi làm việc với khách hàng hoặc đối tác. +...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

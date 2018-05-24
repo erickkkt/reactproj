@@ -1,0 +1,20 @@
+{
+    "name": "BMI SYSTEM",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/576/bmi-system-logo-170-151.jpg?1504693702",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Experienced PHP Developers",
+            "link": "https://itviec.com/it-jobs/02-experienced-php-developers-bmi-system-3510",
+            "description": "We are looking for an experienced PHP Developer to reinforce our team at the office in Hanoi Vietnam. Within a team of developers, you will work in...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

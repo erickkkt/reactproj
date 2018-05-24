@@ -1,0 +1,40 @@
+{
+    "name": "Sun Life Financial",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4053/sun-life-financial-logo-170-151.jpeg?1502444912",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Java Development Analyst",
+            "link": "https://itviec.com/it-jobs/java-development-analyst-sun-life-financial-4041",
+            "description": "Job Purpose - Responsible for analysing and designing new IT solutions, modifying, enhancing or adapting existing systems and integrating new features...",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior System Business Analyst ",
+            "link": "https://itviec.com/it-jobs/senior-system-business-analyst-sun-life-financial-3928",
+            "description": "1. Understand the business requirements then document into respective specifications; study user's requirements, acceptance criteria, software...",
+            "skills": [
+                "English",
+                "Project Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Senior Project Manager",
+            "link": "https://itviec.com/it-jobs/senior-project-manager-sun-life-financial-5353",
+            "description": "Job purpose:• As a Project Manager in Sun Life's IT organization, the incumbent will be responsible for planning, managing, and implementing projects in...",
+            "skills": [
+                "Agile",
+                "Project Manager",
+                "Manager"
+            ]
+        }
+    ]
+},

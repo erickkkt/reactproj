@@ -1,0 +1,30 @@
+{
+    "name": "Cybozu",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/212/cybozu-logo-170-151.jpg?1454113358",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Developer -PHP,JavaScript,MySQL",
+            "link": "https://itviec.com/it-jobs/software-developer-php-javascript-mysql-cybozu-5529",
+            "description": "This position focuses on web application and web cloud services software development, including design and implementation of scalable web server and...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Software QA Engineer",
+            "link": "https://itviec.com/it-jobs/software-qa-engineer-cybozu-5230",
+            "description": "This position focuses on assuring the quality of our web application and web cloud services, including:   Designing test plans, test cases, test reports...",
+            "skills": [
+                "Database",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

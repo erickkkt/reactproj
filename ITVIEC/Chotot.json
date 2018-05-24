@@ -1,0 +1,39 @@
+{
+    "name": "Chotot",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/163/chotot-logo-170-151.png?1462442573",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Frontend Developer (JavaScript/ReactJS)",
+            "link": "https://itviec.com/it-jobs/frontend-developer-javascript-reactjs-chotot-5540",
+            "description": "Position Summary:  We are looking for a dynamic and talented JavaScript developer who is proficient with React.js to join our core web development team...",
+            "skills": [
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Data Engineer",
+            "link": "https://itviec.com/it-jobs/data-engineer-chotot-2212",
+            "description": "We are looking for curious and talented data engineer who have great passion and interest in building and working in the fast growing Internet...",
+            "skills": [
+                "Python",
+                "SQL",
+                "PostgreSql"
+            ]
+        },
+        {
+            "name": "Senior Backend Developer (Java/Python)",
+            "link": "https://itviec.com/it-jobs/senior-backend-developer-java-python-chotot-0456",
+            "description": "We are currently looking for a creative and talented individual with a passion for technology to enhance and drive up the reliability, and satisfaction...",
+            "skills": [
+                "Python",
+                "C language",
+                "Java"
+            ]
+        }
+    ]
+},

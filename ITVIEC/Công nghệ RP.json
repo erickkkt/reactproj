@@ -1,0 +1,20 @@
+{
+    "name": "Công nghệ RP",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3483/cong-ngh-rp-logo-170-151.png?1494908263",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "(Urgent) 05 Java Developers up to 20 mil",
+            "link": "https://itviec.com/it-jobs/urgent-05-java-developers-cong-nghe-rp-5503",
+            "description": "- Lập trình các ứng dụng, dịch vụ bằng ngôn ngữ Java - Thiết kế các công cụ phát triển, các giải pháp công nghệ, định hướng phát triển cho sản phẩm. -...",
+            "skills": [
+                "OOP",
+                "SQL",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Kaizen Innotek",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3978/kaizen-innotek-logo-170-151.png?1500623304",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-kaizen-innotek-5318",
+            "description": "Sẽ trao đổi chi tiết trong buổi phỏng vấn. ",
+            "skills": [
+                "MySQL",
+                "MVC",
+                "PHP"
+            ]
+        }
+    ]
+},

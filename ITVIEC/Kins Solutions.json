@@ -1,0 +1,20 @@
+{
+    "name": "Kins Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2081/kins-solutions-logo-170-151.jpg?1456734242",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Developer (MEAN/Laravel/Wordpress)",
+            "link": "https://itviec.com/it-jobs/web-developer-mean-laravel-wordpress-kins-solutions-5028",
+            "description": "We are looking for a Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation...",
+            "skills": [
+                "NodeJS",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

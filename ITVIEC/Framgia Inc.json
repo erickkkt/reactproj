@@ -1,0 +1,90 @@
+{
+    "name": "Framgia Inc.",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/452/framgia-inc-logo-170-151.png?1502939554",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "【～$2500】BrSE - Kỹ sư cầu nối",
+            "link": "https://itviec.com/it-jobs/2500-brse-ky-su-cau-noi-framgia-inc-0730",
+            "description": "Bạn giỏi tiếng Nhật và yêu thích công nghệ thông tin? Bạn muốn tham gia tạo nên những sản phẩm phần mềm hàng đầu thế giới? Hãy tới làm việc...",
+            "skills": [
+                "Japanese",
+                "Bridge Engineer",
+                "Java"
+            ]
+        },
+        {
+            "name": "【～$1500】C++ Developer",
+            "link": "https://itviec.com/it-jobs/1500-c-developer-framgia-inc-0539",
+            "description": "Framgia cần tuyển những lập trình viên C++ nhiệt tình, chuyên nghiệp, không chỉ tham gia phát triển ứng dụng cho các đối tác hàng đầu Nhật Bản mà còn...",
+            "skills": [
+                "OOP",
+                "C++",
+                "C language"
+            ]
+        },
+        {
+            "name": "【～$1500】 Ruby on Rails Developer",
+            "link": "https://itviec.com/it-jobs/1500-ruby-on-rails-developer-framgia-inc-4637",
+            "description": "Đam mê với Ruby on Rails và có khả năng phát triển các ứng dụng web có sự tương tác dày đặc giữa server và người dùng bằng framework này Ở phía server,...",
+            "skills": [
+                "Ruby on Rails",
+                "MVC",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "【～$1500】iOS Developer",
+            "link": "https://itviec.com/it-jobs/1500-ios-developer-framgia-inc-3514",
+            "description": "- Tham gia phân tích requirement, thiết kế hệ thống.  Tham gia vào các dự án outsource với nhiều đối tác lớn (như nhật bản …).  Tham gia vào phát triển...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "【～$1500】Android Developer (Urgent)",
+            "link": "https://itviec.com/it-jobs/1500-android-developer-urgent-framgia-inc-3352",
+            "description": "- Tham gia vào các dự án phần mềm với những doanh nghiệp hàng đầu Nhật Bản.  Xây dụng các apps trên Android, tìm hiểu các công nghệ mới.  Tham gia vào...",
+            "skills": [
+                "MVC",
+                "PHP",
+                "Android"
+            ]
+        },
+        {
+            "name": "【～$1500】NodeJS Developer",
+            "link": "https://itviec.com/it-jobs/1500-nodejs-developer-framgia-inc-3202",
+            "description": "- Có kinh nghiệm phát triển dụng ứng dụng sử dụng REST API- Có kinh nghiệm với Python và các framework: Django, Flask- Có kinh nghiệm quản trị DB:...",
+            "skills": [
+                "Django",
+                "AngularJS",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "【～$1000】 UI/UX Designer (Urgent)",
+            "link": "https://itviec.com/it-jobs/1000-ui-ux-designer-urgent-framgia-inc-3120",
+            "description": "Tham gia trực tiếp vào quá trình phát triển sản phẩm, thiết kế UI/UX cho App, Website, Systerm và các sản phẩm khác theo tiêu chí thân thiện với người...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "【～$1500】PHP Developer",
+            "link": "https://itviec.com/it-jobs/1500-php-developer-framgia-inc-3039",
+            "description": "- Sử dụng CodeIgniter / Laravel để hack server và tạo ra các ứng dụng vừa nhanh vừa đẹp tới tay người dùng. - Nếu bạn có khả năng viết code clean với...",
+            "skills": [
+                "MySQL",
+                "MVC",
+                "PHP"
+            ]
+        }
+    ]
+},

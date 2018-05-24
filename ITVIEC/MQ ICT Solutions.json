@@ -1,0 +1,30 @@
+{
+    "name": "MQ ICT Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1263/mq-ict-solutions-logo-170-151.png?1454113155",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 PHP Developers",
+            "link": "https://itviec.com/it-jobs/03-php-developers-mq-ict-solutions-3121",
+            "description": "Nhận yêu cầu thiết kế module,chức năng từ Teamleader, độc lập hay kết hợp với các member khác phát triển Web service/Website/Server. Nghiên cứu các công...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "03 Embedded Engineer (C language, C++)",
+            "link": "https://itviec.com/it-jobs/03-embedded-engineer-c-language-c-mq-ict-solutions-3015",
+            "description": "Tham gia vào dự án phát triển hệ thống nhúng của các khách hàng Nhật Bản (IOT, M2M) Phân tích yêu cầu, thiết kế và lập trình fpga, device driver,...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,28 @@
+{
+    "name": "Android Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2024/android-vi-t-nam-logo-170-151.jpg?1472466119",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 React Native Developers",
+            "link": "https://itviec.com/it-jobs/03-react-native-developers-android-viet-nam-4950",
+            "description": "React Native làm các sản phẩm ứng dụng cạnh tranh với các sản phẩm nước ngoài.    Mô Tả Công Việc   Tham gia thiết kế và lập trình các giải pháp liên...",
+            "skills": [
+                "Mobile Apps",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "03 Android Developers",
+            "link": "https://itviec.com/it-jobs/03-android-developers-android-viet-nam-4727",
+            "description": "Tham gia thiết kế và lập trình các giải pháp liên quan các ứng dụng tools (Application photo, battery, weather...) trực tiêp cho người dùng Làm các sản...",
+            "skills": [
+                "Mobile Apps",
+                "Android"
+            ]
+        }
+    ]
+},

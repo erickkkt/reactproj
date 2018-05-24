@@ -1,0 +1,20 @@
+{
+    "name": "myScoop",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3860/myscoop-logo-170-151.png?1505847241",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior UI/ UX Designer (Art Leader)",
+            "link": "https://itviec.com/it-jobs/senior-designer-myscoop-1052",
+            "description": "We are looking for TOP professional graphic designer with marketing background and real experience (not less than 3 years) in UI/UX App & website...",
+            "skills": [
+                "UI-UX",
+                "English",
+                "Designer"
+            ]
+        }
+    ]
+},

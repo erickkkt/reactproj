@@ -1,0 +1,20 @@
+{
+    "name": "Sigma Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/594/sigma-solutions-logo-170-151.png?1454113611",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Senior iOS, Windows 10/Windows Phone Dev",
+            "link": "https://itviec.com/it-jobs/senior-ios-windows-10-windows-phone-dev-sigma-solutions-4854",
+            "description": "We are looking for ambitious, talented senior mobile developers who will join us to work on our many interesting and unique projects such as Social...",
+            "skills": [
+                "Mobile Apps",
+                "Windows Phone",
+                "iOS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Yojee",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4148/yojee-logo-170-151.png?1505181786",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "ReactJS Native Mobile Developer",
+            "link": "https://itviec.com/it-jobs/react-native-mobile-developer-yojee-2845",
+            "description": "We are seeking a mobile developer is a qualified candidate to join our Engineering team, to develop and maintain high-quality mobile applications and...",
+            "skills": [
+                "Mobile Apps",
+                "English",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Senior Backend Engineer (NodeJS, Ruby)",
+            "link": "https://itviec.com/it-jobs/senior-backend-engineer-yojee-2340",
+            "description": "We are seeking backend engineers that enjoy developing and designing backend services in a cloud platform environment. Attention to detail and...",
+            "skills": [
+                "NodeJS",
+                "Ruby",
+                "English"
+            ]
+        }
+    ]
+},

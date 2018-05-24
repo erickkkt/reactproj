@@ -1,0 +1,30 @@
+{
+    "name": "DMSpro",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1089/dmspro-logo-170-151.png?1465274083",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Business Analyst (BA)",
+            "link": "https://itviec.com/it-jobs/senior-business-analyst-ba-dmspro-1247",
+            "description": "Job brief    We are looking for a Business Analyst who will be the vital link between our information technology capacity and our business objectives by...",
+            "skills": [
+                "ERP",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Project Manager",
+            "link": "https://itviec.com/it-jobs/project-manager-dmspro-2713",
+            "description": "The reporting structure DMS Project Manager is a position in Delivery Division of DMSPro JSC. He/she will report to the Head of Delivery. The under...",
+            "skills": [
+                "ERP",
+                "English",
+                "Project Manager"
+            ]
+        }
+    ]
+},

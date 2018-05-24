@@ -1,0 +1,30 @@
+{
+    "name": "ICD Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4185/icd-vietnam-logo-170-151.png?1506334359",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "HTML Coder",
+            "link": "https://itviec.com/it-jobs/html-coder-icd-vietnam-4815",
+            "description": "Web Frontend development follow the project requirement",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JQuery"
+            ]
+        },
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-icd-vietnam-2801",
+            "description": "Collaboration with other developers, determine effective programming architectures, development strategies, and infrastructure choices to achieve...",
+            "skills": [
+                "MySQL",
+                "MVC",
+                "PHP"
+            ]
+        }
+    ]
+},

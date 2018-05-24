@@ -1,0 +1,20 @@
+{
+    "name": "Siten JSC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1862/siten-jsc-logo-170-151.png?1504837002",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Front-end Developers (HTML/CSS/ReactJS)",
+            "link": "https://itviec.com/it-jobs/3-front-end-developers-html-css-jquery-siten-jsc-3314",
+            "description": "Lập trình Web Frontend theo yêu cầu dự án Các đầu việc cần làm   Cắt HTML   Coding frontend   Unit Test (Unit Test C0)   Fix bug  ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Nissho Electronics",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3269/nissho-electronics-logo-170-151.jpg?1481773012",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "05 Junior Network Engineers",
+            "link": "https://itviec.com/it-jobs/05-junior-network-engineers-nissho-electronics-3647",
+            "description": "Nhằm phục vụ kế hoạch mở rộng quy mô trong năm 2017-2018, công ty Nissho Electronics Việt Nam (Công ty con của Nissho Electronics Japan, trực thuộc tập...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Networking"
+            ]
+        }
+    ]
+},

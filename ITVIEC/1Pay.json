@@ -1,0 +1,40 @@
+{
+    "name": "1Pay",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2974/1pay-logo-170-151.jpg?1502351132",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Database Adminstrator (Linux/ SQL)",
+            "link": "https://itviec.com/it-jobs/database-adminstrator-linux-sql-1pay-5504",
+            "description": "Proactively monitor and resolve production issues: you will troubleshoot and resolve production issues such as performance, optimization, failover and...",
+            "skills": [
+                "Linux",
+                "Database",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Product Owner/Senior Business Analyst",
+            "link": "https://itviec.com/it-jobs/product-owner-senior-business-analyst-1pay-2124",
+            "description": "Contribute to technology strategy and roadmaps for product lines Be internal expert of Products/Services Elicit business and functional requirements...",
+            "skills": [
+                "Mobile Apps",
+                "Linux",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "10 Java Developers ~$1000",
+            "link": "https://itviec.com/it-jobs/10-java-developers-1000-1pay-3316",
+            "description": "- Tham gia phân tích, thiết kế, phát triển ứng dụng về cổng thanh toán trực truyến và dịch vụ tài chính trên ngôn ngữ lập trình Java;- Thu thập yêu cầu,...",
+            "skills": [
+                "MySQL",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

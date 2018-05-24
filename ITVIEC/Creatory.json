@@ -1,0 +1,20 @@
+{
+    "name": "Creatory",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3937/creatory-logo-170-151.png?1499396545",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "FullStack Developer (JavaScript, Python)",
+            "link": "https://itviec.com/it-jobs/fullstack-developer-javascript-python-creatory-1115",
+            "description": "We are working on a service that brings celebrities closer to their fans. If you are interested in working on building the future of the entertainment...",
+            "skills": [
+                "Python",
+                "HTML5",
+                "JavaScript"
+            ]
+        }
+    ]
+},

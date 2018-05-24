@@ -1,0 +1,20 @@
+{
+    "name": "Alt Plus",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/494/alt-plus-logo-170-151.jpg?1454112764",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Front-end Leader (HTML/CSS/JavaScript)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-html-css-javascript-alt-plus-1313",
+            "description": "- Trao đổi trực tiếp với khách hàng để design, coding, chỉnh sửa front end của các hệ thống web system, mobile system - Nâng cấp, cải thiện các trang...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

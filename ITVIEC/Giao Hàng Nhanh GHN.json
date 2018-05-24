@@ -1,0 +1,50 @@
+{
+    "name": "Giao Hàng Nhanh (GHN)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/888/giao-hang-nhanh-ghn-logo-170-151.png?1501657948",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior QC",
+            "link": "https://itviec.com/it-jobs/senior-qc-giao-hang-nhanh-ghn-4642",
+            "description": "Develop test cases, test plan and execute test case Review requirements working with team members Perform a logical analysis of requirements Interact...",
+            "skills": [
+                "Java",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Senior Android Developer ",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-giao-hang-nhanh-ghn-4017",
+            "description": "Develop, maintain, document and release app for Android-based phones and Android-based tablets (KitKat+). For assigned projects, take overall...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "Sr. Backend Developer (Go, Python, Java)",
+            "link": "https://itviec.com/it-jobs/sr-backend-developer-go-python-java-giao-hang-nhanh-ghn-5742",
+            "description": "Collaborate with cross-functional teams to design, develop and ship new features. Provide REST API for client applications (web and mobile). Cooperate...",
+            "skills": [
+                "Python",
+                "SQL",
+                "Java"
+            ]
+        },
+        {
+            "name": "DevOps Engineer (Linux, Java, System)",
+            "link": "https://itviec.com/it-jobs/devops-engineer-linux-java-system-giao-hang-nhanh-ghn-3331",
+            "description": "Automating and managing the deployment processes using Continuous Integration and Continuous Delivery techniques. Deliver system management tooling to...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Java"
+            ]
+        }
+    ]
+},

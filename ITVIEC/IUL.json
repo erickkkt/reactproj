@@ -1,0 +1,30 @@
+{
+    "name": "IUL",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4157/iul-logo-170-151.png?1505552829",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-iul-1056",
+            "description": "Thiết kế giao diện các Website của công ty. Thiết kế banner, hình ảnh, video … hỗ trợ cho quá trình miêu tả và quảng bá sản phẩm cùng bộ phận Marketing...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Lập Trình Viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-iul-0910",
+            "description": "Tham gia triển khai các phần mềm dự án của công ty. Xây dựng và phát triển Web PHP. Chi tiết công việc sẽ trao đổi cụ thể khi phỏng vấn. ",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

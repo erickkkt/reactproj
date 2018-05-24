@@ -1,0 +1,20 @@
+{
+    "name": "AI&T",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/263/ai-t-logo-170-151.png?1469683245",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Junior Software Engineer (up to $1500)",
+            "link": "https://itviec.com/it-jobs/junior-software-engineer-up-to-1500-ai-t-4511",
+            "description": "In order to prepare for AI&T's expansion, we are looking for 10 Junior software Engineers who has graduated from university and would like to pursue...",
+            "skills": [
+                "C language",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

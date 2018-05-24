@@ -1,0 +1,30 @@
+{
+    "name": "Công ty TNHH Asean Fan",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2323/cong-ty-tnhh-asean-fan-logo-170-151.png?1504241764",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Android Developer ",
+            "link": "https://itviec.com/it-jobs/android-developer-cong-ty-tnhh-asean-fan-3117",
+            "description": "Bối cảnh tuyển dụng.   Để mở rộng hoạt động kinh doanh, công ty Asean Fan cần tuyển nhân viên Android Developers có ít nhất 2 năm kinh nghiệm trong lĩnh...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "Web Developer (PHP, Javascript, MySQL)",
+            "link": "https://itviec.com/it-jobs/web-full-stack-engineer-cong-ty-tnhh-asean-fan-1946",
+            "description": "Bối cảnh tuyển dụng.   Tuyển mộ Web professional Full stack Senior engineer có sự nhiệt tình trong công việc do cần mở rộng hoạt động kinh doanh. Web là...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

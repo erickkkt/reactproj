@@ -1,0 +1,30 @@
+{
+    "name": "Vinova",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/733/vinova-logo-170-151.png?1475462329",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Mobile App Developer (Android / iOS)",
+            "link": "https://itviec.com/it-jobs/mobile-app-developer-android-ios-vinova-2030",
+            "description": "You will be engaged in multiple Mobile Application projects from a wide range of industries from multiple countries, with lots of exciting challenges...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Web Developer - Ruby On Rails",
+            "link": "https://itviec.com/it-jobs/web-developer-ruby-on-rails-vinova-2016",
+            "description": "You will be engaged in multiple Web Application / Backend projects from a wide range of industries from multiple countries, with lots of exciting...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Ruby on Rails"
+            ]
+        }
+    ]
+},

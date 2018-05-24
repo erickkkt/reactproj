@@ -1,0 +1,20 @@
+{
+    "name": "Bee Tech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3111/bee-tech-logo-170-151.png?1503283388",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập trình web PHP và JAVA",
+            "link": "https://itviec.com/it-jobs/lap-trinh-web-php-va-java-bee-tech-3231",
+            "description": "PHP:+ Phát triển các ứng dụng trên nền web sử dụng ngôn ngữ PHP và MySQL             +Lập kế hoạch, phối hợp công việc với các thành viên khác trong...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

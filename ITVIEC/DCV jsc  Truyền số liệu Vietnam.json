@@ -1,0 +1,30 @@
+{
+    "name": "DCV jsc | Truyền số liệu Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2318/dcv-jsc-truy-n-s-li-u-vietnam-logo-170-151.png?1488170239",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "10 DOTNET DEVELOPER (Up to $1000)",
+            "link": "https://itviec.com/it-jobs/10-dotnet-developer-up-to-1000-dcv-jsc-truyen-so-lieu-vietnam-4237",
+            "description": "Phát triển, triển khai các ứng dung phần mềm, giải pháp phần mềm (trong lĩnh vực Ngân hàng - Tài chính,...) bằng các ngôn ngữ lập trình C#, VB .Net trên...",
+            "skills": [
+                "C#",
+                "Oracle",
+                ".NET"
+            ]
+        },
+        {
+            "name": "DCV chiêu mộ nhân tài Java",
+            "link": "https://itviec.com/it-jobs/dcv-chieu-mo-nhan-tai-java-dcv-jsc-truyen-so-lieu-vietnam-2718",
+            "description": "Phát triển sản phẩm phần mềm bằng một trong các ngôn ngữ java, c#, c , pl/sql Tham gia thiết kế sản phẩm và module phần mềm, phân tích thiết kế phần mềm...",
+            "skills": [
+                "MySQL",
+                "AngularJS",
+                "Java"
+            ]
+        }
+    ]
+},

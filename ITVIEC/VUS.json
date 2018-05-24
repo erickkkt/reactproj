@@ -1,0 +1,20 @@
+{
+    "name": "VUS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2165/vus-logo-170-151.gif?1458889672",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Software Developer (.NET, Java, SQL)",
+            "link": "https://itviec.com/it-jobs/software-developer-net-java-sql-vus-3829",
+            "description": "Hỗ trợ phần mềm   Cài đặt phần mềm, đào tạo hướng dẫn sử dụng phần mềm cho công ty. Hỗ trợ nhân viên khi có nhu cầu. Xử lý sự cố, khắc phục lỗi phần mềm...",
+            "skills": [
+                "SQL",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

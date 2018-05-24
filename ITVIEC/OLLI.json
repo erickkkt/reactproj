@@ -1,0 +1,20 @@
+{
+    "name": "OLLI",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3025/olli-logo-170-151.jpg?1505723158",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-olli-5830",
+            "description": "We are looking for an iOS developer to join our growing team of engineers and developers.  Responsibilities: 1. We are working hard to build a great...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

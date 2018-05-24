@@ -1,0 +1,30 @@
+{
+    "name": "WIZY",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3906/wizy-logo-170-151.png?1498811727",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Senior Full-stack Dev Java - Up to $1400",
+            "link": "https://itviec.com/it-jobs/senior-full-stack-dev-java-up-to-1400-wizy-1921",
+            "description": "Work with young, passionate people to build great web and mobile app with focus on quality and efficiently. Write awesome code, using latest...",
+            "skills": [
+                "C#",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior Web Front-end Dev - Up to $1200",
+            "link": "https://itviec.com/it-jobs/senior-web-front-end-dev-up-to-1200-wizy-2005",
+            "description": "Work with young, passionate people to build great web and mobile app with focus on quality and efficiently. Write awesome code, using latest...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        }
+    ]
+},

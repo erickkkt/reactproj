@@ -1,0 +1,20 @@
+{
+    "name": "Taisun Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3399/taisun-vietnam-logo-170-151.jpg?1485330958",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT Manager",
+            "link": "https://itviec.com/it-jobs/it-manager-taisun-vietnam-2838",
+            "description": "- Management systems and servers related to the internal network (such as email systems, accounts, printing, etc.) for the purpose of ensuring the...",
+            "skills": [
+                "ERP",
+                "Networking",
+                "Manager"
+            ]
+        }
+    ]
+},

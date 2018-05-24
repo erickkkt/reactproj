@@ -1,0 +1,30 @@
+{
+    "name": "BIDV Metlife",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2335/bidv-metlife-logo-170-151.jpg?1464230276",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT Manager",
+            "link": "https://itviec.com/it-jobs/it-manager-bidv-metlife-0251",
+            "description": "Summary of Responsibilities:    Delivering high quality, innovative, cost effective technology infrastructure solutions in support of the business and...",
+            "skills": [
+                "Team Leader",
+                "IT Support",
+                "Manager"
+            ]
+        },
+        {
+            "name": "IT Business Analyst",
+            "link": "https://itviec.com/it-jobs/it-business-analyst-bidv-metlife-0113",
+            "description": "- The role-holder works with internal & external customers in order to bridge between customer needs and IT development team making sure customer...",
+            "skills": [
+                "Tester",
+                "Business Analyst",
+                "QA QC"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "ITP Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3561/itp-vietnam-logo-170-151.png?1491557596",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Java/PHP developer (non-manager)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-java-php-itp-vietnam-5130",
+            "description": "Hiện nay ITP Việt Nam đang phát triển dự án “Hệ thống bán hàng kỹ thuật số”, tích hợp việc quản lý khách hàng; quản lý nhân sự với một số lượng lớn...",
+            "skills": [
+                "J2EE",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

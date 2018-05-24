@@ -1,0 +1,40 @@
+{
+    "name": "Dirox",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/102/dirox-logo-170-151.png?1454112699",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Ruby Developer",
+            "link": "https://itviec.com/it-jobs/ruby-developer-dirox-1341",
+            "description": "We are looking for a Ruby developer responsible for building Ruby applications, including anything from complex groups of back-end microservices to...",
+            "skills": [
+                "Ruby on Rails",
+                "MVC",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-dirox-3345",
+            "description": "Design, develop, test and deploy iOS mobile application from the ground up using Xcode, Objective-C, iOS SDK and other tools, libraries. Troubleshoot,...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Junior Unity 3D Developer",
+            "link": "https://itviec.com/it-jobs/junior-unity-3d-developer-dirox-1326",
+            "description": "Working in international, young, friendly and talented environment. Client is a singaporean marketing company. Team size: 10 members and expected to be...",
+            "skills": [
+                "UI-UX",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

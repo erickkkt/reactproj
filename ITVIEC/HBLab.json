@@ -1,0 +1,70 @@
+{
+    "name": "HBLab",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1669/hblab-logo-170-151.png?1487573607",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "02 Ruby on Rails Developer (Junior)",
+            "link": "https://itviec.com/it-jobs/02-ruby-on-rails-developer-fresher-hblab-3707",
+            "description": "Đam mê với Ruby on Rails và phát triển các sản phẩm web bằng framework này cho các khách hàng Nhật Bản Xây dựng kế hoạch và quản lý tiến độ lập trình...",
+            "skills": [
+                "Ruby on Rails",
+                "SQL",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "【Upto 1000$】05 PHP/ GOLANG Developers",
+            "link": "https://itviec.com/it-jobs/upto-1000-05-php-golang-developers-hblab-2442",
+            "description": "HBLab - Công ty IT trẻ đầy tiềm năng trong lĩnh vực dịch vụ phần mềm outsourcing   Trụ sở tại: Khu vực Duy Tân- Cầu Giấy- HNVăn hóa doanh nghiệp coi...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "02 iOS Developer - Salary ~ 1000$",
+            "link": "https://itviec.com/it-jobs/02-ios-developer-salary-1000-hblab-5232",
+            "description": "HBLab - Công ty IT trẻ đầy tiềm năng trong lĩnh vực dịch vụ phần mềm outsourcing   Trụ sở tại: Khu vực Duy Tân- Cầu Giấy- HNVăn hóa doanh nghiệp coi...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "【Upto 1000$】10 PHP Developers",
+            "link": "https://itviec.com/it-jobs/upto-1000-10-php-developers-hblab-2534",
+            "description": "Sử dụng ngôn ngữ PHP và Framework theo yêu cầu của khách hàng để code và tạo ra những hệ thống Web tối ưu cho người dùng Thực hiện coding (bao gồm cả...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Game Operation Manager (Vận hành Game)",
+            "link": "https://itviec.com/it-jobs/game-operation-manager-php-mysql-hblab-3934",
+            "description": "Triển khai kế hoạch vận hành có sẵn Test game, nắm rõ hệ thống đang hỗ trợ Theo dõi, tổng hợp tình hình lỗi game và phối hợp bộ phận liên quan để xử lý...",
+            "skills": [
+                "MySQL",
+                "Games",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Game Unity Dev - 1 năm KN (upto $1000)",
+            "link": "https://itviec.com/it-jobs/game-unity-developer-upto-1000-hblab-4057",
+            "description": "Phát triển các sản phẩm game 2D cho nền tảng di động Tham gia vào các dự án phát triển ứng dụng và game của khách hàng Phối hợp với các thành viên khác...",
+            "skills": [
+                "C#",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

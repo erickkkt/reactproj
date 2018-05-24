@@ -1,0 +1,50 @@
+{
+    "name": "Trams Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/617/trams-vietnam-logo-170-151.png?1501146125",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Project Leader (PHP,Java,My SQL) ~ $1800",
+            "link": "https://itviec.com/it-jobs/hn-project-leader-trams-vietnam-3957",
+            "description": "Manage software systems & web applications projects for international customers. Make a plan and design Development Project. Manage the schedule of...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Front-end Developer (HTML5,CSS) ~ $1000",
+            "link": "https://itviec.com/it-jobs/hn-front-end-developer-trams-vietnam-3749",
+            "description": "Develop software systems & web applications projects for international customers. Involve actively in the analysis of requirements. Perform unit,...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": " Mobile Developer (IOS/Android) ~ $1300",
+            "link": "https://itviec.com/it-jobs/hn-mobile-developer-trams-vietnam-3723",
+            "description": "Develop software systems & web applications projects for international customers. Involve actively in the analysis of requirements. Perform unit,...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "[HN] Server Developer (PHP,Java) ~$1300",
+            "link": "https://itviec.com/it-jobs/hn-server-developer-trams-vietnam-3636",
+            "description": "Develop software systems & web applications projects for international customers. Involve actively in the analysis of requirements. Perform unit,...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

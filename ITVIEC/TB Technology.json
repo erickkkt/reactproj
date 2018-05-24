@@ -1,0 +1,20 @@
+{
+    "name": "TB Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3500/tb-technology-logo-170-151.png?1489205473",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 Lập Trình Web ASP.NET MVC4 ",
+            "link": "https://itviec.com/it-jobs/05-lap-trinh-web-asp-net-mvc4-tb-technology-5743",
+            "description": "Chi tiết công việc sẽ được trao đổi trong buổi phỏng vấn ",
+            "skills": [
+                "MVC",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

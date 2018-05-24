@@ -1,0 +1,20 @@
+{
+    "name": "Anco Family Food",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3987/anco-family-food-logo-170-151.png?1500738254",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "C# .NET Developer",
+            "link": "https://itviec.com/it-jobs/c-net-developer-anco-family-food-5256",
+            "description": "Phụ trách:  1. Phần mềm kế toán FS, Online Office, Sales Uploads, Intranet 2. Website công ty 3. License windows, office.(Open license). · Lập trình...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

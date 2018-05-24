@@ -1,0 +1,30 @@
+{
+    "name": "QA Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/423/qa-solutions-logo-170-151.png?1479700515",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "5 .Net Developers (C#/SQL)",
+            "link": "https://itviec.com/it-jobs/5-net-developers-c-sql-qa-solutions-3618",
+            "description": "Làm việc với Business Team và QC Team để tham gia vào các dự án xây dựng phần mềm ERP quản lý Bệnh viện. Trao đổi thêm khi tham gia phỏng vấn. ",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "5 .Net Developers (C#/SQL)",
+            "link": "https://itviec.com/it-jobs/5-net-developers-c-sql-qa-solutions-3554",
+            "description": "Làm việc với Business Team và QC Team để tham gia vào các dự án xây dựng phần mềm ERP quản lý Bệnh viện. Trao đổi thêm khi tham gia phỏng vấn. ",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Outsourceit International Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/198/outsourceit-international-vietnam-logo-170-151.png?1454112486",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Junior IT Administrator",
+            "link": "https://itviec.com/it-jobs/it-administrator-outsourceit-international-vietnam-3505",
+            "description": "What you will do: - Setup, maintain, upgrade PCs, including both hardware and software - Setup and maintain LAN, WIFI and other related network hardware...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "IT Support"
+            ]
+        }
+    ]
+},

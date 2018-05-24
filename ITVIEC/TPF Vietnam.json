@@ -1,0 +1,30 @@
+{
+    "name": "TPF Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1704/tpf-vietnam-logo-170-151.png?1499643714",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "SQL Developer",
+            "link": "https://itviec.com/it-jobs/sql-developer-tpf-vietnam-5449",
+            "description": "The successful candidate will: - Work in international working environment with young and friendly colleagues. - Have chance to develop their skills...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "PHP / Magento Developer",
+            "link": "https://itviec.com/it-jobs/php-magento-developer-tpf-vietnam-4847",
+            "description": "We're looking for Senior and Junior PHP / Magento Web Developers to join our e-commerce and digital team. You will be responsible for implementing...",
+            "skills": [
+                "JavaScript",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

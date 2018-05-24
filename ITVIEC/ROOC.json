@@ -1,0 +1,20 @@
+{
+    "name": "ROOC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3893/rooc-logo-170-151.png?1498709565",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 PHP Developers (Wordpress, HTML, CSS)",
+            "link": "https://itviec.com/it-jobs/02-php-developers-wordpress-html-css-rooc-2747",
+            "description": "- Tham gia các dự án liên quan đến hệ thống.  Hỗ trợ các dự án front-end, wordpress.  Chi tiết Công việc sẽ trao đổi thêm trong quá trình phỏng vấn",
+            "skills": [
+                "HTML5",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

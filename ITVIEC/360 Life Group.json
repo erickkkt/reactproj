@@ -1,0 +1,20 @@
+{
+    "name": "360 Life Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3864/360-life-group-logo-170-151.png?1498121053",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "WordPress Developer (JavaScript, CSS)",
+            "link": "https://itviec.com/it-jobs/wordpress-developer-javascript-css-360-life-group-4041",
+            "description": "We are seeking a WordPress Developer responsible for both back-end and front-end development, including creating WordPress themes and plugins....",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "Wordpress"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,50 @@
+{
+    "name": "AdAsia Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3574/adasia-vietnam-logo-170-151.png?1492053067",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[~$1800] 01 Senior UX Designer [URGENT]",
+            "link": "https://itviec.com/it-jobs/1800-01-senior-ux-designer-urgent-adasia-vietnam-4207",
+            "description": "AdAsia' s products are the collection of latest technologies focusing on AI and Machine Learning for all our clients across Asia such as Vietnam,...",
+            "skills": [
+                "UI-UX",
+                "English",
+                "Designer"
+            ]
+        },
+        {
+            "name": "[HOT] Senior Python Engineer ",
+            "link": "https://itviec.com/it-jobs/hot-senior-python-engineer-adasia-vietnam-4440",
+            "description": "Our AdAsia Digital Platform is the collection of latest technologies in digital marketing field. Users of this web app are our clients in many countries...",
+            "skills": [
+                "Python",
+                "Database",
+                "English"
+            ]
+        },
+        {
+            "name": "[~$2000] Machine Learning Engineer (2)",
+            "link": "https://itviec.com/it-jobs/2000-machine-learning-engineer-2-adasia-vietnam-5023",
+            "description": "Our products are the combination of latest technologies. By analyzing big data using AI, we will be able to suggest WHEN to deliver WHAT type of Ads at...",
+            "skills": [
+                "Python",
+                "Database",
+                "English"
+            ]
+        },
+        {
+            "name": "[~$1200] 02 Frontend Engineers [Urgent]",
+            "link": "https://itviec.com/it-jobs/1700-02-frontend-engineers-urgent-adasia-vietnam-5354",
+            "description": "Our AdTech products are the collection of latest technologies in digital marketing and advertising in our product suite. Users of this web application...",
+            "skills": [
+                "CSS",
+                "AngularJS",
+                "English"
+            ]
+        }
+    ]
+},

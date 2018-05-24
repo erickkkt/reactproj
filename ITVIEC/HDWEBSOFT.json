@@ -1,0 +1,29 @@
+{
+    "name": "HDWEBSOFT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/725/hdwebsoft-logo-170-151.png?1499401649",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "5 Mobile Developers (iOS, Android) ",
+            "link": "https://itviec.com/it-jobs/5-mobile-developers-ios-android-hdwebsoft-2317",
+            "description": "- Develop iPhone/ Android application.  Analyze & suggest solution for specific situation/ requirement.",
+            "skills": [
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "05 Java Developers (J2EE, OOP)",
+            "link": "https://itviec.com/it-jobs/5-java-developers-hdwebsoft-5313",
+            "description": "Must have:   At least 2 years experience as a Java developer.  Excellent coding skill in Java, J2EE. Write and read English, basic English speaking....",
+            "skills": [
+                "OOP",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

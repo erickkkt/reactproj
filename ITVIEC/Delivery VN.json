@@ -1,0 +1,20 @@
+{
+    "name": "Delivery VN",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/195/delivery-vn-logo-170-151.png?1454112641",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Developer (C#, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/net-developer-c-asp-net-delivery-vn-4719",
+            "description": "• Đọc hiểu tài liệu thiết kế, hiểu nghiệp vụ yêu cầu xử lý.• Có khả năng đảm bảo chất lượng công việc cá nhân.• Báo cáo tiến độ kịp thời, biết cách xác...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

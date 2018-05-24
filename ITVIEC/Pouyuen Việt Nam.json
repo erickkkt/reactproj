@@ -1,0 +1,20 @@
+{
+    "name": "Pouyuen Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3187/pouyuen-vi-t-nam-logo-170-151.jpg?1480123432",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Junior Software Engineer (SAP)",
+            "link": "https://itviec.com/it-jobs/junior-software-engineer-sap-pouyuen-viet-nam-5528",
+            "description": "Bảo quản, vận hành, lắp đặt thiết bị Phát triển hệ thống, phân tích dữ liệu Hỗ trợ nhập hệ thống SAP Nội dung công việc sẽ được nói rõ hơn trong buổi...",
+            "skills": [
+                "System Engineer",
+                "Business Analyst",
+                "SAP"
+            ]
+        }
+    ]
+},

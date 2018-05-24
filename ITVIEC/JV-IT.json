@@ -1,0 +1,60 @@
+{
+    "name": "JV-IT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/355/jv-it-logo-170-151.jpg?1454112855",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "05 PHP Developers (up to 1000USD/month)",
+            "link": "https://itviec.com/it-jobs/05-php-developers-up-to-1000usd-month-jv-it-1332",
+            "description": "1. Xây dựng và phát triển website.2. Xây dựng kiến trúc và thiết kế các sản phẩm, tính năng mới.3. Cải tiến, nâng cao hiệu quả của những sản phẩm hiện có.",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Bridge Engineer (Up to $3000)",
+            "link": "https://itviec.com/it-jobs/bridge-engineer-up-to-3000-jv-it-1603",
+            "description": ". Trao đổi, liên lạc với phía Nhật Bản. . Hiểu yêu cầu của khách hàng và thiết kế theo yêu cầu. . Quản lý phát triển hệ thống. . Phát triển hệ thống...",
+            "skills": [
+                "Bridge Engineer",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "05 PHP Developers (up to 1000USD/month)",
+            "link": "https://itviec.com/it-jobs/05-php-developers-up-to-1000usd-month-jv-it-0146",
+            "description": "1. Xây dựng và phát triển website.2. Xây dựng kiến trúc và thiết kế các sản phẩm, tính năng mới.3. Cải tiến, nâng cao hiệu quả của những sản phẩm hiện có.",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Android Developer (up to 1000USD)",
+            "link": "https://itviec.com/it-jobs/tuyen-android-developer-up-to-1000usd-jv-it-1740",
+            "description": "- Có khả năng làm việc trên các hệ thống tích hợp theo yêu cầu khách hàng - Cộng tác, làm việc tốt với quản lý dự án và các thành viên trong nhóm để đưa...",
+            "skills": [
+                "JSON",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "2 Java Developer (Up to $1000)",
+            "link": "https://itviec.com/it-jobs/2-java-developer-up-to-1000-jv-it-0307",
+            "description": "- Tham gia phát triển các dự án trên nền tảng Java.  Vận hành và bảo trì các dự án theo yêu cầu công ty.",
+            "skills": [
+                "MySQL",
+                "SQL",
+                "Java"
+            ]
+        }
+    ]
+},

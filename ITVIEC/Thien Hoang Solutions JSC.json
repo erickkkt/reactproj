@@ -1,0 +1,60 @@
+{
+    "name": "Thien Hoang Solutions JSC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1971/thien-hoang-solutions-jsc-logo-170-151.png?1506484689",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 Android Developers (Java/MobileApps)",
+            "link": "https://itviec.com/it-jobs/05-android-developers-java-mobileapps-thien-hoang-corp-5541",
+            "description": "Có ít nhất 1 năm kinh nghiệm lập trình các ứng dụng Android bằng ngôn ngữ Java. Có kiến thức về lập trình OOP (Lập trình hướng đối tượng), SOAP &...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "5 iOS Developers (ObjectiveC/MobileApps)",
+            "link": "https://itviec.com/it-jobs/5-ios-developers-objectivec-mobileapps-thien-hoang-corp-5334",
+            "description": "Có ít nhất 1 năm kinh nghiệm lập trình các ứng dụng IOS bằng ngôn ngữ Swift. Có kiến thức về lập trình OOP (Lập trình hướng đối tượng), SOAP &...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "04 UI/UX Designers (HTML5, CSS)",
+            "link": "https://itviec.com/it-jobs/04-ui-ux-designers-html5-css-thien-hoang-corp-0209",
+            "description": "Tham gia trực tiếp vào quá trình phát triển sản phẩm, thiết kế UI/UX cho các Website, các phần mềm ứng dụng chạy trên PC và thiết bị di động theo tiêu...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Lập Trình Viên .NET",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-net-thien-hoang-corp-5227",
+            "description": "o Tham gia vào giai đoạn thiết kế phần mềmo Lập trình, phát triển các phần mềm trên nền Window Form, Webform APS.NET (C#), ADO.NET Entity Framework /...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Tester",
+            "link": "https://itviec.com/it-jobs/tester-thien-hoang-corp-5420",
+            "description": "o Phân tích yêu cầuo Thực hiện kiểm thửo Xây dựng tài liệu hướng dẫn sử dụngo Đào tạo sử dụng phần mềmo Hỗ trợ người dùng",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

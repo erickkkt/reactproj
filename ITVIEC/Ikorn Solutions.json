@@ -1,0 +1,40 @@
+{
+    "name": "Ikorn Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1404/ikorn-solutions-logo-170-151.jpg?1454112850",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Business Analyst - up to $1500",
+            "link": "https://itviec.com/it-jobs/business-analyst-up-to-1500-ikorn-solutions-2057",
+            "description": "Research up-to-date information about programming, data storage, and design trends. Understand the business users’ requirements for information,...",
+            "skills": [
+                "Database",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "IT Support",
+            "link": "https://itviec.com/it-jobs/it-support-ikorn-solutions-0713",
+            "description": "We are looking for talented, dynamic and skilled people to contribute to our success. By joining our team, you will get more than just a job with the...",
+            "skills": [
+                "System Admin",
+                "IT Support",
+                "Networking"
+            ]
+        },
+        {
+            "name": "02 PHP Leaders - Above $1500",
+            "link": "https://itviec.com/it-jobs/02-php-leaders-above-1500-ikorn-solutions-5251",
+            "description": "We are looking for talented, dynamic and skilled people to contribute to our success. By joining our team, you will get more than just a job with the...",
+            "skills": [
+                "Team Leader",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

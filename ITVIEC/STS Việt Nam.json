@@ -1,0 +1,20 @@
+{
+    "name": "STS Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4182/sts-vi-t-nam-logo-170-151.png?1506226482",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT Manager",
+            "link": "https://itviec.com/it-jobs/it-manager-sts-viet-nam-2035",
+            "description": "- Chịu trách nhiệm quản lý hệ thống sever chủ.  Quản lý và khắc phục sự cố Hệ thống mạng, máy tính văn phòng.  Quản lý và hệ thống thoại, hệ thống mail...",
+            "skills": [
+                "System Engineer",
+                "Networking",
+                "Manager"
+            ]
+        }
+    ]
+},

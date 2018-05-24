@@ -1,0 +1,30 @@
+{
+    "name": "FPT Shop",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3110/fpt-shop-logo-170-151.png?1478068616",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 Web Dev (JavaScript, ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/03-web-dev-javascript-asp-net-c-fpt-shop-3234",
+            "description": "Tham gia lập trình website FPTShop Phát triển các chương trình khuyến mại Lập trình hệ thống backend Chi tiết sẽ trao đổi khi phỏng vấn ",
+            "skills": [
+                "C#",
+                "JavaScript",
+                "ASP.NET"
+            ]
+        },
+        {
+            "name": "iOS Developer ($500 - $1000)",
+            "link": "https://itviec.com/it-jobs/ios-developer-500-1000-fpt-shop-2447",
+            "description": "- Lập trình các ứng dụng trên iOS- Tham gia vào các dự án lập trình, phát triển hệ thống phần mềm - Lập trình tích hợp hệ thống quản lý, hệ thống thanh...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

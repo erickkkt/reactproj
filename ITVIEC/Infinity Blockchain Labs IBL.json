@@ -1,0 +1,49 @@
+{
+    "name": "Infinity Blockchain Labs (IBL)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2321/infinity-blockchain-labs-ibl-logo-170-151.png?1498553831",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Director of R&D Department ",
+            "link": "https://itviec.com/it-jobs/director-of-r-d-department-infinity-blockchain-labs-ibl-4125",
+            "description": "Manage R&D team including R&D specialists and R&D technicians Propose global KPIs for research team Lead research plan, budget and execution...",
+            "skills": [
+                "English",
+                "Project Manager"
+            ]
+        },
+        {
+            "name": "UI-UX Designer",
+            "link": "https://itviec.com/it-jobs/ui-ux-designer-infinity-blockchain-labs-ibl-2812",
+            "description": "Work closely with the Project Coodinator, the Development Team to propose new solutions to complex user-centered design problems Create compelling user...",
+            "skills": [
+                "UI-UX",
+                "English",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Java/JavaScript/Python Technical Leader",
+            "link": "https://itviec.com/it-jobs/technical-leader-java-js-python-infinity-blockchain-labs-ibl-2611",
+            "description": "We’re looking for a great candidate who will thrive in our interdisciplinary and collaborative environment and someone who wants to take ownership of...",
+            "skills": [
+                "Python",
+                "Team Leader",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior ReactJS/ React Native developer",
+            "link": "https://itviec.com/it-jobs/senior-reactjs-react-native-developer-infinity-blockchain-labs-ibl-2141",
+            "description": "We’re looking for a great candidate who will thrive in our interdisciplinary and collaborative environment and someone who wants to take ownership of...",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        }
+    ]
+},

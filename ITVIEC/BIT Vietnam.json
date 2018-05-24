@@ -1,0 +1,20 @@
+{
+    "name": "BIT Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1011/bit-vietnam-logo-170-151.png?1490095747",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "★Front-end Dev (HTML/CSS/JavaScript)★",
+            "link": "https://itviec.com/it-jobs/front-end-dev-html-css-javascript-bit-vietnam-2813",
+            "description": "• Developing Front-end.• Discussing, system designing, developing and testing application according to client's requirements.• Researching new...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

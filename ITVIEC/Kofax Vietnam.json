@@ -1,0 +1,20 @@
+{
+    "name": "Kofax Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/290/kofax-vietnam-logo-170-151.jpg?1454112723",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Software Engineer (C# /.NET)",
+            "link": "https://itviec.com/it-jobs/senior-software-engineer-c-net-kofax-vietnam-0604",
+            "description": "- This engineer will be primarily involved in doing software development using C#/.NET on Windows platform - There will be involvement in all phases of...",
+            "skills": [
+                "HTML5",
+                "C#",
+                ".NET"
+            ]
+        }
+    ]
+},

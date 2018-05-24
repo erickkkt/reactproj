@@ -1,0 +1,20 @@
+{
+    "name": "Newwave Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1396/newwave-solutions-logo-170-151.png?1460601629",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Dev (Java/ PHP/.NET)- Up to 1000$",
+            "link": "https://itviec.com/it-jobs/web-dev-java-php-net-up-to-1000-newwave-solutions-5408",
+            "description": "+ Tham gia phân tích nghiệp vụ hệ thống trực tiếp với khách hàng.  Tham gia nghiên cứu và đề xuất công nghệ, framework phục vụ cho việc phát triển hệ...",
+            "skills": [
+                "Java",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Caresoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3107/caresoft-logo-170-151.png?1477908300",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "5 Front-end Dev (Javascript, HTML, PHP)",
+            "link": "https://itviec.com/it-jobs/5-front-end-dev-javascript-html-php-caresoft-1706",
+            "description": "- Xây dựng sản phẩm tương tác và chăm sóc khách hàng phục vụ số lượng người dùng lớn.  Nghiên cứu các công nghệ tương tác và chăm sóc khách hàng mới.",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

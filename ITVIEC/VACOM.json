@@ -1,0 +1,20 @@
+{
+    "name": "VACOM",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4155/vacom-logo-170-151.jpg?1505466385",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Developers (.NET, C#, MVC)",
+            "link": "https://itviec.com/it-jobs/02-developers-net-c-mvc-vacom-1916",
+            "description": "Lập trình các ứng dụng quản lý: kế toán, nhân sự, tiền lương, hóa đơn điện tử ... Phát triển ứng dụng đa dạng trên nền: mobile, web, desktop. Xây dựng...",
+            "skills": [
+                "C#",
+                "MVC",
+                ".NET"
+            ]
+        }
+    ]
+},

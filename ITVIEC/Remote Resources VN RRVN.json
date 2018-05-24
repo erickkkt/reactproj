@@ -1,0 +1,20 @@
+{
+    "name": "Remote Resources VN (RRVN)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4133/remote-resources-vn-rrvn-logo-170-151.jpg?1504685913",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Game Dev (C#, Unity) - Up to $2000",
+            "link": "https://itviec.com/it-jobs/game-dev-c-unity-up-to-2000-remote-resources-vn-rrvn-4045",
+            "description": "Our client, Magmic, is a leading developer and publisher of mobile social games and entertainment, headquarter in Canada. They have led the mobile...",
+            "skills": [
+                "C#",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

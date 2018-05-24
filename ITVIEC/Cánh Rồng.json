@@ -1,0 +1,20 @@
+{
+    "name": "Cánh Rồng",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4100/canh-r-ng-logo-170-151.jpg?1503656411",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ASP.NET Developer (MVC)",
+            "link": "https://itviec.com/it-jobs/asp-net-developer-mvc-canh-rong-2144",
+            "description": "- Tham gia xây dựng các website và ứng dụng dựa trên nền tảng của công ty. Chi tiết công việc cụ thể sẽ được trao đổi trực tiếp.",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

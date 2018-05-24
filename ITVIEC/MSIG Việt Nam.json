@@ -1,0 +1,49 @@
+{
+    "name": "MSIG Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2861/msig-vi-t-nam-logo-170-151.png?1471944989",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": " Application Executive/ IT Division",
+            "link": "https://itviec.com/it-jobs/application-executive-it-division-msig-viet-nam-4152",
+            "description": "PURPOSE:    Perform process and business requirement analysis to meet users’ requirement/expectation and existing IT system constraints  Provide IT...",
+            "skills": [
+                "Project Manager",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "IT Security Executive (System& Network)",
+            "link": "https://itviec.com/it-jobs/it-security-executive-system-network-msig-viet-nam-5019",
+            "description": "PURPOSE:    Provide technical direction in IT security to business operation and technical consultation in system development, new solution evaluations ...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Senior System Executive",
+            "link": "https://itviec.com/it-jobs/senior-system-executive-msig-viet-nam-4235",
+            "description": "PURPOSE:    Develop system to meet users’ requirement/expectation, security and enterprise-class requirement.  Provide IT optimized system and apply new...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "IT Manager (System & Network)",
+            "link": "https://itviec.com/it-jobs/it-manager-system-network-msig-viet-nam-3709",
+            "description": "PURPOSE:   Maintain the company’s information systems to provide maximum reliability and processing speed, while safeguarding data and providing access...",
+            "skills": [
+                "System Engineer",
+                "Networking",
+                "Manager"
+            ]
+        }
+    ]
+},

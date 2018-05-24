@@ -1,0 +1,20 @@
+{
+    "name": "Thai Son Soft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1232/thai-son-soft-logo-170-151.jpg?1491193584",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "15 .NET Developer - Up to 1000$",
+            "link": "https://itviec.com/it-jobs/15-net-developer-up-to-1000-thai-son-soft-0817",
+            "description": "Tham gia xây dựng và phát triển các dự án của công ty đang triển khai trên 70.000 khách hàng doanh nghiệp",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

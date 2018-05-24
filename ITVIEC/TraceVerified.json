@@ -1,0 +1,20 @@
+{
+    "name": "TraceVerified",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2815/traceverified-logo-170-151.png?1471406090",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "AngularJS Developer",
+            "link": "https://itviec.com/it-jobs/angularjs-developer-traceverified-1943",
+            "description": "Phát triển phần mềm Truy xuất nguồn gốc TraceVerified version 2.0 trên nền tảng Angular 2, tiến tới ứng dụng công nghệ blockchain ",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Adnet Plus",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1624/adnet-plus-logo-170-151.png?1505467131",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Tuyển gấp 5 PHP Developer (HTML/CSS).",
+            "link": "https://itviec.com/it-jobs/tuyen-gap-5-php-developer-html-css-adnet-plus-0259",
+            "description": "Tham gia phát triển dự án phần mềm từ các đối tác Nhật Bản Lập Trình sử dụng ngôn ngữ PHP theo thiết kế từ đối tác Nhật Bản ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        }
+    ]
+},

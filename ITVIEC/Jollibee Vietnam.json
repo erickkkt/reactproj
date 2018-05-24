@@ -1,0 +1,20 @@
+{
+    "name": "Jollibee Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4108/jollibee-vietnam-logo-170-151.jpg?1503889711",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Developer (C#, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/net-developer-c-asp-net-jollibee-vietnam-1153",
+            "description": "• Triển khai, vận hành phần mềm và hướng dẫn sử dụng cho người dùng• Lên kế hoạch hàng năm cho việc phát triển hệ thống ứng dụng, đưa ra những sáng kiến...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

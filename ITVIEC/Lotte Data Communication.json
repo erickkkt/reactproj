@@ -1,0 +1,40 @@
+{
+    "name": "Lotte Data Communication",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3163/lotte-data-communication-logo-170-151.JPG?1479530694",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Senior Magento Developer(PHP/JavaScript)",
+            "link": "https://itviec.com/it-jobs/senior-magento-developer-php-javascript-lotte-data-communication-4953",
+            "description": "Participate in e-commerce, software and web development projects for international clients Co-operate with clients to find out optimal technical...",
+            "skills": [
+                "JavaScript",
+                "Magento",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Senior Java Developers (JavaScript/J2EE)",
+            "link": "https://itviec.com/it-jobs/senior-java-developers-javascript-j2ee-lotte-data-communication-5234",
+            "description": "Participate in e-commerce, software and web development projects for international clients Co-operate with clients to find out optimal technical...",
+            "skills": [
+                "JavaScript",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "IT System Management (HCM, Nha Trang)",
+            "link": "https://itviec.com/it-jobs/it-system-management-hcm-nha-trang-lotte-data-communication-4409",
+            "description": "IT technical support staff will be in charge of monitoring and maintaining the systems as well as the networks of the company, ensuring appliances and...",
+            "skills": [
+                "System Engineer",
+                "IT Support",
+                "Manager"
+            ]
+        }
+    ]
+},

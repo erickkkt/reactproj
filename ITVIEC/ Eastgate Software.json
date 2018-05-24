@@ -1,0 +1,29 @@
+{
+    "name": " Eastgate Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1001/eastgate-software-logo-170-151.jpg?1460541066",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "C# Developer",
+            "link": "https://itviec.com/it-jobs/c-developer-eastgate-software-5325",
+            "description": "Develop (front-end and back-end) for Warehouse Management system Full Life Cycle Development ",
+            "skills": [
+                "C#",
+                "Agile"
+            ]
+        },
+        {
+            "name": "Java Developer",
+            "link": "https://itviec.com/it-jobs/java-developer-eastgate-software-5233",
+            "description": "Develop web system (front-end and back-end) Full Life Cycle Development Application troubleshooting/enhancements and user application support Intern...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Java"
+            ]
+        }
+    ]
+},

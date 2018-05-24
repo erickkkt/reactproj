@@ -1,0 +1,20 @@
+{
+    "name": "Mecury Studio & Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1374/mecury-studio-technology-logo-170-151.png?1497519789",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": ".NET Developer (Up to 1500$)",
+            "link": "https://itviec.com/it-jobs/net-developer-up-to-1500-mecury-studio-technology-5336",
+            "description": "FRONT END   Use Java Script to deliver data on website and process all actions by API Make animation for all elements on website ( using CSS, Java...",
+            "skills": [
+                "C#",
+                "JavaScript",
+                ".NET"
+            ]
+        }
+    ]
+},

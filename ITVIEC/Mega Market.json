@@ -1,0 +1,20 @@
+{
+    "name": "Mega Market",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2724/mega-market-logo-170-151.png?1500969270",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Database Admin (Oracle/SQL/MySQL)",
+            "link": "https://itviec.com/it-jobs/database-admin-oracle-sql-mysql-mega-market-4754",
+            "description": "MISSION STATEMENT   Responsible for the performance, integrity and security of the company databases as well as identifying database requirements and...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Oracle"
+            ]
+        }
+    ]
+},

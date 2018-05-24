@@ -1,0 +1,20 @@
+{
+    "name": "Công ty cổ phần công nghệ điện tử & viễn thông Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4093/cong-ty-c-ph-n-cong-ngh-di-n-t-vi-n-thong-vi-t-nam-logo-170-151.png?1503565511",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "C# Developer",
+            "link": "https://itviec.com/it-jobs/c-developer-cong-ty-co-phan-cong-nghe-dien-tu-vien-thong-viet-nam-5733",
+            "description": "- Tham gia xây dựng và phát triển phần mềm của công ty đang triển khai cho khách hàng sử dụng, các phần mềm phục vụ cho công tác nghiên cứu, sản xuất...",
+            "skills": [
+                "C#",
+                "Database",
+                ".NET"
+            ]
+        }
+    ]
+},

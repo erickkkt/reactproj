@@ -1,0 +1,20 @@
+{
+    "name": "Robust Tech House",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/703/robust-tech-house-logo-170-151.png?1492671499",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Back-end (Ruby/PHP/JavaScript) Developer",
+            "link": "https://itviec.com/it-jobs/back-end-developer-ruby-php-javascript-robust-tech-house-1629",
+            "description": "We're open to candidates with solid Back-end Ruby/PHP/JavaScript development/ computer science background, who are willing to learn and can quickly pick...",
+            "skills": [
+                "Ruby on Rails",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

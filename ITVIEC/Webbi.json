@@ -1,0 +1,20 @@
+{
+    "name": "Webbi",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4090/webbi-logo-170-151.png?1503560052",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "2 ASP.NET Developer - Up to $700",
+            "link": "https://itviec.com/it-jobs/asp-net-developer-webbi-3543",
+            "description": "- Tham gia phát triển hệ thống Webbi sử dụng công nghệ ASP.NET - Các công việc cụ thể sẽ được trao đổi khi phỏng vấn",
+            "skills": [
+                "C#",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

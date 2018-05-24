@@ -1,0 +1,30 @@
+{
+    "name": "ekino Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2273/ekino-vietnam-logo-170-151.png?1462335528",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "QC/ Tester ",
+            "link": "https://itviec.com/it-jobs/qc-tester-ekino-vietnam-3543",
+            "description": "Develop test cases based on specifications Check test cases coverage customer’s requirement with Senior Tester or Business Analysts Execute test...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "05 Java Developers",
+            "link": "https://itviec.com/it-jobs/05-java-developers-ekino-vietnam-0858",
+            "description": "Participate in large-scale digital project development for worldwide leading companies on various business domains. Analyze requirements, come up with...",
+            "skills": [
+                "MySQL",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

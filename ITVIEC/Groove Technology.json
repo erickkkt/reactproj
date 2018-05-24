@@ -1,0 +1,30 @@
+{
+    "name": "Groove Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3197/groove-technology-logo-170-151.png?1480473705",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full Stack .NET Developer",
+            "link": "https://itviec.com/it-jobs/full-stack-net-developer-groove-technology-2719",
+            "description": "We are looking for smart, dynamic, passionate, experienced Full Stack Developers to join our company. We are a fast growing eCommerce team delivering...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Senior PHP (Magento) Developer",
+            "link": "https://itviec.com/it-jobs/senior-php-magento-developer-groove-technology-3915",
+            "description": "Requirements:  You need 2-5 years experience in PHP, MySQL and Magento You have joined the coding project with MVC You have good basic knowledge of...",
+            "skills": [
+                "English",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

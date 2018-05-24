@@ -1,0 +1,50 @@
+{
+    "name": "TMA Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/172/tma-solutions-logo-170-151.png?1467800435",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "OT included in base salary",
+    "jobs": [
+        {
+            "name": "ReactJS and React Native for iOS/Android",
+            "link": "https://itviec.com/it-jobs/reactjs-and-react-native-for-ios-android-tma-solutions-0124",
+            "description": "Android:     Good oriented object programming knowledge Skills: Android platform, Java, C/C++, JNI, XML, Json, SQLite Tool: Eclipse, Android Studio,...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Ruby on Rail Developer",
+            "link": "https://itviec.com/it-jobs/ruby-on-rail-developer-tma-solutions-3241",
+            "description": "Design, build, and maintain efficient, reusable, and reliable Ruby code Integration of data storage solutions Integration of user-facing elements...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Ruby on Rails"
+            ]
+        },
+        {
+            "name": "CT đào tạo để trở thành Kỹ Sư Cầu Nối",
+            "link": "https://itviec.com/it-jobs/ct-dao-tao-de-tro-thanh-ky-su-cau-noi-tma-solutions-5747",
+            "description": "Mô T ả  C ô ng Vi ệ c  Được đào tạo tiếng Nhật trong 6 tháng để trở thành BSE hoặc developer biết tiếng Nhật. Tham gia trong tất cả các giai đoạn trong...",
+            "skills": [
+                "Japanese",
+                "Bridge Engineer",
+                "Java"
+            ]
+        },
+        {
+            "name": "Tester with Japanese Skill",
+            "link": "https://itviec.com/it-jobs/tester-with-japanese-skill-tma-solutions-3845",
+            "description": "Job descriptions• Validate and verify software product to ensure acceptance software quality output and functionality as described in Feature...",
+            "skills": [
+                "Japanese",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

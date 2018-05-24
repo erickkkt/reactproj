@@ -1,0 +1,20 @@
+{
+    "name": "VNIs",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3869/vnis-logo-170-151.png?1498208649",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 C# Developers Up to $1000 (.Net, SQL)",
+            "link": "https://itviec.com/it-jobs/03-c-developers-up-to-1000-net-sql-vnis-1224",
+            "description": "Lập trình phần mềm hóa đơn điện tử ",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

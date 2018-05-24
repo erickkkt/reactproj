@@ -1,0 +1,20 @@
+{
+    "name": "Mixi",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4176/mixi-logo-170-151.jpg?1505989660",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (JavaScript, HTML5)",
+            "link": "https://itviec.com/it-jobs/php-developer-javascript-html5-mixi-2900",
+            "description": "- Phát triển website Thương mại điện tử. - Tối ưu các thành phần website theo yêu cầu của các bên SEO, Content. - Tiếp nhận và xử lý các yêu cầu của...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Zinio",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/210/zinio-logo-170-151.png?1458813048",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Sr. Automation QC Engineer",
+            "link": "https://itviec.com/it-jobs/sr-automation-qc-engineer-zinio-1148",
+            "description": "Creating appropriate testing artefacts (such as test strategy, test plan, exit pack etc) in line with minimum testing standards and ensure they are...",
+            "skills": [
+                "Python",
+                "PHP",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Senior DevOps Engineer (PHP, Linux)",
+            "link": "https://itviec.com/it-jobs/senior-devops-engineer-php-linux-zinio-2155",
+            "description": "Zinio is the essential Platform for the Digital delivery of the world’s best Magazine content.      We are looking for a Senior DevOps Engineer to help...",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "PHP"
+            ]
+        }
+    ]
+},

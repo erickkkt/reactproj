@@ -1,0 +1,20 @@
+{
+    "name": "Propolife Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1063/propolife-vi-t-nam-logo-170-151.png?1454113637",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Back-end Web Developer ",
+            "link": "https://itviec.com/it-jobs/back-end-web-developer-propolife-viet-nam-5353",
+            "description": "- Phát triển các tính năng mới ở phần backend, website hệ thống đang có- Tối ưu code xử lý hiện tại- Làm việc trên môi trường Mac",
+            "skills": [
+                "OOP",
+                "Database",
+                "JavaScript"
+            ]
+        }
+    ]
+},

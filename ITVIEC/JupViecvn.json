@@ -1,0 +1,40 @@
+{
+    "name": "JupViec.vn",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1960/jupviec-vn-logo-170-151.png?1503916120",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Junior Front-end Dev (AngularJS, HTML5)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-angularjs-html5-css-jupviec-vn-0405",
+            "description": "Convert các file PSD, Sketch thành file HTML sử dụng (HTML, CSS, JS). Công việc chính là kết hợp với Designer để tạo nên sản phẩm hoàn thiện về mặt UI,...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "AngularJS"
+            ]
+        },
+        {
+            "name": "Back-end Developer (PHP, Java)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-php-java-jupviec-vn-0234",
+            "description": "Làm việc phát triển hệ thống backend cho Website, App, Hệ thống nội bộ của JupViec.vn Phát triển, bảo trì các thành phần chính của hệ thống, hỗ trợ các...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Tech Lead (Java)- Up to 2000$",
+            "link": "https://itviec.com/it-jobs/tech-lead-java-up-to-2000-jupviec-vn-2158",
+            "description": "Làm product (nền tảng kết nối giữa người giúp việc và khách hàng có nhu cầu sử dụng giúp việc). Tối ưu hệ thống phục vụ hàng triệu người sử dụng. Nghiên...",
+            "skills": [
+                "MySQL",
+                "Team Leader",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Dược Trí Lực",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4129/d-c-tri-l-c-logo-170-151.jpg?1504412939",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập trình viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-duoc-tri-luc-3048",
+            "description": "- Thực hiện chương trình khởi nghiệp dành cho thế hệ trẻ, có dự án xây dựng 1 mạng xã hội trên nền tảng web, cần tìm 1 team lập trình về triển khai- Xây...",
+            "skills": [
+                "OOP",
+                "MVC",
+                "PHP"
+            ]
+        }
+    ]
+},

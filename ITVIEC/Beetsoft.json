@@ -1,0 +1,20 @@
+{
+    "name": "Beetsoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1198/beetsoft-logo-170-151.jpg?1454112702",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Developer(VB.NET/ASP.NET)-Upto $1000",
+            "link": "https://itviec.com/it-jobs/web-developer-vb-net-asp-net-upto-1000-beetsoft-1515",
+            "description": "Tham gia phát triển sản phẩm cho khách hàng Nhật. Phân tích nghiệp vụ, yêu cầu người dùng, yêu cầu hệ thống Phát triển hệ thống, review code, test. ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

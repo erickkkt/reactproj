@@ -1,0 +1,30 @@
+{
+    "name": "DOU Holdings Networks Co.,Ltd",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1794/dou-holdings-networks-co-ltd-logo-170-151.jpg?1454113868",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Ruby on Rails Developer",
+            "link": "https://itviec.com/it-jobs/ruby-on-rails-developer-dou-holdings-networks-co-ltd-2636",
+            "description": "You will work on some software development projects with Symphony Creative Solutions. Pte. Ltd which is a startup company in Singapore to make worldwide...",
+            "skills": [
+                "HTML5",
+                "Ruby on Rails",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-dou-holdings-networks-co-ltd-1649",
+            "description": "You will work on some software development projects with Symphony Creative Solutions. Pte. Ltd which is a startup company in Singapore to make worldwide...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "UPLEVO",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4171/uplevo-logo-170-151.png?1505983202",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (HTML5, JavaScript)",
+            "link": "https://itviec.com/it-jobs/php-developer-html5-javascript-uplevo-4201",
+            "description": "Xây dựng, phát triển các chức năng mới và bảo trì nâng cấp các chức năng Dự án, công việc như sau:  - Xây dựng các Web base Application và Backend...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,50 @@
+{
+    "name": "PowerGate Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1630/powergate-software-logo-170-151.png?1487845141",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Senior Python Developers (Upto $1500)",
+            "link": "https://itviec.com/it-jobs/02-senior-python-developers-upto-1500-powergate-software-3841",
+            "description": "This job is a good opportunity for you to join software projects with customers from USA, United Kingdom, Australia ... You will communicate in daily...",
+            "skills": [
+                "Python",
+                "Linux",
+                "Django"
+            ]
+        },
+        {
+            "name": "02 Senior Angular2 (up to $1200++)",
+            "link": "https://itviec.com/it-jobs/02-senior-angular2-up-to-1200-powergate-software-3134",
+            "description": "This job is a good opportunity for you to join software projects with customers from US, UK, Australia ... You will communicate in daily basis with...",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "[URGENT] Senior PHP Dev For USA Project",
+            "link": "https://itviec.com/it-jobs/urgent-senior-php-dev-for-usa-project-powergate-software-1859",
+            "description": "This job is a good opportunity for you to join software projects with customers from US, UK, Australia ... You will communicate in daily basis with...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "[URGENT] Senior HTML5/Frontend Dev",
+            "link": "https://itviec.com/it-jobs/urgent-senior-html5-frontend-dev-powergate-software-0924",
+            "description": "Tham gia vào các dự án với các khách hàng US, UK, AU… Được làm việc trong môi trường năng động, sáng tạo và có cơ hội trao dồi phát triển bản thân để...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

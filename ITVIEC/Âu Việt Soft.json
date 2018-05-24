@@ -1,0 +1,20 @@
+{
+    "name": "Âu Việt Soft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3671/au-vi-t-soft-logo-170-151.jpg?1493980530",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".Net Developer",
+            "link": "https://itviec.com/it-jobs/net-developer-au-viet-soft-5441",
+            "description": "Develop and/or assist in the development of new and existing IT software application and systems development efforts. Assist with encoding, testing,...",
+            "skills": [
+                "HTML5",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "VNITPro",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3224/vnitpro-logo-170-151.png?1480774941",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Mobile Apps (Android, iOS)",
+            "link": "https://itviec.com/it-jobs/02-mobile-apps-android-ios-vnitpro-1058",
+            "description": "– Trao đổi cụ thể khi phỏng vấn",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "06 PHP Full-stack Developers",
+            "link": "https://itviec.com/it-jobs/06-php-full-stack-developers-vnitpro-0923",
+            "description": "– Trao đổi cụ thể khi phỏng vấn",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

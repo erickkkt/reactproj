@@ -1,0 +1,30 @@
+{
+    "name": "Điện Quang",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2514/di-n-quang-logo-170-151.jpg?1468221445",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Mobile Backend Developer (NodeJS)",
+            "link": "https://itviec.com/it-jobs/mobile-backend-developer-nodejs-dien-quang-1047",
+            "description": "- Phát triển hệ thống backend cho ứng dụng mobile. - Phát triển công cụ quản lý backend. - Tham gia xây dựng các hệ thống backend, hệ thống thông minh...",
+            "skills": [
+                "MySQL",
+                "Mobile Apps",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "Embedded Developer",
+            "link": "https://itviec.com/it-jobs/embedded-developer-dien-quang-0902",
+            "description": "- Lập trình C trên các dòng vi xử lý AVR, ARM. - Kiểm tra và debug code. - Lập trình cho các thiết bị điện tử và nghiên cứu nâng cấp, tối ưu hóa thiết...",
+            "skills": [
+                "English",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

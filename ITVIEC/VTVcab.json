@@ -1,0 +1,30 @@
+{
+    "name": "VTVcab",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2012/vtvcab-logo-170-151.png?1454112677",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 Web Developer (.NET, C#, PHP)",
+            "link": "https://itviec.com/it-jobs/03-web-developer-net-c-php-vtvcab-1851",
+            "description": "• Tham gia phát triển các thành phần của một hệ thống phần mềm, hoạt động xuyên suốt từ môi trường Desktop, Web tới Mobile, phục vụ các dự án lớn của...",
+            "skills": [
+                "C#",
+                "PHP",
+                ".NET"
+            ]
+        },
+        {
+            "name": "03 Mobile Apps Dev (Android, iOS)",
+            "link": "https://itviec.com/it-jobs/03-mobile-apps-dev-android-ios-vtvcab-1902",
+            "description": "• Tham gia phát triển các thành phần của một hệ thống phần mềm, hoạt động xuyên suốt từ môi trường Desktop, Web tới Mobile, phục vụ các dự án lớn của...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

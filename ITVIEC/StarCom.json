@@ -1,0 +1,40 @@
+{
+    "name": "StarCom",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2337/starcom-logo-170-151.png?1464236116",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Unity Developer - Upto $1500",
+            "link": "https://itviec.com/it-jobs/unity-developer-starcom-5043",
+            "description": "- Phát triển game 2D trên nền tảng Unity3D.  Chi tiết công việc sẽ được trao đổi trong buổi PV.",
+            "skills": [
+                "C#",
+                "Unity",
+                "Java"
+            ]
+        },
+        {
+            "name": "Java Developer - Upto $1500",
+            "link": "https://itviec.com/it-jobs/java-developer-starcom-5003",
+            "description": "Tham gia phát triển phần mềm trên nền Web-application. Tham gia vào phân tích thiết kế hệ thống. Tham gia vào qui trình phát triển phần mềm chuyên...",
+            "skills": [
+                "Mobile Apps",
+                "JSON",
+                "Java"
+            ]
+        },
+        {
+            "name": "05 PHP Developer (Java, .NET)-Upto $1500",
+            "link": "https://itviec.com/it-jobs/05-php-developer-java-net-starcom-4925",
+            "description": "Xây dựng và phát triển các hệ thống cung cấp dịch vụ giá trị gia tăng đáp ứng truy cập với lượng người dùng lớn. Thành thạo 1 trong các ngôn ngữ: Java,...",
+            "skills": [
+                "Java",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

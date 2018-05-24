@@ -1,0 +1,60 @@
+{
+    "name": "Silicon Prime Labs",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/233/silicon-prime-labs-logo-170-151.png?1503484374",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior Manual Tester (QA)",
+            "link": "https://itviec.com/it-jobs/senior-manual-automation-tester-qc-silicon-prime-labs-2110",
+            "description": "SiliconPrime Labs Inc. is a Los Angeles, USA-based technology company specializing in web and mobile app development and solutions. The company was...",
+            "skills": [
+                "NodeJS",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": ".NET Developers/ .NET Architect",
+            "link": "https://itviec.com/it-jobs/net-developers-up-to-1500-silicon-prime-labs-1001",
+            "description": "SiliconPrime Labs Inc. is a Los Angeles, USA-based technology company specializing in web and mobile app development and solutions. The company was...",
+            "skills": [
+                "Database",
+                "JavaScript",
+                ".NET"
+            ]
+        },
+        {
+            "name": "UI/UX Designer",
+            "link": "https://itviec.com/it-jobs/ui-ux-designer-silicon-prime-labs-3452",
+            "description": "RESPONSIBILITIES INCLUDING BUT NOT LIMITED TO:   Lead projects autonomously. Deliver a complete UX and visual design framework to the development team....",
+            "skills": [
+                "Mobile Apps",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Business Analyst (Project Manager)\t",
+            "link": "https://itviec.com/it-jobs/business-analyst-project-manager-silicon-prime-labs-4142",
+            "description": "RESPONSIBILITIES INCLUDING BUT NOT LIMITED TO:   Be the bridge between the client and the development team, ensuring the client expectations are well...",
+            "skills": [
+                "Agile",
+                "Product Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Database Expert (MSSQL Server, .NET)",
+            "link": "https://itviec.com/it-jobs/database-expert-mssql-server-net-silicon-prime-labs-4901",
+            "description": "RESPONSIBILITIES INCLUDING BUT NOT LIMITED TO:   Experience in Performance Tuning and Optimization (PTO)   Experience with backups, restores and...",
+            "skills": [
+                "Database",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

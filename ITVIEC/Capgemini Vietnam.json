@@ -1,0 +1,20 @@
+{
+    "name": "Capgemini Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/257/capgemini-vietnam-logo-170-151.jpg?1457080928",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Java Developers",
+            "link": "https://itviec.com/it-jobs/senior-java-developers-capgemini-vietnam-4631",
+            "description": "- To design, develop and maintain large projects using Java technologies. - To communicate with Customer/onsite team to get/clarify the requirements via...",
+            "skills": [
+                "Team Leader",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "3I",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3592/3i-logo-170-151.png?1501744386",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "08 iOS Developers",
+            "link": "https://itviec.com/it-jobs/08-ios-developers-3i-5546",
+            "description": "- Tham gia phát triển các dự án website, mobile web, game cho các khách hàng trong nước và các nước Nhật Bản, Hàn Quốc, Mỹ, Singapo và Châu Âu.  Thông...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "08 .NET Developers",
+            "link": "https://itviec.com/it-jobs/08-net-developers-3i-5609",
+            "description": "- Tham gia phát triển các dự án website, mobile web, game cho các khách hàng trong nước và các nước Nhật Bản, Hàn Quốc, Mỹ, Singapo và Châu Âu.  Thông...",
+            "skills": [
+                "C#",
+                "JavaScript",
+                ".NET"
+            ]
+        }
+    ]
+},

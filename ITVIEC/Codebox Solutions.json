@@ -1,0 +1,70 @@
+{
+    "name": "Codebox Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/177/codebox-solutions-logo-170-151.png?1454112763",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Business Analyst",
+            "link": "https://itviec.com/it-jobs/business-analyst-codebox-solutions-3255",
+            "description": "You will be part of a hand-picked team developing an enterprise SaaS platform for sales community. It is being used by hundreds of top tech companies...",
+            "skills": [
+                "English",
+                "Project Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Front-end ReactJS Developer Up to 40mil",
+            "link": "https://itviec.com/it-jobs/front-end-reactjs-developer-up-to-40mil-codebox-solutions-0221",
+            "description": "You will join Development team located in Vietnam to build a finance solution on blockchain platform, communicating directly with Product team in...",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Software Engineer (Ruby on Rails)",
+            "link": "https://itviec.com/it-jobs/software-engineer-ruby-on-rails-codebox-solutions-0403",
+            "description": "To be trained on web development in RoR or SFDC/Apex in real projects To work on both frontend and backend ",
+            "skills": [
+                "Ruby on Rails",
+                "JavaScript",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "UI-UX Designer (Web and Mobile)",
+            "link": "https://itviec.com/it-jobs/ui-ux-designer-web-and-mobile-codebox-solutions-5947",
+            "description": "The UI Designer is responsible for creating, designing and tweaking web and mobile application user interfaces. He/she will be required to understand...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Full Stack Developer (Ruby on Rails)",
+            "link": "https://itviec.com/it-jobs/full-stack-developer-ruby-on-rails-codebox-solutions-5639",
+            "description": "The full stack developer position will be required to be eager to work on both front-end and back-end side of an application, helping us developing new...",
+            "skills": [
+                "Ruby on Rails",
+                "JavaScript",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "Mobile Developer (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/mobile-developer-ios-android-codebox-solutions-5403",
+            "description": "The mobile developer position will be required to have experience on iOS and Android (or       Windows Mobile), and eager to learn and work on new...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

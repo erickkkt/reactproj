@@ -1,0 +1,40 @@
+{
+    "name": "Sutrix Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/358/sutrix-solutions-logo-170-151.jpg?1461551510",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": ".NET Developer (ASP.NET)- Up to $1000",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-up-to-1000-sutrix-solutions-5142",
+            "description": "We are finding ASP.NET SUPERMAN  (All Level). Please do not hesitate seize great opportunity:  .NET Developer is responsible for building the web...",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Project Manager (Mobile/ Web Apps)",
+            "link": "https://itviec.com/it-jobs/project-manager-mobile-web-apps-sutrix-solutions-0233",
+            "description": "Assist in the definition of project scope and requirements, involving all relevant stakeholders and ensuring technical feasibility Develop a detailed...",
+            "skills": [
+                "Team Leader",
+                "Project Manager",
+                "Manager"
+            ]
+        },
+        {
+            "name": "20 Frontend Developer (HTML, Javascript)",
+            "link": "https://itviec.com/it-jobs/20-frontend-developer-html-javascript-sutrix-solutions-4349",
+            "description": "Frontend Developer is responsible for creating website with HTML/CSS/JavaScript techniques. Need candidates with good knowledge at HTML4/CSS2,...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

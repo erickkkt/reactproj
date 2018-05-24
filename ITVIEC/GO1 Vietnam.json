@@ -1,0 +1,40 @@
+{
+    "name": "GO1 Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/196/go1-vietnam-logo-170-151.jpg?1459848485",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Front-end Developer (JavaScript)",
+            "link": "https://itviec.com/it-jobs/senior-front-end-developer-javascript-go1-vietnam-2252",
+            "description": "We are currently seeking out an experienced front-end developer who loves JavaScript coding backed up with solid general programming experience,...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "English"
+            ]
+        },
+        {
+            "name": "Senior PHP Developer ",
+            "link": "https://itviec.com/it-jobs/senior-php-developer-go1-vietnam-2110",
+            "description": "We are currently seeking out a PHP Developer who loves coding backed up with solid general programming experience, problem-solving skills, and a strong...",
+            "skills": [
+                "System Engineer",
+                "OOP",
+                "PHP"
+            ]
+        },
+        {
+            "name": "QA QC/ Tester",
+            "link": "https://itviec.com/it-jobs/qa-qc-tester-go1-vietnam-1603",
+            "description": "Create test models for release testing (plans, data and scripts) including the identification, collection and/or creation of test data Determine and...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Xtel",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4104/xtel-logo-170-151.png?1503801606",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên Java Core",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-java-core-xtel-4135",
+            "description": "- Tham gia phát triển các hệ thống viễn thông sử dụng ngôn ngữ lập trình Java",
+            "skills": [
+                "MySQL",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

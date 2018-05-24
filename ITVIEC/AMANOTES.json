@@ -1,0 +1,20 @@
+{
+    "name": "AMANOTES",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/539/amanotes-logo-170-151.jpg?1454113349",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Game Developer (Unity)",
+            "link": "https://itviec.com/it-jobs/sr-games-unity-developer-mobile-apps-amanotes-1819",
+            "description": "Our young and exciting start-up brings music to life in a special way through music game applications. We are small but dream big, and we are looking...",
+            "skills": [
+                "Mobile Apps",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

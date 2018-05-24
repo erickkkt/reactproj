@@ -1,0 +1,30 @@
+{
+    "name": "VietUnion (Payoo)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/944/vietunion-payoo-logo-170-151.jpg?1504603500",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Android Developer ",
+            "link": "https://itviec.com/it-jobs/android-developer-vietunion-payoo-3133",
+            "description": "Work closely with product team to develop Payoo apps for mobile. Apply user behaviors on designing and developing applications. Re-architect the app...",
+            "skills": [
+                "Mobile Apps",
+                "UI-UX",
+                "Android"
+            ]
+        },
+        {
+            "name": "02 .NET Developers (ASP.NET)",
+            "link": "https://itviec.com/it-jobs/02-net-developers-asp-net-vietunion-payoo-1329",
+            "description": "Tham gia dự án của công ty (chủ yếu về MVC ASP.Net, ngoài ra có thể có .Net WCF, form, wpf…) Được tham gia nhiều vai trò khác nhau tùy theo trình độ và...",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

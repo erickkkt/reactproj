@@ -1,0 +1,60 @@
+{
+    "name": "Saigon Technology Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/292/saigon-technology-solutions-logo-170-151.png?1493015383",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "React Native Developer ($600-$1,200)",
+            "link": "https://itviec.com/it-jobs/react-native-developer-600-1-200-saigon-technology-solutions-4700",
+            "description": "Develop UI Elements to integrate with server side logic Work with customer to clarify requirements Work in a team environment with shared code;...",
+            "skills": [
+                "Mobile Apps",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "UI-UX Designer - Up to $1,000",
+            "link": "https://itviec.com/it-jobs/ui-ux-designer-up-to-1-000-saigon-technology-solutions-0005",
+            "description": "Work closely with the Project Coodinator, the Development Team to propose new solutions to complex user-centered design problems Create compelling user...",
+            "skills": [
+                "Mobile Apps",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Middle iOS Developer - Up to $1,200",
+            "link": "https://itviec.com/it-jobs/middle-ios-developer-up-to-1-200-saigon-technology-solutions-0026",
+            "description": "Will participate in the development and architecture design of our mobile applications in outsourcing industry Follow scrum and agile development...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Middle Android Developer - Up to $1,200",
+            "link": "https://itviec.com/it-jobs/middle-android-developer-up-to-1-200-saigon-technology-solutions-0045",
+            "description": "Will participate in the development and architecture design of our Android mobile applications in outsourcing industry. Follow scrum and agile...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "Senior .NET Developer - Up to $1,500",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-up-to-1-500-saigon-technology-solutions-4537",
+            "description": "Assist with application architecture design and implementation. Support to train mid and junior level developers. Adhere to and recommend improvements...",
+            "skills": [
+                "SQL",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

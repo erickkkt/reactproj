@@ -1,0 +1,20 @@
+{
+    "name": "Ban Mai Technologies",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3599/ban-mai-technologies-logo-170-151.png?1492246391",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "IT Manager",
+            "link": "https://itviec.com/it-jobs/it-manager-ban-mai-technologies-3241",
+            "description": "Điều phối, sắp xếp và quản lý toàn bộ công việc của phòng kỹ thuật nhằm tạo hiệu quả cao, giảm chi phí về nhân lực cũng như tài chính- Đào tạo, phát...",
+            "skills": [
+                "System Engineer",
+                "Sales Engineer",
+                "Manager"
+            ]
+        }
+    ]
+},

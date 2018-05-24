@@ -1,0 +1,20 @@
+{
+    "name": "SH Consulting Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2262/sh-consulting-vietnam-logo-170-151.png?1461896857",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "3 Embedded Software Engineers",
+            "link": "https://itviec.com/it-jobs/3-embedded-software-engineers-sh-consulting-vietnam-3527",
+            "description": "Embedded software environment:- Engineer will work on .NETMF, uITRON, Linux, QNX, and Non-OS- Based upon requirement function specifications, the...",
+            "skills": [
+                "Linux",
+                "Embedded",
+                ".NET"
+            ]
+        }
+    ]
+},

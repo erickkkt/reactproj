@@ -1,0 +1,95 @@
+{
+    "name": "Robert Bosch Engineering And Business Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/374/robert-bosch-engineering-and-business-solutions-logo-170-151.jpg?1496896511",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "20 .Net Developer (All level)",
+            "link": "https://itviec.com/it-jobs/net-developer-all-level-robert-bosch-engineering-and-business-solutions-4213",
+            "description": "There are a lot of new projects coming to BOSCH and we are looking for talented .Net Developer at all levels (Senior, Junior, Fresher)  to join and...",
+            "skills": [
+                "HTML5",
+                "English",
+                ".NET"
+            ]
+        },
+        {
+            "name": "10 Senior/Lead Java Full-stack (Germany)",
+            "link": "https://itviec.com/it-jobs/senior-lead-java-full-stack-germany-robert-bosch-engineering-and-business-solutions-2242",
+            "description": "The project is Java Web-based Big Data Application Working with Customer in Germany SCRUM using Jira Role as Backend or full-stack Developer/Senior...",
+            "skills": [
+                "Java"
+            ]
+        },
+        {
+            "name": "30 Embedded Software Engineers",
+            "link": "https://itviec.com/it-jobs/embedded-software-engineer-all-levels-robert-bosch-engineering-and-business-solutions-2349",
+            "description": "[Hot] There are alot of projects coming to Bosch with different domains: Automotive, Home Appliances, Power Tool, Safety System.Therefore, we are open...",
+            "skills": [
+                "English",
+                "C language",
+                "Embedded"
+            ]
+        },
+        {
+            "name": "10 Linux Developer",
+            "link": "https://itviec.com/it-jobs/linux-developer-robert-bosch-engineering-and-business-solutions-5531",
+            "description": "As a Linux Developer for Home Appliances applications, your responsibilties will include:   Understand the user requirements and application use cases...",
+            "skills": [
+                "Linux",
+                "C++",
+                "C language"
+            ]
+        },
+        {
+            "name": "10 Java Developer (Junior & Senior)",
+            "link": "https://itviec.com/it-jobs/java-developer-junior-senior-robert-bosch-engineering-and-business-solutions-1539",
+            "description": "Joining an international dynamic and fast growing company as well as an excellent Java Development team with many international exposure opportunities...",
+            "skills": [
+                "MySQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "5 Python Developer ★ Onsite India ★",
+            "link": "https://itviec.com/it-jobs/python-developer-onsite-india-robert-bosch-engineering-and-business-solutions-4409",
+            "description": "Are you a Python developer who are looking for onsite opportunity (6 month-1 year) to get international experience? Do you love travelling and...",
+            "skills": [
+                "Python",
+                "Agile",
+                "English"
+            ]
+        },
+        {
+            "name": "5 Microsoft Solution Engineer ",
+            "link": "https://itviec.com/it-jobs/microsoft-solution-engineer-robert-bosch-engineering-and-business-solutions-1914",
+            "description": "Work with customer and sales team to design, architect and run the technical implementation of Exchange Online, Azure Active Directory, O365 & EMS...",
+            "skills": [
+                "System Engineer"
+            ]
+        },
+        {
+            "name": "IT Infrastructure Specialist",
+            "link": "https://itviec.com/it-jobs/it-infrastructure-specialist-robert-bosch-engineering-and-business-solutions-0706",
+            "description": "Service implementation and transition – Participation in Due diligence, defining roadmap for service transitions or implementation of new infra Support...",
+            "skills": [
+                "Python",
+                "Linux",
+                "Database"
+            ]
+        },
+        {
+            "name": "5 Microsoft Dynamics CRM Project",
+            "link": "https://itviec.com/it-jobs/microsoft-dynamics-crm-project-robert-bosch-engineering-and-business-solutions-0000",
+            "description": "For Functional Consultant:  Working directly with customer to get the business requirements and provide related consultancy Analysis business...",
+            "skills": [
+                "ERP",
+                "Business Analyst"
+            ]
+        }
+    ]
+},

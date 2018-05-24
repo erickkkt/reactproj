@@ -1,0 +1,20 @@
+{
+    "name": "Bệnh Viện Thái Thịnh",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2264/b-nh-vi-n-thai-th-nh-logo-170-151.png?1469682314",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Developer (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-benh-vien-thai-thinh-0730",
+            "description": "Phát triển các ứng dụng trên nền tảng .Net phục vụ cho công tác của phòng khám. Thực hiện các công việc khác theo yêu cầu của Trưởng phòng và Ban Giám...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

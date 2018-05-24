@@ -1,0 +1,30 @@
+{
+    "name": "ISAAS CO., LTD",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2142/isaas-co-ltd-logo-170-151.png?1479268077",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "3 x Automation Test Developer",
+            "link": "https://itviec.com/it-jobs/3-x-automation-test-developer-isaas-co-ltd-2749",
+            "description": "We are looking for 2 x automation test developer to test wifi, camera, and router for Netgear products, if you want to work for leading and professional...",
+            "skills": [
+                "Python",
+                "Django",
+                "Networking"
+            ]
+        },
+        {
+            "name": "2 x Senior Java Developers",
+            "link": "https://itviec.com/it-jobs/2-x-senior-java-developers-isaas-co-ltd-1749",
+            "description": "We are looking for 2 x senior Java developers to join our team to develop the new innovative products, applied machine learning and AI, serving for...",
+            "skills": [
+                "Python",
+                "AngularJS",
+                "Java"
+            ]
+        }
+    ]
+},

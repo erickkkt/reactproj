@@ -1,0 +1,30 @@
+{
+    "name": "Cisbox",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4159/cisbox-logo-170-151.png?1505553979",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Senior/Junior C#.NET Software Developers",
+            "link": "https://itviec.com/it-jobs/senior-junior-c-net-software-developers-cisbox-3025",
+            "description": "- cisbox is a rapidly expanding, dynamic company and we are looking for two (2) skilled, energetic and enthusiastic developers to contribute to our...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Senior Java Software Developer",
+            "link": "https://itviec.com/it-jobs/senior-java-software-developer-cisbox-2907",
+            "description": "- Cisbox is a rapidly expanding, dynamic company and we are looking for two (2) skilled, energetic and enthusiastic developers to contribute to our...",
+            "skills": [
+                "Linux",
+                "SQL",
+                "Java"
+            ]
+        }
+    ]
+},

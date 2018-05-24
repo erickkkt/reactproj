@@ -1,0 +1,20 @@
+{
+    "name": "UrSmiles",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4091/ursmiles-logo-170-151.jpg?1503560987",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (PHP, JavaScript, MySQL)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-javascript-mysql-ursmiles-5116",
+            "description": "Cùng cấp quản lý phân tích và thiết kế các tính năng sản phẩm. Lập trình và kiểm thử dự án phần mềm. Thực hiện đóng gói, triển khai, bảo trì sản phẩm...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

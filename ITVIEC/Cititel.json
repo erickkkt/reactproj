@@ -1,0 +1,20 @@
+{
+    "name": "Cititel",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4139/cititel-logo-170-151.png?1504883370",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Dev (NodeJS, ReactJS, JavaScript)",
+            "link": "https://itviec.com/it-jobs/web-dev-nodejs-reactjs-javascript-cititel-5916",
+            "description": "Discussed more in the interview ",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

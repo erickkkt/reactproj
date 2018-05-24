@@ -1,0 +1,30 @@
+{
+    "name": "NEXTTECH GROUP",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/284/nexttech-group-logo-170-151.png?1505794576",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "[Unlimited Salary] R&D Manager",
+            "link": "https://itviec.com/it-jobs/unlimited-salary-r-d-manager-nexttech-group-0316",
+            "description": "Tập đoàn NextTech, tiền thân là tập đoàn Peacesoft, là một trong những doanh nghiệp tiên phong trong lĩnh vực công nghệ thông tin, hoạt động trên 3 lĩnh...",
+            "skills": [
+                "Linux",
+                "SQL",
+                "Java"
+            ]
+        },
+        {
+            "name": "Technical Leader (up to $1200)",
+            "link": "https://itviec.com/it-jobs/technical-leader-up-to-1200-nexttech-group-2123",
+            "description": "Quản lý dự án start up của công ty Tuyển dụng, đào tạo đội ngũ, tổ chức triển khai dự án Tham gia phân tích, thiết kế, xây dựng hệ thống Nghiên cứu thị...",
+            "skills": [
+                "Team Leader",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Add-on Development",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/676/add-on-development-logo-170-151.png?1488270253",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior .NET Developer (from $1000)",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-from-1000-add-on-development-5343",
+            "description": "Implement frameworks, make design decisions, conduct test-driven development Develop software applications in compliance with coding-quality standards...",
+            "skills": [
+                "SQL",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

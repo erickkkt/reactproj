@@ -1,0 +1,30 @@
+{
+    "name": "Minori",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2847/minori-logo-170-151.jpg?1471851802",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Android Developer - Up to 1200$",
+            "link": "https://itviec.com/it-jobs/android-developer-up-to-1200-minori-2333",
+            "description": "Work in a scrum/waterfall team Design, implement requests from client Test, Fix bug and report result to direct supervisor Cooperate with other...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Java Developers - Up to 1200$",
+            "link": "https://itviec.com/it-jobs/java-developers-up-to-1200-minori-2756",
+            "description": "We are looking for Java developers to join our team to develop the new products or maintain some available systems.  Design, develop web/mobile...",
+            "skills": [
+                "OOP",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Mpay",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1223/mpay-logo-170-151.jpg?1454113643",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Trưởng nhóm quản trị Mạng và Hệ Thống",
+            "link": "https://itviec.com/it-jobs/truong-nhom-quan-tri-mang-va-he-thong-mpay-5255",
+            "description": "- Trình độ: Tốt nghiệp Đại học ngành CNTT- Có khả năng thiết kế, quản trị hệ thống mạng LAN, WAN, quản trị hệ thống hạ tầng viễn thông của Công ty;- Có...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "Team Leader"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-mpay-5025",
+            "description": "Phát triển mới, nâng cấp các ứng dụng Mobile Banking và Ví Điện Tử. Thiết kế và phát triển những tính năng mới Đề xuất cải tiến sản phẩm hiện có Nghiên...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

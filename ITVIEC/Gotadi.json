@@ -1,0 +1,30 @@
+{
+    "name": "Gotadi",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1074/gotadi-logo-170-151.jpg?1496221177",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full Stack Developer (Java, Javascript)",
+            "link": "https://itviec.com/it-jobs/full-stack-developer-java-javascript-gotadi-2522",
+            "description": "Gotadi (www.gotadi.com), a subsidiary of HG Holdings (www.hg-holdings.com), is an online travel agency offering individuals and companies transparent...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-gotadi-2203",
+            "description": "Gotadi (www.gotadi.com), a subsidiary of HG Holdings (www.hg-holdings.com), is an online travel agency offering individuals and companies transparent...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

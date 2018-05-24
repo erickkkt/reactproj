@@ -1,0 +1,30 @@
+{
+    "name": "Wanek Furniture",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1928/wanek-furniture-logo-170-151.jpg?1454112962",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT Manager, Database Administrator",
+            "link": "https://itviec.com/it-jobs/it-manager-database-administrator-wanek-furniture-5806",
+            "description": "IT Manager, Database Administrator’s (DBA’s) role is to strategically implement database solutions including data schema and database infrastructure....",
+            "skills": [
+                "Database",
+                "SQL",
+                "Manager"
+            ]
+        },
+        {
+            "name": "IT Manager, Network Administrator",
+            "link": "https://itviec.com/it-jobs/it-manager-network-administrator-wanek-furniture-5551",
+            "description": "IT Manager, Network Administrator is responsible for assisting in technical and problem resolution support on network hardware across Ashley sites. The...",
+            "skills": [
+                "System Admin",
+                "Networking",
+                "Manager"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "VCLI",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3212/vcli-logo-170-151.png?1480663263",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Business Analyst",
+            "link": "https://itviec.com/it-jobs/business-analyst-vcli-5439",
+            "description": "1/ Role Purpose:  Acts as a liaison between businesses and IT by planning, conducting, and directing the analysis of highly complex business problems to...",
+            "skills": [
+                "English",
+                "IT Support",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "IT Assistant Manager",
+            "link": "https://itviec.com/it-jobs/it-assistant-manager-vcli-5423",
+            "description": "As IT Assistant Manager, the job holder has the responsibilities of   Analyzing business need then transforming into IT requirements with efficient...",
+            "skills": [
+                "English",
+                "IT Support",
+                "Networking"
+            ]
+        }
+    ]
+},

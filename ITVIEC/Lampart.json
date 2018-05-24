@@ -1,0 +1,40 @@
+{
+    "name": "Lampart",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/550/lampart-logo-170-151.jpg?1454113236",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Tester Engineers",
+            "link": "https://itviec.com/it-jobs/02-tester-engineers-lampart-1256",
+            "description": "The Software Tester ( QC Engineer) is responsible for performing the testing tasks. The duties and responsibilities describe how the Software Tester (...",
+            "skills": [
+                "HTML5",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "12 PHP Engineers ",
+            "link": "https://itviec.com/it-jobs/12-php-engineers-lampart-1331",
+            "description": "Bạn mong muốn phát triển năng lực bản thân mình tại môi trường trẻ trung và năng động? Bạn muốn làm WEB chuyên về PHP, MySQL, Apache, Linux? Dù bạn là...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "06 Senior PHP Engineers",
+            "link": "https://itviec.com/it-jobs/06-senior-php-engineers-lampart-1310",
+            "description": "Chúng tôi đang cần tuyển dụng 5 Senior Engineer với nội dung công việc như sau:   Review code cho các thành viên trong team nhằm tăng chất lượng công...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

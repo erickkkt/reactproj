@@ -1,0 +1,30 @@
+{
+    "name": "Citigo Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/164/citigo-software-logo-170-151.jpg?1454113173",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "iOS Developer (Upto $1000)",
+            "link": "https://itviec.com/it-jobs/ios-developer-high-salary-citigo-software-4547",
+            "description": "Tham gia team IOS để hoàn thiện và phát triển tính năng cho sản phẩm KiotViet, ứng dụng với hơn 30.0000 khách hàng hiện tại và hướng tới triệu người...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Python Developer",
+            "link": "https://itviec.com/it-jobs/python-developer-citigo-software-5624",
+            "description": "Project's description: We're working to build the enterprise system for managing the project. Many big clients are using our tool. We're looking for...",
+            "skills": [
+                "Python",
+                "Django",
+                "AngularJS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Chiroro-Net Viet",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3968/chiroro-net-viet-logo-170-151.png?1500173872",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Web Developer",
+            "link": "https://itviec.com/it-jobs/php-web-developer-chiroro-net-viet-1457",
+            "description": "Work with Vietnamese and Japanese engineers Make website back-end or database management system on web ",
+            "skills": [
+                "MySQL",
+                "SQL",
+                "PHP"
+            ]
+        }
+    ]
+},

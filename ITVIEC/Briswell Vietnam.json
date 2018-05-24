@@ -1,0 +1,20 @@
+{
+    "name": "Briswell Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1463/briswell-vietnam-logo-170-151.png?1454113659",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Bridge System Engineer for Japan C#/.net",
+            "link": "https://itviec.com/it-jobs/bridge-system-engineer-for-japan-c-net-briswell-vietnam-0423",
+            "description": "*** Nội dung công việc ***- Trao đổi/ chat với người Nhật phụ trách để xác nhận/ đề xuất spec- Tìm hiểu tài liệu ghi bằng tiếng Nhật (basic design,...",
+            "skills": [
+                "Japanese",
+                "C#",
+                ".NET"
+            ]
+        }
+    ]
+},

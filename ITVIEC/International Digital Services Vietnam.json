@@ -1,0 +1,30 @@
+{
+    "name": "International Digital Services Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3502/international-digital-services-vietnam-logo-170-151.png?1500860614",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": " PHP 10 Developers (600＄-1200＄)",
+            "link": "https://itviec.com/it-jobs/php-10-developers-600-1200-international-digital-services-vietnam-4021",
+            "description": "Tham gia phát triển hệ thống ứng dụng Web PHP. Thiết kế, coding, bảo trì, testing Thực hiện công việc được phân công và báo cáo tiến độ cho quản...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "PHP Web Developer ",
+            "link": "https://itviec.com/it-jobs/php-web-developer-international-digital-services-vietnam-2924",
+            "description": "Our company is a start-up company, is the place where employees can thrive. We have opportunities that can help you take your ideas and passion to the...",
+            "skills": [
+                "Linux",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

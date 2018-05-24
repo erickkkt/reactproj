@@ -1,0 +1,30 @@
+{
+    "name": "Tek Experts",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2085/tek-experts-logo-170-151.png?1456819355",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Business Analyst",
+            "link": "https://itviec.com/it-jobs/senior-business-analyst-tek-experts-2226",
+            "description": "The Senior Business Analyst is an important position between software development team and customers with the responsibility of analyzing, defining...",
+            "skills": [
+                "Business Analyst",
+                "QA QC",
+                "SAP"
+            ]
+        },
+        {
+            "name": "05 Senior .Net Developers",
+            "link": "https://itviec.com/it-jobs/05-senior-net-developers-tek-experts-1404",
+            "description": "This candidate will be instrumental for designing features and addressing critical issues for various web-based management and reporting systems You’ll...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Twin Software Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2517/twin-software-solutions-logo-170-151.png?1468223451",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "PHP Developer (Phalcon framework)",
+            "link": "https://itviec.com/it-jobs/php-developer-phalcon-ui-ux-html5-twin-software-solutions-1409",
+            "description": "Candidate must have good understanding of web production, mobile and desktop user interface and user experience and most importantly Responsive Web...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Gear Inc.",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/687/gear-inc-logo-170-151.png?1494559399",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior Game Server Engineer",
+            "link": "https://itviec.com/it-jobs/senior-game-server-engineer-gear-inc-1931",
+            "description": "We are working on iOS/Android games that have very high concurrent users and high network traffic in foreign markets (US/Europe/Arab). In order to scale...",
+            "skills": [
+                "SQL",
+                "Games",
+                "Android"
+            ]
+        },
+        {
+            "name": "Unity Game Developer",
+            "link": "https://itviec.com/it-jobs/unity-game-developer-gear-inc-3733",
+            "description": "We are creating and publishing games developed in Unity. We are looking for experienced developers passionate about mobile games whose main...",
+            "skills": [
+                "C#",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

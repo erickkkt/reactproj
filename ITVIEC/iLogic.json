@@ -1,0 +1,20 @@
+{
+    "name": "iLogic",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3954/ilogic-logo-170-151.png?1499832994",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Python / NodeJS / PHP Developer",
+            "link": "https://itviec.com/it-jobs/senior-software-engineer-ilogic-5611",
+            "description": "Develop or renew website/web applications/app (sharing economy platform, real time application ..) Manage individual project priorities, deadlines and...",
+            "skills": [
+                "Python",
+                "NodeJS",
+                "PHP"
+            ]
+        }
+    ]
+},

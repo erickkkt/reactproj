@@ -1,0 +1,30 @@
+{
+    "name": "Formos Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/372/formos-vietnam-logo-170-151.png?1454113473",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developers - Work in Da Nang",
+            "link": "https://itviec.com/it-jobs/java-developers-work-in-da-nang-formos-vietnam-1719",
+            "description": "Senior Java Developers are sought to join an exciting and successful software development company based in Da Nang, Vietnam. Developers are the backbone...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Java Developers (Spring/JavaScript/SQL)",
+            "link": "https://itviec.com/it-jobs/java-developers-javascript-spring-formos-vietnam-5635",
+            "description": "Play a significant role to deliver world class software to companies around the world. We have many exciting projects utilizing the latest technology...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Vnetwork",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1172/vnetwork-logo-170-151.png?1477043507",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Web Developer (HTML5/Laravel/Linux)",
+            "link": "https://itviec.com/it-jobs/php-web-developer-vnetwork-3915",
+            "description": "Phân tích thiết kế, lập trình và phát triển chức năng của các website, hệ thống quản lý Khách hàng Duy trì, cập nhật và làm mới các website của công ty....",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "IT Support (Hosting/Server/Linux/MySQL)",
+            "link": "https://itviec.com/it-jobs/it-support-vnetwork-5341",
+            "description": "Quản trị hệ thống Server, Mail, Database, Cloud, CDN Khắc phục lỗi liên quan dịch vụ (Hosting, Domain, Website, Cloud, DNS …) Làm việc Backend hỗ trợ...",
+            "skills": [
+                "System Admin",
+                "Database",
+                "IT Support"
+            ]
+        }
+    ]
+},

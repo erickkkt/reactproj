@@ -1,0 +1,20 @@
+{
+    "name": "NetNam Corporation - Branch in HCMC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3925/netnam-corporation-branch-in-hcmc-logo-170-151.png?1499158774",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Engineer (Java, C++)",
+            "link": "https://itviec.com/it-jobs/software-engineer-java-c-netnam-corporation-branch-in-hcmc-4724",
+            "description": "- Phân tích, thiết kế, tích hợp và xây dựng ứng dụng quản lý tại NetNam- Tìm hiểu các nền tảng công nghệ mới.  Tích hợp, phát triển mới các ứng dụng...",
+            "skills": [
+                "C++",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

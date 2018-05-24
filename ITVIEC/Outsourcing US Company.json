@@ -1,0 +1,20 @@
+{
+    "name": "Outsourcing US Company",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4147/outsourcing-us-company-logo-170-151.png?1505123484",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "05 Full-Stack JavaScript Developers",
+            "link": "https://itviec.com/it-jobs/05-full-stack-javascript-developers-outsourcing-us-company-5628",
+            "description": "We are looking for 05 Full-Stack JavaScript developers to build high-quality web-based / REST API applications. You will be responsible for:  Developing...",
+            "skills": [
+                "UI-UX",
+                "AngularJS",
+                "NodeJS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Hella Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/283/hella-vietnam-logo-170-151.jpg?1454112902",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "3 Sr. Embedded Software Engineer (C/C++)",
+            "link": "https://itviec.com/it-jobs/3-sr-embedded-software-engineer-c-c-hella-vietnam-4057",
+            "description": "Your tasks  In the business division Electronics you will be working with the software development team for body electronics control units.  Design,...",
+            "skills": [
+                "System Engineer",
+                "C++",
+                "Embedded"
+            ]
+        },
+        {
+            "name": "Senior Software Quality Assurance",
+            "link": "https://itviec.com/it-jobs/senior-software-quality-assurance-hella-vietnam-2715",
+            "description": "Define software quality assurance plans for product development and process planning, taking existing processes and methods into account. Ensure that...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

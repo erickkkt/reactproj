@@ -1,0 +1,60 @@
+{
+    "name": "Left Coast Logic",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/490/left-coast-logic-logo-170-151.jpg?1454112746",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Mac Developer (C/C++/ObjectiveC)",
+            "link": "https://itviec.com/it-jobs/mac-developer-c-c-objectivec-left-coast-logic-5112",
+            "description": "Left Coast Logic is seeking multiple talented engineers for MacOS senior developer position. If you would like to be involved with a challenging project...",
+            "skills": [
+                "Objective C",
+                "C++",
+                "C language"
+            ]
+        },
+        {
+            "name": "Web Developer (AngularJS/NodeJS/Ruby) ",
+            "link": "https://itviec.com/it-jobs/web-developer-angularjs-nodejs-ruby-left-coast-logic-4421",
+            "description": "Left Coast Logic is seeking an experienced Back end/Front end developer  Develop a web system which deliver a lot of value to US market Work in Web...",
+            "skills": [
+                "Ruby on Rails",
+                "AngularJS",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "Senior Automation Tester",
+            "link": "https://itviec.com/it-jobs/senior-automation-tester-left-coast-logic-5802",
+            "description": "Apply and develop automated test frameworks and tools to meet business needs with respect to functionality, performance, scalability and other quality...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "iOS (iPad) Developer",
+            "link": "https://itviec.com/it-jobs/ios-ipad-developer-left-coast-logic-0719",
+            "description": "Independently responsible for the development of a large application development effort Responsible for working and coordinating with multiple teams in...",
+            "skills": [
+                "OOP",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Senior Manual Tester",
+            "link": "https://itviec.com/it-jobs/senior-manual-tester-left-coast-logic-0302",
+            "description": "Manage team member together with Team Leader Understand and analyse requirements Execute manual testing in Web, applications on Mac OS and mobile Create...",
+            "skills": [
+                "Mobile Apps",
+                "English",
+                "Tester"
+            ]
+        }
+    ]
+},

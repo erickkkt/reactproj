@@ -1,0 +1,20 @@
+{
+    "name": "EXE Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3547/exe-corp-logo-170-151.png?1490860561",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Engineer (JavaScript/PHP, HTML)",
+            "link": "https://itviec.com/it-jobs/software-engineer-javascript-php-html-exe-corp-3403",
+            "description": "Working with Project Manager / Team Lead to determine user requirements and apply existing technology to meet those needs Developing, maintaining and...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

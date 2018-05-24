@@ -1,0 +1,30 @@
+{
+    "name": "Apex Global",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4117/apex-global-logo-170-151.png?1504167559",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 Senior Software Engineers (C#, SQL)",
+            "link": "https://itviec.com/it-jobs/03-senior-software-engineers-c-sql-apex-global-2256",
+            "description": "Work closely with business experts to understand the user requirement Perform analysis and design software in detail, follow the convention of product,...",
+            "skills": [
+                "C#",
+                "SQL",
+                "Oracle"
+            ]
+        },
+        {
+            "name": "05 Software Engineers (C#, SQL, Oracle)",
+            "link": "https://itviec.com/it-jobs/05-software-engineers-c-sql-oracle-apex-global-2331",
+            "description": "Work closely with business experts to understand the user requirement Perform analysis and design software in detail follow the convention of product,...",
+            "skills": [
+                "C#",
+                "SQL",
+                "Oracle"
+            ]
+        }
+    ]
+},

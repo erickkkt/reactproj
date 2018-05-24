@@ -1,0 +1,30 @@
+{
+    "name": "Atlantic Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3679/atlantic-group-logo-170-151.png?1494058004",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Software Dev (PHP, HTML5, JavaScript)",
+            "link": "https://itviec.com/it-jobs/02-software-dev-php-html5-javascript-atlantic-group-4840",
+            "description": "+ Tìm hiểu, phân tích yêu cầu và triển khai các giải pháp quản lý cho ngành giáo dục, tư vấn du học;  + Phát triển các tính năng theo yêu cầu đặc thù...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-atlantic-group-5715",
+            "description": "- Tìm hiểu, phân tích yêu cầu và triển khai các giải pháp quản lý cho ngành giáo dục, tư vấn du học;- Phát triển các tính năng theo yêu cầu đặc thù dựa...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

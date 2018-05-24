@@ -1,0 +1,40 @@
+{
+    "name": "Monster Pixel",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/727/monster-pixel-logo-170-151.png?1499162787",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": ".Net Developer (C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-c-monster-pixel-5758",
+            "description": "Responsible for the solutions for business logic challenges of development projects Analyze system requirements and review specifications Participate in...",
+            "skills": [
+                "C#",
+                "MVC",
+                "ASP.NET"
+            ]
+        },
+        {
+            "name": "Junior Backend Developer (Java,NodeJS)",
+            "link": "https://itviec.com/it-jobs/junior-backend-developer-java-nodejs-monster-pixel-4434",
+            "description": "Programmers to join our team and help contribute to our ongoing growth. We work on some of the most interesting projects around the world and give our...",
+            "skills": [
+                "AngularJS",
+                "NodeJS",
+                "Java"
+            ]
+        },
+        {
+            "name": "Junior Front-End Developer (Urgent)",
+            "link": "https://itviec.com/it-jobs/junior-front-end-developer-urgent-monster-pixel-4411",
+            "description": "Programmers to join our team and help contribute to our ongoing growth. We work on some of the most interesting projects around the world and give our...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

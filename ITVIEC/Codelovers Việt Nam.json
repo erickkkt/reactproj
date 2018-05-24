@@ -1,0 +1,20 @@
+{
+    "name": "Codelovers Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/957/codelovers-vi-t-nam-logo-170-151.png?1454113433",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập trình viên PHP (Senior)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-senior-codelovers-viet-nam-1152",
+            "description": "- Tham gia các dự án của công ty, đối tác là khách hàng Nhật Bản- Tham gia nghiên cứu công nghệ phát triển web- Tham gia vào các dự án phát triển dịch...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

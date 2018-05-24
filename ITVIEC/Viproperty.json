@@ -1,0 +1,20 @@
+{
+    "name": "Viproperty",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3562/viproperty-logo-170-151.png?1491580062",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (HTML, CSS and JavaScript)",
+            "link": "https://itviec.com/it-jobs/web-developer-html-css-and-javascript-viproperty-1814",
+            "description": "Developing, implementing and maintaining company's web Build new application, enhance and maintain existing Web application systems with MS .Net Perform...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

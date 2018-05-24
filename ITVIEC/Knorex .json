@@ -1,0 +1,50 @@
+{
+    "name": "Knorex ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/209/knorex-logo-170-151.png?1501061579",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Data Scientist",
+            "link": "https://itviec.com/it-jobs/data-scientist-knorex-3309",
+            "description": "Knorex develops a cloud-based, highly scalable, all-in-one advertising and marketing platform called Knorex XPO™ (https://xpo.knorex.com/) where...",
+            "skills": [
+                "Python",
+                "English",
+                "Java"
+            ]
+        },
+        {
+            "name": "Data Engineer (Analytics, Big data)",
+            "link": "https://itviec.com/it-jobs/data-engineer-analytics-big-data-knorex-2820",
+            "description": "We have an existing cloud-based, highly scalable, all-in-one advertising platform where Marketers, Media Owners and Agencies can easily create, optimize...",
+            "skills": [
+                "Python",
+                "Database",
+                "Java"
+            ]
+        },
+        {
+            "name": "Full stack engineer (javascript)",
+            "link": "https://itviec.com/it-jobs/full-stack-engineer-javascript-knorex-1631",
+            "description": "Knorex develops a cloud-based, highly scalable, all-in-one advertising and marketing platform called Knorex XPO™ (https://xpo.knorex.com/) where...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "NodeJS"
+            ]
+        },
+        {
+            "name": "Java Software Engineer",
+            "link": "https://itviec.com/it-jobs/java-software-engineer-knorex-0751",
+            "description": "Knorex develops a cloud-based, highly scalable, all-in-one advertising and marketing platform called Knorex XPO™ (https://xpo.knorex.com/) where...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

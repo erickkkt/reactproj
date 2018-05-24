@@ -1,0 +1,29 @@
+{
+    "name": "Elecmax",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4005/elecmax-logo-170-151.jpg?1501238272",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-elecmax-4503",
+            "description": "(-) Thiết kế giao diện Website dựa trên ý tưởng của khách hàng(-) Thiết kế Banner tĩnh, động cho Website(-) Thiết kế logo, bộ nhân diện thương hiệu, các...",
+            "skills": [
+                "HTML5",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Wordpress/PHP Developer",
+            "link": "https://itviec.com/it-jobs/wordpress-php-developer-elecmax-4520",
+            "description": "- Lập trình website dựa trên nền tảng WordPress.  Chỉnh sửa hoặc bổ sung tính năng Plugin.  Lập trình website chất lượng cao, tối ưu hóa website theo...",
+            "skills": [
+                "HTML5",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

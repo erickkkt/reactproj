@@ -1,0 +1,30 @@
+{
+    "name": "Smart Media",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/495/smart-media-logo-170-151.gif?1454113216",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "PHP Developer (600-1000 USD)",
+            "link": "https://itviec.com/it-jobs/php-developer-600-1000-usd-smart-media-4337",
+            "description": "- Thiết kế và xây dựng các dịch vụ media (video/audio encoding, streaming), các hệ thống thanh toán, các dịch vụ VAS trên mạng di động/Internet; - Triển...",
+            "skills": [
+                "MySQL",
+                "JQuery",
+                "PHP"
+            ]
+        },
+        {
+            "name": "iOS/Android Developer",
+            "link": "https://itviec.com/it-jobs/ios-android-developer-smart-media-1156",
+            "description": "Tham gia vào quá trình phát triển các ứng dụng giải trí Video, Music, Chat, Live Stream..của công ty   Tham gia thiết kế, xây dựng và phát triển ý tưởng...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

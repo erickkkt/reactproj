@@ -1,0 +1,40 @@
+{
+    "name": "Septeni Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/387/septeni-technology-logo-170-151.jpg?1454112717",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "AWS DevOps Engineer (Linux) Up to $1000",
+            "link": "https://itviec.com/it-jobs/hot-job-aws-devops-engineer-linux-septeni-technology-4607",
+            "description": "Develop, maintain and troubleshoot the development and production environments of our services on Cloud; Collaborate with our engineers to help define,...",
+            "skills": [
+                "MySQL",
+                "Agile",
+                "Linux"
+            ]
+        },
+        {
+            "name": "Junior Software Quality Engineer (QA)",
+            "link": "https://itviec.com/it-jobs/junior-software-quality-engineer-qa-septeni-technology-5509",
+            "description": "Develop and maintain strategic products of Septeni group. It is your passion to test and ensure quality in cutting-edge web-based application for...",
+            "skills": [
+                "Agile",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Software Dev (PHP, Java, JavaScript)",
+            "link": "https://itviec.com/it-jobs/software-dev-php-java-javascript-septeni-technology-2316",
+            "description": "Developing and maintaining Septeni Group's strategic products, responsible for writing maintainable, high performance and robust web based systems. ",
+            "skills": [
+                "JavaScript",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

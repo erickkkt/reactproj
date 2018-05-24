@@ -1,0 +1,30 @@
+{
+    "name": "Trust Circle",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1943/trust-circle-logo-170-151.png?1454112776",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Junior JavaScript Developer (Web/Mobile)",
+            "link": "https://itviec.com/it-jobs/javascript-developer-react-native-trust-circle-2741",
+            "description": "We are looking for a great JavaScript developer who is experienced with React JS or React Native. Your primary focus will be on developing user...",
+            "skills": [
+                "JavaScript",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Junior Back End Developer 1 yr, $1000",
+            "link": "https://itviec.com/it-jobs/back-end-engineer-python-django-trust-circle-5334",
+            "description": "Supporting a team with world-class founders, world-class investors, and a gigantic global market of 3.5 trillion USD is such a rare chance. We invite...",
+            "skills": [
+                "Python",
+                "SQL",
+                "English"
+            ]
+        }
+    ]
+},

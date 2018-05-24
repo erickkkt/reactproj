@@ -1,0 +1,50 @@
+{
+    "name": "Humax Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1428/humax-vietnam-logo-170-151.jpg?1465848712",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "08 Software Tester (from 1 year exp)",
+            "link": "https://itviec.com/it-jobs/08-software-tester-from-1-year-exp-humax-vietnam-2932",
+            "description": "General Description   Plan and perform test cases(or processes) according to software quality objectives  Essential Duties and Responsibilities  ...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-humax-vietnam-4339",
+            "description": "If you are now looking for a great company with global flexible working environment where you can work with friendly managers, young colleagues and...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Front-end Dev (JavaScript, HTML5, CSS)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-javascript-html5-css-humax-vietnam-5432",
+            "description": "Develop web client software by using software development practices. Analyze issues with various tools and knowledge and find right solutions.   ...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Java Back-end Engineer (Maximum $1600)",
+            "link": "https://itviec.com/it-jobs/java-back-end-engineer-maximum-1600-humax-vietnam-3446",
+            "description": "As an engineer of this position, you will have chance to join to projects of the Innovative SaaS Fleet Management System Solution Company with Full...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

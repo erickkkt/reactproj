@@ -1,0 +1,20 @@
+{
+    "name": "A.N.Lab",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/812/a-n-lab-logo-170-151.jpg?1454112893",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "05 Kỹ sư phần mềm C/C++ (Qt Framework)",
+            "link": "https://itviec.com/it-jobs/05-ky-su-phan-mem-c-c-qt-framework-a-n-lab-3321",
+            "description": "Tham gia phát triển các dự án Công ty sử dụng ngôn ngữ lập trình C/C++; Báo cáo và thực hiện các công việc khác theo yêu cầu của Leader. ",
+            "skills": [
+                "Linux",
+                "C++",
+                "C language"
+            ]
+        }
+    ]
+},

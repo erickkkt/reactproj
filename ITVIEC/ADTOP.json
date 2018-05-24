@@ -1,0 +1,19 @@
+{
+    "name": "ADTOP",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2392/adtop-logo-170-151.png?1465891955",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "QA QC Engineer/ Tester",
+            "link": "https://itviec.com/it-jobs/qa-qc-engineer-tester-adtop-0418",
+            "description": "Be responsible for doing manual testing task for team's project. Design and execute test case to verify the functionality of the system. Identify,...",
+            "skills": [
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

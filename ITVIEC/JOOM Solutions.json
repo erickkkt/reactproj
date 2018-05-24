@@ -1,0 +1,20 @@
+{
+    "name": "J.O.O.M Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/186/j-o-o-m-solutions-logo-170-151.png?1454112838",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Senior PHP Developers (Magento)~$1000",
+            "link": "https://itviec.com/it-jobs/02-senior-php-developers-magento-j-o-o-m-solutions-1639",
+            "description": "Nghiên cứu và đóng góp để hoàn thiện hơn nữa các Magento extensions hiện có do Ubertheme phát triển Tham gia dự án phát triển Magento website và...",
+            "skills": [
+                "JavaScript",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

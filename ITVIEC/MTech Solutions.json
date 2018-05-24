@@ -1,0 +1,30 @@
+{
+    "name": "MTech Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/891/mtech-solutions-logo-170-151.png?1477884875",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "IT Support",
+            "link": "https://itviec.com/it-jobs/it-support-mtech-solutions-1718",
+            "description": "Hỗ trợ giải quyết sự cố máy tính. Cài đặt và sửa chữa, nâng cấp phần mềm theo yêu cầu. Cài đặt và vận hành server, dựng server ảo (VPS), ... Đi triển...",
+            "skills": [
+                "System Admin",
+                "IT Support",
+                "Networking"
+            ]
+        },
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-mtech-solutions-5520",
+            "description": "Description of Work PHP Developer responsible for managing back-end services and the interchange of data between the server and the users. Your primary...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        }
+    ]
+},

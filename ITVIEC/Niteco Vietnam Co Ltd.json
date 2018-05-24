@@ -1,0 +1,20 @@
+{
+    "name": "Niteco Vietnam Co., Ltd",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/26/niteco-vietnam-co-ltd-logo-170-151.png?1494320123",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "08 Senior .NET Developers",
+            "link": "https://itviec.com/it-jobs/08-senior-net-developers-niteco-vietnam-co-ltd-2605",
+            "description": "We have multiple teams working for our international clients, handling projects based on Microsoft technologies, such as ASP.NET. As a .NET developer,...",
+            "skills": [
+                "English",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "ANS Asia",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/915/ans-asia-logo-170-151.jpg?1454113464",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Japanese Communicator",
+            "link": "https://itviec.com/it-jobs/japanese-communicator-ans-asia-1714",
+            "description": "- Dịch các tài liệu phền mềm từ tiếng Nhật sang tiếng Việt, giải thích cho các thành viên trong nhóm.  Giao tiếp, trao đổi thông tin với khách hàng...",
+            "skills": [
+                "Japanese",
+                "Bridge Engineer",
+                "IT Support"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Fincorp.",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3536/fincorp-logo-170-151.jpg?1499333666",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Front-End Developer (Javascript)",
+            "link": "https://itviec.com/it-jobs/senior-front-end-developer-javascript-fincorp-1321",
+            "description": "Build front-end for web application using JavaScript, CSS3 and HTML5. Enhance, design and implement web applications interfacing with backend APIs...",
+            "skills": [
+                "JavaScript",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

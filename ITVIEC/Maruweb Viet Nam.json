@@ -1,0 +1,20 @@
+{
+    "name": "Maruweb Viet Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3532/maruweb-viet-nam-logo-170-151.PNG?1490366832",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developers - Up to $1000",
+            "link": "https://itviec.com/it-jobs/php-developers-up-to-1000-maruweb-viet-nam-5548",
+            "description": "Php Software Engineer works with members of the development team and be responsible for the development, and implementation of software applications...",
+            "skills": [
+                "OOP",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

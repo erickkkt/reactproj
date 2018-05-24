@@ -1,0 +1,40 @@
+{
+    "name": "Confluence Vietnam (HCMC)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/914/confluence-vietnam-hcmc-logo-170-151.jpg?1500521280",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Intermediate Data Analyst (Oracle / SQL)",
+            "link": "https://itviec.com/it-jobs/intermediate-data-analyst-oracle-sql-confluence-vietnam-hcmc-3805",
+            "description": "As part of the Regulatory Reporting team, your greatest assets are your teammates. Our platform requires both an excellent understanding of client...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Oracle"
+            ]
+        },
+        {
+            "name": "Regulatory Reporting - Business Analyst",
+            "link": "https://itviec.com/it-jobs/regulatory-reporting-business-analyst-confluence-vietnam-hcmc-4032",
+            "description": "Purpose   Confluence’s most important asset is its clients. The mission of the Business Analyst is to ensure that all clients are receiving the maximum...",
+            "skills": [
+                "English",
+                "IT Support",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Software Quality Engineer (QA QC/Tester)",
+            "link": "https://itviec.com/it-jobs/software-quality-engineer-qa-qc-tester-confluence-vietnam-hcmc-1710",
+            "description": "The Product Development Group is seeking passionate and skilled Software Quality Engineer to join our team. As a Software Quality Engineer you will work...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

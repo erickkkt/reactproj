@@ -1,0 +1,29 @@
+{
+    "name": "Magestore",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/789/magestore-logo-170-151.png?1491960281",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Dev (JavaScript/PHP) 1500$",
+            "link": "https://itviec.com/it-jobs/software-development-engineer-1500-magestore-3519",
+            "description": "1. Bài toánMagestore cung cấp các giải pháp quản trị kênh bán hàng doanh nghiệp dành cho các doanh nghiệp bán lẻ toàn cầu (cả online lẫn offline), cùng...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Android Developer - 1200 $",
+            "link": "https://itviec.com/it-jobs/android-developer-1200-magestore-3012",
+            "description": "1. Sứ mệnh Xây dựng  Ecommerce App cho hệ thống Omnichannel hoạt động trơn tru. 2. Mô tả công việc  Tham gia các dự án xây dựng Android App Support...",
+            "skills": [
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

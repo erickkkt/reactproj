@@ -1,0 +1,20 @@
+{
+    "name": "Tổ chức Tư vấn quản trị SME Hospital",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4125/t-ch-c-t-v-n-qu-n-tr-sme-hospital-logo-170-151.png?1504585388",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "02 Web Developers (.NET/ HTML/ SQL)",
+            "link": "https://itviec.com/it-jobs/02-mobile-developers-sme-hospital-5005",
+            "description": "1.Lập trình xây dựng ứng dụng Web và Mobile App2. Xây dựng các ứng dụng trên nền tảng Web hoặc Mobile App phục vụ khách hàng bao gồm xây dựng và nâng...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                ".NET"
+            ]
+        }
+    ]
+},

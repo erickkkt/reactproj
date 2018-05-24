@@ -1,0 +1,30 @@
+{
+    "name": "Terralogic",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/91/terralogic-logo-170-151.jpg?1493001131",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Embedded Software Engineer (C Language)",
+            "link": "https://itviec.com/it-jobs/embedded-software-engineer-terralogic-0924",
+            "description": "Responsible for all developing activities for embedded software based on ARM Cortex-M platforms Work effectively with other members of the team and...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        },
+        {
+            "name": "C/C++ Developer",
+            "link": "https://itviec.com/it-jobs/c-c-developer-terralogic-3122",
+            "description": "Responsible for all developing activities and maintaining the UI written on C++ Work effectively with other members of the team and other functions of...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

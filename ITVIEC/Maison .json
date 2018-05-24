@@ -1,0 +1,20 @@
+{
+    "name": "Maison ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4183/maison-logo-170-151.png?1506230896",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Admin",
+            "link": "https://itviec.com/it-jobs/system-admin-maison-3009",
+            "description": "- Kiểm tra, khắc phục sự cố về phần cứng cho Chi nhánh Hà Nội;- Kiểm tra, khắc phục sự cố về Internet và mạng;- Kiểm tra, khắc phục sự cố vê phần mềm...",
+            "skills": [
+                "System Admin",
+                "IT Support",
+                "Networking"
+            ]
+        }
+    ]
+},

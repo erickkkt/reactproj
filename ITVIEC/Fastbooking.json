@@ -1,0 +1,20 @@
+{
+    "name": "Fastbooking",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4014/fastbooking-logo-170-151.jpg?1501488045",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Front-End Developer, Asia",
+            "link": "https://itviec.com/it-jobs/front-end-developer-asia-fastbooking-2812",
+            "description": "Position Being part of the Web Studio at FASTBOOKING, the Developer will create our client websites, in collaboration with our Global team in Singapore,...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "Wordpress"
+            ]
+        }
+    ]
+},

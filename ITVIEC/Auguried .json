@@ -1,0 +1,29 @@
+{
+    "name": "Auguried ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4161/auguried-logo-170-151.png?1505703785",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Associate Software Analyst Developer",
+            "link": "https://itviec.com/it-jobs/associate-software-analyst-developer-auguried-5020",
+            "description": "Make Project Work. Have client’s needs in mind and keep them happy while strategically managing expectations, scope and budget constraints.   Guide our...",
+            "skills": [
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Enterprise Software Project Manager",
+            "link": "https://itviec.com/it-jobs/enterprise-software-project-manager-auguried-1011",
+            "description": "Make Project Work. Have client’s needs in mind and keep them happy while strategically managing expectations, scope and budget constraints.    Guide our...",
+            "skills": [
+                "Agile",
+                "Software Architect",
+                "Project Manager"
+            ]
+        }
+    ]
+},

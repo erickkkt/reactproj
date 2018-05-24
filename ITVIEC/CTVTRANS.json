@@ -1,0 +1,20 @@
+{
+    "name": "CTVTRANS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4111/ctvtrans-logo-170-151.png?1503995877",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Android Developers up to 1000$",
+            "link": "https://itviec.com/it-jobs/02-android-developers-ctvtran-3733",
+            "description": "- Xây dựng ứng dụng trên nền tảng Android  - Tiếp nhận đặc tả yêu cầu từ đội R&D - Báo cáo công việc với quản trị dự án - Phối hợp chặt chẽ với bộ...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

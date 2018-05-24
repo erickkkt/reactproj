@@ -1,0 +1,20 @@
+{
+    "name": "National Citizen Bank | NCB",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1843/national-citizen-bank-ncb-logo-170-151.png?1452226249",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Application Dev (PHP, JavaScript, .NET)",
+            "link": "https://itviec.com/it-jobs/application-dev-php-javascript-net-national-citizen-bank-ncb-2011",
+            "description": "- Thực hiện triển khai mới các sản phẩm và dịch vụ phần mềm theo nhu cầu kinh doanh và hoạt động của Ngân hàng;- Nghiên cứu phát triển các ứng dụng mới...",
+            "skills": [
+                "JavaScript",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

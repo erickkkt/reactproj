@@ -1,0 +1,20 @@
+{
+    "name": "Teamscāl",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1112/teamscal-logo-170-151.png?1498788788",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "ReactJS, NodeJS and Python Developer",
+            "link": "https://itviec.com/it-jobs/reactjs-node-js-and-python-developer-teamscal-3647",
+            "description": "At Teamscāl, we are working with an exciting international client, using Python as well as some React and Node.js. You will be developing back end...",
+            "skills": [
+                "Python",
+                "NodeJS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

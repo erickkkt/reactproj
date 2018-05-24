@@ -1,0 +1,29 @@
+{
+    "name": "APRICITY",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4142/apricity-logo-170-151.png?1504932339",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "UI-UX Designer",
+            "link": "https://itviec.com/it-jobs/ui-ux-designer-apricity-4851",
+            "description": "Bạn đã bao giờ nhìn thấy những cặp đôi đi hẹn hò với nhau mà trong tay mỗi người là một chiếc điện thoại, hay một gia đình nhỏ với đứa nhóc bị bỏ rơi vì...",
+            "skills": [
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Java Developer",
+            "link": "https://itviec.com/it-jobs/java-developer-apricity-5054",
+            "description": "Bạn đã bao giờ nhìn thấy những cặp đôi đi hẹn hò với nhau mà trong tay mỗi người là một chiếc điện thoại, hay một gia đình nhỏ với đứa nhóc bị bỏ rơi vì...",
+            "skills": [
+                "Database",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

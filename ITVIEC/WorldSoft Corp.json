@@ -1,0 +1,20 @@
+{
+    "name": "WorldSoft Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1673/worldsoft-corp-logo-170-151.png?1454113583",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Engineer (C#, ASP.NET, SQL)",
+            "link": "https://itviec.com/it-jobs/software-engineer-c-asp-net-sql-worldsoft-corp-2322",
+            "description": "We welcome junior/senior ASP.NET Developers to join our team. Job Description:   Implementing requirements and design from customers. Suggesting...",
+            "skills": [
+                "C#",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

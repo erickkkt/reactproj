@@ -1,0 +1,20 @@
+{
+    "name": "Điện Máy Thiên Hòa",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2862/di-n-may-thien-hoa-logo-170-151.png?1471945396",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Admin (Linux, PHP)",
+            "link": "https://itviec.com/it-jobs/system-admin-linux-php-dien-may-thien-hoa-0643",
+            "description": "- Quản lý và cấu hình tổng đài Asterisk Elastix, hệ thống Website dạng nguồn mở như: CS-CART,...bằng PHP&MySQL trên Linux, CentOS cho mô hình phân...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "PHP"
+            ]
+        }
+    ]
+},

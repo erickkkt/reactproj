@@ -1,0 +1,30 @@
+{
+    "name": "UNIT Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/224/unit-corp-logo-170-151.png?1488859767",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[Urgent] 5 Senior .NET Developer",
+            "link": "https://itviec.com/it-jobs/urgent-5-senior-net-developer-unit-corp-1936",
+            "description": "Job Description:  We’re looking for Senior .NET Developer have experience in building high-performance, scalable, robustness web-based systems used in...",
+            "skills": [
+                "Database",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "[Urgent] 9 Java Developer",
+            "link": "https://itviec.com/it-jobs/urgent-9-java-developer-unit-corp-4551",
+            "description": "Tham gia phát triển phần mềm trên nền Web-application. Tham gia vào phân tích thiết kế hệ thống. Tham gia vào qui trình phát triển phần mềm chuyên...",
+            "skills": [
+                "Database",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

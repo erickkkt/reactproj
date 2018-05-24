@@ -1,0 +1,40 @@
+{
+    "name": "Alipay",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1594/alipay-logo-170-151.png?1506659447",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Site Reliability Engineer (Linux/System)",
+            "link": "https://itviec.com/it-jobs/site-reliability-engineer-linux-system-alipay-3128",
+            "description": "As a Site Reliability Engineer, you will create and support a mix of custom and off-the-shelf tools for supporting a wide range of infrastructure and...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Java Developers (J2EE/SQL)- Up to $2,500",
+            "link": "https://itviec.com/it-jobs/java-developers-j2ee-sql-up-to-2-500-hellopay-4654",
+            "description": "Java developer responsibilities include designing and developing high-volume, low-latency server-end applications for mission-critical systems and...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior QA QC Engineers (Tester, English)",
+            "link": "https://itviec.com/it-jobs/senior-qa-qc-engineers-tester-english-hellopay-2428",
+            "description": "Understand functional and non-functional requirements of software product, design quality assurance and testing strategies for various different...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "PA Technologies",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2843/pa-technologies-logo-170-151.jpg?1471840781",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Android Developers",
+            "link": "https://itviec.com/it-jobs/android-developers-pa-technologies-3830",
+            "description": "We are looking for 5 Android developers as description below:    Develop our new android applications and implement new android features. Research the...",
+            "skills": [
+                "Agile",
+                "Mobile Apps",
+                "Android"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Adon",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3769/adon-logo-170-151.png?1495852986",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Java Developer",
+            "link": "https://itviec.com/it-jobs/java-developer-adon-2323",
+            "description": "• Lập trình kết nối các hệ thống web, mobile app, cơ sở dữ liệu trên ngôn ngữ Java, .NET, PHP, SQL CSDL (MySQL, Oracle...)• Phát triển và bảo trì ứng...",
+            "skills": [
+                "SQL",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Web Developer (Java, SQL)",
+            "link": "https://itviec.com/it-jobs/web-developer-java-sql-adon-2403",
+            "description": "Lập trình kết nối các hệ thống web, mobile app, cơ sở dữ liệu trên ngôn ngữ Java, .NET, PHP, SQL CSDL (MySQL, Oracle...) Phát triển và bảo trì ứng dụng...",
+            "skills": [
+                "SQL",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

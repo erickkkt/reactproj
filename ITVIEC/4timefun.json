@@ -1,0 +1,30 @@
+{
+    "name": "4timefun",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4109/4timefun-logo-170-151.jpg?1504156128",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Japanese Comtor (Up to $1500)",
+            "link": "https://itviec.com/it-jobs/japanese-comtor-up-to-1000-4timefun-1649",
+            "description": "- Phiên dịch các cuộc họp từ xa, hoặc họp trực tiếp với khách hàng - Dịch tài liệu từ tiếng Nhật sang tiếng Việt hoặc ngược lại - Liên lạc với khách...",
+            "skills": [
+                "Japanese",
+                "Bridge Engineer",
+                "IT Support"
+            ]
+        },
+        {
+            "name": "Software Developers (Java, PHP, MySQL)",
+            "link": "https://itviec.com/it-jobs/software-developers-java-php-mysql-4timefun-gotech-3154",
+            "description": "　Phát triển các app, system ( bao gồm cả test) 　Hoạt động Maintenance app và system 　Quản lý dự án 　Báo cáo tiến độ, meeting dự án với phía Nhật. ",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

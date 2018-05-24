@@ -1,0 +1,100 @@
+{
+    "name": "VPBank",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1497/vpbank-logo-170-151.png?1492078235",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Telecom Administration",
+            "link": "https://itviec.com/it-jobs/telecom-administration-vpbank-0617",
+            "description": "1. Administrating, configurating the system of VoIP, Video conference systems, Sip Trunking. Administration the system of Voip which is connecting to...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "PHP"
+            ]
+        },
+        {
+            "name": ".NET Developers (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developers-asp-net-c-vpbank-1536",
+            "description": "Configure card product Develop tools for card operations Join card security project ",
+            "skills": [
+                "C#",
+                "Oracle",
+                ".NET"
+            ]
+        },
+        {
+            "name": "UX Manager",
+            "link": "https://itviec.com/it-jobs/ux-manager-vpbank-0413",
+            "description": "- Use consumer insights gathered from research, psychology, and UX best practices, takes a consumer-centric approach to helping an organization make...",
+            "skills": [
+                "UI-UX",
+                "Manager",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Senior Data Analyst",
+            "link": "https://itviec.com/it-jobs/senior-data-analyst-vpbank-0253",
+            "description": "- Support data-driven decision-making by analyzing customer transaction data & business data internally while compare with market trend to see big...",
+            "skills": [
+                "Database",
+                "Project Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "IT Development Manager",
+            "link": "https://itviec.com/it-jobs/it-development-manager-vpbank-0023",
+            "description": "- Sets policy and standards for solution development projects- Promotes the benefits of addressing all issues during solution development and ensures...",
+            "skills": [
+                "Agile",
+                "Software Architect",
+                "Project Manager"
+            ]
+        },
+        {
+            "name": "Infrastructure Project Manager",
+            "link": "https://itviec.com/it-jobs/infrastructure-project-manager-vpbank-0701",
+            "description": "- Lead the bank’s “Datacenter moving” project.  Deliver assigned projects with expected quality of result, according to stakeholders expectations, with...",
+            "skills": [
+                "System Engineer",
+                "Project Manager",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Senior Project Manager",
+            "link": "https://itviec.com/it-jobs/senior-project-manager-vpbank-5128",
+            "description": "Deliver assigned projects with expected quality of result, according to stakeholders expectations, with minimal escalations and management help Organize...",
+            "skills": [
+                "English",
+                "Project Manager",
+                "Manager"
+            ]
+        },
+        {
+            "name": "Senior Business Analyst",
+            "link": "https://itviec.com/it-jobs/senior-business-analyst-vpbank-4926",
+            "description": "Study, analyze new banking products, banking processes, which may across all Business domains, such as Liabilities, Loans, Cards, Sale and Services,...",
+            "skills": [
+                "Database",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Senior System Analyst",
+            "link": "https://itviec.com/it-jobs/senior-system-analyst-vpbank-4745",
+            "description": "Understand and analyze business requirements from different business units and branches in VPBank Participate in the dedicated projects at a given time,...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "English"
+            ]
+        }
+    ]
+},

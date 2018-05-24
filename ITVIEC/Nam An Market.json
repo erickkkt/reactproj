@@ -1,0 +1,30 @@
+{
+    "name": "Nam An Market",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3907/nam-an-market-logo-170-151.png?1498814024",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Graphic Designer",
+            "link": "https://itviec.com/it-jobs/graphic-designer-nam-an-market-5258",
+            "description": "Thiết kế giao diện và đồ họa cho các website của công ty. Xử lý hoàn thiện hình ảnh giới thiệu sản phẩm, dịch vụ. Thiết kế hình ảnh, brochure, banner,...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "System and Network Admin",
+            "link": "https://itviec.com/it-jobs/system-and-network-admin-nam-an-market-2138",
+            "description": "- Chịu trách nhiệm quản lý hệ thống server chủ. - Quản lý và khắc phục sự cố hệ thống mạng, máy tính văn phòng. - Xây dựng, quản lý hệ thống cơ sở vật...",
+            "skills": [
+                "System Admin",
+                "Networking",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,19 @@
+{
+    "name": "LINKBYNET VIETNAM ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1886/linkbynet-vietnam-logo-170-151.png?1471404614",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Storage/Virtualization Administrator",
+            "link": "https://itviec.com/it-jobs/storage-virtualization-administrator-linkbynet-vietnam-0748",
+            "description": "Configure and maintain SAN devices, fiber switches and virtualization systems. • Managing NAS volumes and snapshots as well as recovery methods. •...",
+            "skills": [
+                "English",
+                "Networking"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Caters De Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4156/caters-de-vietnam-logo-170-151.jpg?1505552568",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front-end Dev (JavaScript, HTML5, CSS)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-javascript-html5-css-caters-de-vietnam-0431",
+            "description": "CÔNG TY CATERS DE VIET NAM TUYỂN DỤNG VỊ TRÍ KỸ SƯ FRONT-END DEVELOPER",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

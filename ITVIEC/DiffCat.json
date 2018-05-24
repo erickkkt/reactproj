@@ -1,0 +1,30 @@
+{
+    "name": "DiffCat",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4152/diffcat-logo-170-151.png?1505382549",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Game Back-end Developer (800$-1500$)",
+            "link": "https://itviec.com/it-jobs/game-server-developer-600-1200-diffcat-4356",
+            "description": "Lập trình giao tiếp Client – Server, Web-Service Triển khai và vận hành Game Server Tối ưu hóa, tăng cường bảo mật cho Server. Làm việc cùng nhau với...",
+            "skills": [
+                "NodeJS",
+                "Games",
+                "Java"
+            ]
+        },
+        {
+            "name": "Unity Game Developer (800$-1200$)",
+            "link": "https://itviec.com/it-jobs/unity-game-developer-800-1200-diffcat-4104",
+            "description": "Phát triển game online / offline bằng Unity3D. Làm việc cùng nhau với team design, artist, server. Hãy luôn sẵn sàng để thử thách, công nghệ mới, mục...",
+            "skills": [
+                "C#",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "MK Smart",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1345/mk-smart-logo-170-151.png?1490176502",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 Java/C Developers ",
+            "link": "https://itviec.com/it-jobs/03-java-c-developers-mk-smart-3915",
+            "description": "* Miêu tả công việc *Lập trình nhúng:  - Viết chương trình phần mềm cho thẻ thông minh - Viết chương trình firmwave cho các thiết bị sử dụng thẻ thông...",
+            "skills": [
+                "C++",
+                "C language",
+                "Java"
+            ]
+        }
+    ]
+},

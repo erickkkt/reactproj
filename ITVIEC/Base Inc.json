@@ -1,0 +1,20 @@
+{
+    "name": "Base Inc.",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3039/base-inc-logo-170-151.png?1500973418",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "5PHP Dev - 1 năm KN - Up to 1500$",
+            "link": "https://itviec.com/it-jobs/base-inc-5php-developers-up-to-1500-base-inc-4440",
+            "description": "Xây dựng và phát triển ứng dụng SaaS hỗ trợ doanh nghiệp làm việc hiệu quả. Chi tiết công việc sẽ được chia sẽ trong buổi phỏng vấn. Ứng viên có thể tìm...",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "FICOM",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4086/ficom-logo-170-151.png?1503456759",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Web Designer (HTML5, CSS)",
+            "link": "https://itviec.com/it-jobs/web-designer-html5-css-ficom-4125",
+            "description": "Tham gia các cuộc họp với khách hàng lấy yêu cầu, ý tưởng để lên layout Photoshop hoặc AI demo bản concept cho khách hàng duyệt Chuyển các file thiết kế...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Designer"
+            ]
+        }
+    ]
+},

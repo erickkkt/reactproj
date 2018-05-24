@@ -1,0 +1,20 @@
+{
+    "name": "Hanbiro Inc",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/359/hanbiro-inc-logo-170-151.png?1454112996",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "10 Dev (PHP, Android, Jsp/servlet)",
+            "link": "https://itviec.com/it-jobs/10-dev-php-android-jsp-servlet-hanbiro-inc-3720",
+            "description": "Joining our company as a Developer position, you will have a lot of opportunities to take an active role in our products and delight our customer with...",
+            "skills": [
+                "Java",
+                "PHP",
+                "Android"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "CityNow",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2994/citynow-logo-170-151.png?1486541446",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developers (Up to 1200$)",
+            "link": "https://itviec.com/it-jobs/php-developers-up-to-1200-citynow-2304",
+            "description": "Tham gia phát triển phần mềm nền tảng web, phân tích yêu cầu khách hàng và phát triển chức năng sản phẩm. Chịu trách nhiệm các khâu thiết kế cơ sở dữ...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

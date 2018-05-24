@@ -1,0 +1,20 @@
+{
+    "name": "Gosei Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2076/gosei-vietnam-logo-170-151.png?1456547781",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior .NET Developer (C#,SQL, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-c-sql-asp-net-gosei-vietnam-0625",
+            "description": "Tham gia phát triển sản phẩm và xây dựng các giải pháp sử dụng công nghệ của Microsoft cho các khách hàng trong và ngoài nước Hỗ trợ các thành viên...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

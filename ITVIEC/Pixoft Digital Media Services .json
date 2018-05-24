@@ -1,0 +1,20 @@
+{
+    "name": "Pixoft Digital Media Services ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4101/pixoft-digital-media-services-logo-170-151.png?1503742450",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Mobile Developer (Android/iOS/C++)",
+            "link": "https://itviec.com/it-jobs/mobile-developer-android-ios-c-pixoft-digital-media-services-1559",
+            "description": "We are looking for a Mobile Application Developer who possesses a passion for mobiletechnologies and will work with next generation payment gateway...",
+            "skills": [
+                "C++",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

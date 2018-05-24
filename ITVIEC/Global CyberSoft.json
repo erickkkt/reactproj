@@ -1,0 +1,39 @@
+{
+    "name": "Global CyberSoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/189/global-cybersoft-logo-170-151.jpg?1467280280",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Automation Engineer (QAQC/PLC/HMI/SCADA)",
+            "link": "https://itviec.com/it-jobs/automation-engineer-qaqc-plc-hmi-scada-global-cybersoft-0817",
+            "description": "Work with project team members and others if any Aid in the development, design and implementation of future automation requirements. Furthermore, you...",
+            "skills": [
+                "System Engineer",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "100 Engineers in Java, .NET/C# or C/C++",
+            "link": "https://itviec.com/it-jobs/100-engineers-in-java-net-c-or-c-c-global-cybersoft-5118",
+            "description": "To combine with our Team’s members, you will deliver the followings:  Design, code and test implementation in Java or .NET/C# or C/C++ Work as a key...",
+            "skills": [
+                "C language",
+                "Java",
+                ".NET"
+            ]
+        },
+        {
+            "name": "50 Tester Engineers (QA AC, English)",
+            "link": "https://itviec.com/it-jobs/50-tester-engineers-qa-ac-english-global-cybersoft-4649",
+            "description": "Participate in requirements analyzing and developing. Perform testing, including developing test cases, writing test scripts, executing tests, analyzing...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "ChinesePod",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2526/chinesepod-logo-170-151.png?1468312754",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Linux System Administrator",
+            "link": "https://itviec.com/it-jobs/linux-system-administrator-chinesepod-0352",
+            "description": "- Looking for a Linux System Administrator/Programmer/Web Developer to manage our ever-growing collective of Application and database servers.        ",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "System Admin"
+            ]
+        },
+        {
+            "name": "QC Engineer (Games/App) - Part time",
+            "link": "https://itviec.com/it-jobs/qc-engineer-games-app-part-time-chinesepod-0456",
+            "description": "Read and Verify Requirements/Design Specification Write/Update Test documents (Test plan, Test cases/Checklist, Test report). Execute Manual,...",
+            "skills": [
+                "Games",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

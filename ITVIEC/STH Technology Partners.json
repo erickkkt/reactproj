@@ -1,0 +1,20 @@
+{
+    "name": "STH Technology Partners",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/911/sth-technology-partners-logo-170-151.gif?1454113172",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developers (HTML5, CSS, JavaScript)",
+            "link": "https://itviec.com/it-jobs/php-developers-html5-css-javascript-sth-technology-partners-0224",
+            "description": "Phát triển web sử dụng PHP Chuyển đổi giao diện từ file Photoshop sang HTML, CSS, JavaScript Phát triển API cho Smartphone Phát triển website quản trị...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        }
+    ]
+},

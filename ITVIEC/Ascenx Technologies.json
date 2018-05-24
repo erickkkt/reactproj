@@ -1,0 +1,20 @@
+{
+    "name": "Ascenx Technologies",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3726/ascenx-technologies-logo-170-151.png?1495097481",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (PHP, SQL)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-sql-ascenx-technologies-3936",
+            "description": "Supporting Engineering Services with project tracking and reporting tasks: Creating and maintaining automated tools to track the progress and report the...",
+            "skills": [
+                "SQL",
+                "ERP",
+                "PHP"
+            ]
+        }
+    ]
+},

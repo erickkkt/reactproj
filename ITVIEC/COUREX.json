@@ -1,0 +1,20 @@
+{
+    "name": "COUREX",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4188/courex-logo-170-151.png?1506484282",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "No-Nonsense, Get-Work-Done PHP Engineers",
+            "link": "https://itviec.com/it-jobs/no-nonsense-get-work-done-php-engineers-courex-4217",
+            "description": "We are an ecommerce logistics company based in Singapore who is a subsidiary of Keppel T&T, a listed company in Singapore. We are starting a new...",
+            "skills": [
+                "Linux",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

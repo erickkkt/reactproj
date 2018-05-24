@@ -1,0 +1,20 @@
+{
+    "name": "Fastcoding Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2690/fastcoding-vietnam-logo-170-151.png?1475563737",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front-end Dev (JavaScript. HTML, CSS)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-javascript-html-css-fastcoding-vietnam-4630",
+            "description": "Front-end Developer is responsible for creating website from PSD with HTML/CSS/JS techniques.",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

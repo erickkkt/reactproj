@@ -1,0 +1,20 @@
+{
+    "name": "Nam Long Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1062/nam-long-software-logo-170-151.png?1454113608",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-nam-long-software-3314",
+            "description": "- Tham gia phát triển và xây dựng các sản phẩm của công ty trên nền PHP, Yii framework, NodeJS,AngularJS, ReactJS, Linux, MySql, - Các công việc khác có...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

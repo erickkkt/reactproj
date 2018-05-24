@@ -1,0 +1,20 @@
+{
+    "name": "VNDC Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4165/vndc-technology-logo-170-151.png?1505897478",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior .NET Developer",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-vndc-technology-3908",
+            "description": "VNDC là công ty khởi nghiệp về công nghệ đang phát triển rất nhanh với số lượng khách hàng lớn. Hiên chúng tôi đang cần bổ sung đồng đội lập trình giỏi...",
+            "skills": [
+                "Database",
+                "JavaScript",
+                ".NET"
+            ]
+        }
+    ]
+},

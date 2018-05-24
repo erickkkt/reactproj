@@ -1,0 +1,20 @@
+{
+    "name": "Narrow Pacific",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4121/narrow-pacific-logo-170-151.jpg?1504175282",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (HTML5, NodeJS, SQL)",
+            "link": "https://itviec.com/it-jobs/web-developer-html5-nodejs-sql-narrow-pacific-3022",
+            "description": "Up to $2.000 per month and ~$100 child care for good candidates. We are a start-up in the digital asset and crypto-currency field. We are looking for a...",
+            "skills": [
+                "HTML5",
+                "SQL",
+                "NodeJS"
+            ]
+        }
+    ]
+},

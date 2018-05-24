@@ -1,0 +1,30 @@
+{
+    "name": "Lucky Telecom",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1973/lucky-telecom-logo-170-151.jpg?1454113605",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Lập Trình Viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-lucky-telecom-4529",
+            "description": "Thực hiện các nhiệm khác theo yêu cầu của Trưởng nhóm Tham gia phát triển ứng dụng trên nền tảng PHP. Chi tiết công việc sẽ được trao đổi cụ thể trong...",
+            "skills": [
+                "HTML5",
+                "Database",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Lập Trình Viên Android",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-android-lucky-telecom-4207",
+            "description": "Thực hiện các nhiệm khác theo yêu cầu của Trưởng nhóm Tham gia phát triển ứng dụng trên nền tảng Android. Chi tiết công việc sẽ được trao đổi cụ thể...",
+            "skills": [
+                "Mobile Apps",
+                "Database",
+                "Android"
+            ]
+        }
+    ]
+},

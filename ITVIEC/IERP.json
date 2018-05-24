@@ -1,0 +1,20 @@
+{
+    "name": "IERP",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3618/ierp-logo-170-151.png?1492759878",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "3 C# Developers (ASP.Net, SQL)-Up to 20M",
+            "link": "https://itviec.com/it-jobs/3-c-developers-asp-net-sql-up-to-20m-ierp-1118",
+            "description": "Công ty Cổ phần Dịch vụ IERP tại Hà Nội của chúng mình cần tìm 2-3 bạn để cùng nhau thực hiện nhiệm vụ sau:  Tích hợp dữ liệu từ các nguồn dữ liệu khác...",
+            "skills": [
+                "C#",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

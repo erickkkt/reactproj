@@ -1,0 +1,30 @@
+{
+    "name": "Upskills",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/213/upskills-logo-170-151.png?1458709285",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Junior Integration Developer (SQL, Java)",
+            "link": "https://itviec.com/it-jobs/junior-integration-developer-sql-java-upskills-0050",
+            "description": "Upskills is seeking a highly motivated candidate who will be responsible for, and not limited to:  Deploy and maintain software system System...",
+            "skills": [
+                "XML",
+                "Oracle",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior Software Engineer (Java)",
+            "link": "https://itviec.com/it-jobs/senior-software-engineer-java-upskills-0011",
+            "description": "Upskills is seeking a highly motivated candidate who will be responsible for, and not limited to:  Lead software and web development projects for...",
+            "skills": [
+                "SQL",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "Techub",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2550/techub-logo-170-151.png?1468484351",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developer (Laravel or Zend) ~25mil",
+            "link": "https://itviec.com/it-jobs/php-developer-laravel-or-zend-25mil-techub-2246",
+            "description": "HATE boring jobs? Hate working in a corporate environment? Hate being mindlessly ordered around like a zombie worker? Prefer to work in a flexible...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        },
+        {
+            "name": "QA Engineer",
+            "link": "https://itviec.com/it-jobs/qa-engineer-techub-2448",
+            "description": "HATE boring jobs? Hate working in a corporate environment? Hate being mindlessly ordered around like a zombie worker? Prefer to work in a flexible...",
+            "skills": [
+                "OOP",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "PHP Developer (Laravel or Zend)",
+            "link": "https://itviec.com/it-jobs/php-developer-laravel-or-zend-techub-1910",
+            "description": "HATE boring jobs? Hate working in a corporate environment? Hate being mindlessly ordered around like a zombie worker? Prefer to work in a flexible...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        }
+    ]
+},

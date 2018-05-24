@@ -1,0 +1,20 @@
+{
+    "name": "EGD Group ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2393/egd-group-logo-170-151.jpg?1466067615",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Frontend developer(HTML5/CSS/Javascript)",
+            "link": "https://itviec.com/it-jobs/frontend-developer-egd-group-4057",
+            "description": "Tham gia vào các dự án của công ty cung cấp sản phẩm dịch vụ cho thị trường Mỹ và châu Âu. Đội Frontend Developer có sứ mệnh đảm bảo sự hoạt động ổn...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

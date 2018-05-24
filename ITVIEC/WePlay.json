@@ -1,0 +1,20 @@
+{
+    "name": "WePlay",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4071/weplay-logo-170-151.jpg?1503041534",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-weplay-0012",
+            "description": "+ Tham gia phát triển các ứng dụng, game trên Android. + Triển khai tích hợp APIs mạng xã hội, các cổng thanh toán.",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

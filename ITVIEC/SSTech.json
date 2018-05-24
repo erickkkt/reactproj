@@ -1,0 +1,20 @@
+{
+    "name": "SSTech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/107/sstech-logo-170-151.png?1504664076",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "3 Php Developers - Lập trình viên Php",
+            "link": "https://itviec.com/it-jobs/3-php-developers-lap-trinh-vien-php-sstech-1029",
+            "description": "We are looking for PHP Developers (for both senior and junior position), who is expected to be able to perform all aspects of the development and...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "DEK Technologies",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/141/dek-technologies-logo-170-151.jpg?1454112824",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Network System Tester",
+            "link": "https://itviec.com/it-jobs/network-system-tester-dek-technologies-2610",
+            "description": "Exciting, new opportunities exist in our development team responsible for a large-scale system from a world-leading company. You will be working with...",
+            "skills": [
+                "Linux",
+                "Networking",
+                "Tester"
+            ]
+        },
+        {
+            "name": "Mobile Apps Developers (Android & iOS)",
+            "link": "https://itviec.com/it-jobs/mobile-apps-developers-android-ios-dek-technologies-2554",
+            "description": "We are looking for Experienced Developers to design and build Android and iOS Mobile applications. You need to be self-driven and love to solve problems.",
+            "skills": [
+                "Objective C",
+                "Java",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Web Developers (Java, jQuery, SQL)",
+            "link": "https://itviec.com/it-jobs/web-developers-java-jquery-sql-dek-technologies-2246",
+            "description": "We are looking for Experienced Developers to develop Web with modern technologies and framework. You need to be self-driven and love to solve problems.",
+            "skills": [
+                "SQL",
+                "JQuery",
+                "Java"
+            ]
+        }
+    ]
+},

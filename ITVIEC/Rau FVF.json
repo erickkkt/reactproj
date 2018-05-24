@@ -1,0 +1,30 @@
+{
+    "name": "Rau FVF",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3442/rau-fvf-logo-170-151.jpg?1487140945",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Graphic Designer",
+            "link": "https://itviec.com/it-jobs/graphic-designer-rau-fvf-0800",
+            "description": "- Thực hiện chỉnh sửa, xử lý hình ảnh, giao diện website trên PC, mobile, table ... theo yêu cầu.  Tham gia quy trình thiết kế, phát triển và triển khai...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-rau-fvf-0631",
+            "description": "- Thiết kế giao diện websites.  Thiết kế UI cho các phần mềm của công ty- Thiết kế banners quảng cáo.  Thiết kế trang nội dung- Cắt giao diện và viết...",
+            "skills": [
+                "UI-UX",
+                "English",
+                "Designer"
+            ]
+        }
+    ]
+},

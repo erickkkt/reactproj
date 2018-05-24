@@ -1,0 +1,20 @@
+{
+    "name": "PYCOGROUP",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/167/pycogroup-logo-170-151.png?1455852552",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Software Solution Architect (Java)",
+            "link": "https://itviec.com/it-jobs/software-solution-architect-pycogroup-5650",
+            "description": "The Software Solution Architect (SSA) provides technical and business domain leadership throughout the software lifecycle, from pre-sales,...",
+            "skills": [
+                "Software Architect",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "SmartOSC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/267/smartosc-logo-170-151.jpg?1497889593",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior PHP Developer (Up to $2.000)",
+            "link": "https://itviec.com/it-jobs/senior-php-developer-up-to-2-000-smartosc-0543",
+            "description": "Participate in Ecommerce web development projects for clients in Europe, North America. Design, coding & implement changes/extensions to meet...",
+            "skills": [
+                "JavaScript",
+                "Magento",
+                "PHP"
+            ]
+        },
+        {
+            "name": "10 .NET Developer (Onsite Japan)",
+            "link": "https://itviec.com/it-jobs/10-net-developer-onsite-japan-smartosc-4126",
+            "description": "Participating in ecommerce development projects using Sitecore. Carrying out assigned tasks to meet all deadlines and delivered with quality results....",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Sr .NET Developer (Salary Up to $2000)",
+            "link": "https://itviec.com/it-jobs/sr-net-developer-salary-up-to-2000-smartosc-2631",
+            "description": "Participate in software, ecommerce, web development projects for clients in Europe, Australia and North America Carry out assigned tasks to meet all...",
+            "skills": [
+                "CSS",
+                "MVC",
+                ".NET"
+            ]
+        }
+    ]
+},

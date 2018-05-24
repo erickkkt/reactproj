@@ -1,0 +1,60 @@
+{
+    "name": "KMS Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/31/kms-technology-logo-170-151.png?1454113898",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Software Engineer",
+            "link": "https://itviec.com/it-jobs/senior-software-engineer-kms-technology-2451",
+            "description": "Working within a fast growing team at KMS Technology, the winning candidate will join various software development projects. Our team has been working...",
+            "skills": [
+                "JavaScript",
+                "Java",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Senior Front-End Engineer(Joining Bonus)",
+            "link": "https://itviec.com/it-jobs/senior-front-end-engineer-joining-bonus-kms-technology-4329",
+            "description": "We are embarking the journey of becoming the 1000 People Company in Y2019 and aiming for a bigger, stronger and better KMS Family as always. We want to...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Senior Java Engineer (Joining Bonus)",
+            "link": "https://itviec.com/it-jobs/senior-java-engineer-java-javascript-kms-technology-0734",
+            "description": "Joining bonus program:   We are embarking the journey of becoming the 1000 People Company in Y2019 and aiming for a bigger, stronger and better KMS...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Urgent - Software Tester / QA / QC",
+            "link": "https://itviec.com/it-jobs/urgent-software-tester-qa-qc-kms-technology-2608",
+            "description": "Develop, maintain and execute manual test cases for major projects, maintenance, and emergency releases Design and implement automation tests scripts,...",
+            "skills": [
+                "Agile",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Java Developer ",
+            "link": "https://itviec.com/it-jobs/java-developer-angularjs-reactjs-kms-technology-2624",
+            "description": "Working within a fast growing team at KMS Technology, the winning candidate will join various software development projects. The responsibility includes...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

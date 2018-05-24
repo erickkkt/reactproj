@@ -1,0 +1,60 @@
+{
+    "name": "8Bit Rockstars",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1730/8bit-rockstars-logo-170-151.jpg?1499915272",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "10 Senior PHP Developers (up to $1,500)",
+            "link": "https://itviec.com/it-jobs/10-senior-php-developers-up-to-1-500-8bit-rockstars-4909",
+            "description": "It’s not only about coding, but also about building products. You will be joining an awesome startup team to build cool applications that serve millions...",
+            "skills": [
+                "MySQL",
+                "English",
+                "PHP"
+            ]
+        },
+        {
+            "name": "DevOps System Engineer (AWS, Linux, SQL)",
+            "link": "https://itviec.com/it-jobs/devops-system-engineer-aws-linux-sql-8bit-rockstars-3132",
+            "description": "Develop command tools that enable developers to quickly build, test and deploy locally and to the cloud It’s not only about coding, but also about...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "Database"
+            ]
+        },
+        {
+            "name": "Senior Front End Developer",
+            "link": "https://itviec.com/it-jobs/front-end-senior-developer-8bit-rockstars-4312",
+            "description": "It’s not only about coding, but also about building products. You will be joining an awesome startup team to build cool applicationsthat serve millions...",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "English"
+            ]
+        },
+        {
+            "name": "Full-stack PHP Developer ($1,000-$1,500)",
+            "link": "https://itviec.com/it-jobs/fullstack-developer-8bit-rockstars-1242",
+            "description": "It’s not only about coding, but also about building products. You will be joining an awesome startup team to build cool applicationsthat serve millions...",
+            "skills": [
+                "JavaScript",
+                "English",
+                "PHP"
+            ]
+        },
+        {
+            "name": "PHP Technical Lead ($1,500-$2,500)",
+            "link": "https://itviec.com/it-jobs/php-technical-lead-8bit-rockstars-3440",
+            "description": "It is not just about coding, but also about building products. You will be joining an awesome startup team to build cool applications that serve...",
+            "skills": [
+                "Team Leader",
+                "English",
+                "PHP"
+            ]
+        }
+    ]
+},

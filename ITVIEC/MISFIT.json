@@ -1,0 +1,100 @@
+{
+    "name": "MISFIT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/114/misfit-logo-170-151.jpg?1463630640",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Technical Support",
+            "link": "https://itviec.com/it-jobs/technical-support-misfit-3702",
+            "description": "Join the Fossil/Misfit Customer Service Team and become the technical expert who assists customers through the most complicated issues and provides them...",
+            "skills": [
+                "Agile",
+                "IT Support",
+                "Tester"
+            ]
+        },
+        {
+            "name": "Ecommerce Software Program Manager",
+            "link": "https://itviec.com/it-jobs/ecommerce-software-program-manager-misfit-1106",
+            "description": "End-to- end software project delivery with the focus on developing eCommerce software solutions. Collaborate with business stakeholders and engineering...",
+            "skills": [
+                "Product Manager",
+                "Project Manager",
+                "Magento"
+            ]
+        },
+        {
+            "name": "(Sr) Web Front-end Engineer (AngularJS)",
+            "link": "https://itviec.com/it-jobs/sr-web-front-end-engineer-angularjs-misfit-3642",
+            "description": "Develop and maintain front-end functions of Fossil Group’s e-commerce websites globally including:   Work with of Product and design team to help...",
+            "skills": [
+                "CSS",
+                "AngularJS",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Lead Web E-commerce (Websphere)",
+            "link": "https://itviec.com/it-jobs/lead-web-e-commerce-websphere-misfit-0847",
+            "description": "Develop and maintain backend functions of Fossil Group’s e-commerce websites globally including: Work with of Product team to help identifying technical...",
+            "skills": [
+                "Database",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "Solution Architect (Agile/Mobile)",
+            "link": "https://itviec.com/it-jobs/solution-architect-agile-mobile-misfit-0805",
+            "description": "Participate or provide support in improving technical team engineering process including: Product development process Task management process Dev &...",
+            "skills": [
+                "Agile",
+                "Mobile Apps",
+                "Software Architect"
+            ]
+        },
+        {
+            "name": "(Sr) Web/Ecommerce Engineer (Java, J2EE)",
+            "link": "https://itviec.com/it-jobs/sr-web-ecommerce-engineer-java-j2ee-misfit-0601",
+            "description": "Manage Fossil portfolio brands' websites globally Develop and maintain the core functional logic and operations of our website and e- commerce system...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "(Sr) Software QA Engineer- Automation",
+            "link": "https://itviec.com/it-jobs/sr-software-qa-engineer-automation-misfit-0330",
+            "description": "We are opening opportunities to be parts of our team to work on edge-cutting products/ technologies. Our system need to meet remarkably high standards...",
+            "skills": [
+                "Agile",
+                "Java",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "(Sr.) Back-end Engineer (Ruby/Python)",
+            "link": "https://itviec.com/it-jobs/sr-back-end-engineer-ruby-python-misfit-0301",
+            "description": "As a Misfit developer, you'll be contributing to the development of next-generation wearable products to improve peoples' health and wellbeing, while...",
+            "skills": [
+                "Python",
+                "SQL",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "(Senior) Android Engineer",
+            "link": "https://itviec.com/it-jobs/senior-android-engineer-misfit-0210",
+            "description": "As a Misfit developer, you'll be contributing to the development of next generation wearable products to improve people’s health and wellbeing, while...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

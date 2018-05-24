@@ -1,0 +1,30 @@
+{
+    "name": "Contemi Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/180/contemi-vietnam-logo-170-151.jpg?1454112708",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developer - Up to $2,000",
+            "link": "https://itviec.com/it-jobs/php-developer-contemi-vietnam-2639",
+            "description": "What You Will Do Create high quality Enterprise System Follow good Architecture Design Be Proud of your Masterpiece Improve Yourself in a Talented and...",
+            "skills": [
+                "JavaScript",
+                "English",
+                "PHP"
+            ]
+        },
+        {
+            "name": " Senior .NET Developer - Up to 2,000 USD",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-up-to-2-000-usd-contemi-vietnam-2041",
+            "description": "Create High Quality Systems Follow Good Architecture Design Be Proud of your Masterpiece   Improve Yourself in a Talented and Passionate Team...",
+            "skills": [
+                "C#",
+                "MVC",
+                ".NET"
+            ]
+        }
+    ]
+},

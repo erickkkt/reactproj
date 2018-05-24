@@ -1,0 +1,20 @@
+{
+    "name": "Linagora",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1212/linagora-logo-170-151.png?1454113253",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Fullstack Javascript (AngularJS, NodeJS)",
+            "link": "https://itviec.com/it-jobs/fullstack-javascript-angularjs-nodejs-linagora-4945",
+            "description": "You should be a generalist who likes to build scalable real time systems. You will take part in designing the application and choosing the technologies...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "NodeJS"
+            ]
+        }
+    ]
+},

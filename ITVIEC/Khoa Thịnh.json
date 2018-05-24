@@ -1,0 +1,20 @@
+{
+    "name": "Khoa Thịnh",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4144/khoa-th-nh-logo-170-151.png?1504935702",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer (HTML5, CSS, PHP)",
+            "link": "https://itviec.com/it-jobs/web-designer-html5-css-php-khoa-thinh-4353",
+            "description": "- Thiết kế website dựa trên ngôn ngữ PHP, HTML, CSS… và các công cụ như Photoshop, Corel , Adobe...  Địa điểm làm việc tại HCM: Tầng trệt,29 Bình Phú,...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Designer"
+            ]
+        }
+    ]
+},

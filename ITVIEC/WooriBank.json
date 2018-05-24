@@ -1,0 +1,20 @@
+{
+    "name": "WooriBank",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2510/wooribank-logo-170-151.png?1468209812",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Software Developers (Java, Oracle)",
+            "link": "https://itviec.com/it-jobs/02-software-developers-java-oracle-wooribank-2926",
+            "description": "Planning new business model about Digital and Fintech business.   Experience on FinTech Contents Development.   Developing new contents for Digital...",
+            "skills": [
+                "Database",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

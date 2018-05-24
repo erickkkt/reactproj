@@ -1,0 +1,60 @@
+{
+    "name": "AXON",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4066/axon-logo-170-151.jpg?1503894543",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Sr Front End Engineer (React, Angular)",
+            "link": "https://itviec.com/it-jobs/sr-front-end-engineer-react-angular-axon-0632",
+            "description": "Come Join Us  Come work in an exciting environment in which you’ll use your passion, experience, and strong analytical skills to help bring new...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Sr Backend Engineer (Java, Go, Scala)",
+            "link": "https://itviec.com/it-jobs/sr-backend-engineer-java-go-scala-axon-5718",
+            "description": "Come Join Us  Come work in an exciting environment in which you’ll use your passion, experience, and strong analytical skills to help bring new...",
+            "skills": [
+                "MySQL",
+                "C#",
+                "Java"
+            ]
+        },
+        {
+            "name": "Full-Stack Web Developer (.NET, ReactJS)",
+            "link": "https://itviec.com/it-jobs/full-stack-web-developer-net-reactjs-axon-4220",
+            "description": "Come Join Us  Come work in an exciting environment in which you’ll use your passion, experience, and strong analytical skills to help bring new...",
+            "skills": [
+                "PHP",
+                "ReactJS",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Sr Full-Stack Engineer (Javascript,C#)",
+            "link": "https://itviec.com/it-jobs/sr-full-stack-engineer-javascript-c-axon-3522",
+            "description": "Come Join Us  Come work in an exciting environment in which you’ll use your passion, experience, and strong analytical skills to help bring new...",
+            "skills": [
+                "Python",
+                "C#",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Full-Stack Engineer (Javascript,C#)",
+            "link": "https://itviec.com/it-jobs/full-stack-software-engineer-research-axon-5056",
+            "description": "Come Join Us  Come work in an exciting environment in which you’ll use your passion, experience, and strong analytical skills to help bring new...",
+            "skills": [
+                "Python",
+                "C#",
+                "JavaScript"
+            ]
+        }
+    ]
+},

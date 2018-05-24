@@ -1,0 +1,30 @@
+{
+    "name": "PNJ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4118/pnj-logo-170-151.jpg?1504169105",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer (UI-UX)",
+            "link": "https://itviec.com/it-jobs/web-designer-ui-ux-pnj-4946",
+            "description": "Thiết kế banner, hình ảnh, icon, logo, voucher, newsletter,… cho các chương trình khuyến mãi trên website và các kênh digital marketing khác như...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Chuyên viên hệ thống ERP (Oracle, SQL)",
+            "link": "https://itviec.com/it-jobs/chuyen-vien-he-thong-erp-oracle-sql-pnj-4723",
+            "description": "Bảo trì, phát triển, đào tạo và hỗ trợ sử dụng hệ thống phần mềm ERP nhằm đảm bảo hệ thống ERP vận hành thông suốt, kịp thời và hiệu quả. Tiếp nhận và...",
+            "skills": [
+                "SQL",
+                "ERP",
+                "Oracle"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "TOP CAREER",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3127/top-career-logo-170-151.png?1504588472",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[Work in Japan] Java/ PHP/ C++ Engineers",
+            "link": "https://itviec.com/it-jobs/japan-it-engineers-java-php-c-top-career-2712",
+            "description": "Design, develop, and improve our own web service which currently has more than 200,000 registrants in 130 countries  We have been engaged in business...",
+            "skills": [
+                "C++",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

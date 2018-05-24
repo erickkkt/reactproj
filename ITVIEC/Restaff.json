@@ -1,0 +1,60 @@
+{
+    "name": "Restaff",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/304/restaff-logo-170-151.jpg?1454112859",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developers - urgent #231709",
+            "link": "https://itviec.com/it-jobs/java-developers-urgent-231709-restaff-5407",
+            "description": "We're looking for experienced Java Developers to join our offshore team in Vietnam. You will have chances to improve your skills and contribute to...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Wordpress Developer -Up to $1200 #221709",
+            "link": "https://itviec.com/it-jobs/wordpress-developer-up-to-1200-221709-restaff-4123",
+            "description": "Personal traits:   * You find motivation in opportunities, have constant curiosity and seek to learn new things. * You take initiatives and have pride...",
+            "skills": [
+                "Database",
+                "Wordpress",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Senior .NET dev (.NETCore, React) 211709",
+            "link": "https://itviec.com/it-jobs/sr-net-developer-netcore-react-211709-restaff-3112",
+            "description": "This is basically a system for construction developers to track different entrepreneurs in a construction project with type of project, customers,...",
+            "skills": [
+                "SQL",
+                "ASP.NET",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "ASP.NET developers (C#, .NET) #201708",
+            "link": "https://itviec.com/it-jobs/asp-net-developers-c-net-201706-restaff-2118",
+            "description": "Responsibilities:     Programming in .NET C# Build Web Applications using MVC/ HTML5/AngularJS2 Build Web Services and Business Classes. Participate in...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "02 WPF developers (XAML,C#,.NET) #191708",
+            "link": "https://itviec.com/it-jobs/02-wpf-developers-xaml-c-net-191708-restaff-4543",
+            "description": "We're looking for experienced WPF Developers to join our offshore team in Vietnam. You will have chances to improve your skills and contribute to...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

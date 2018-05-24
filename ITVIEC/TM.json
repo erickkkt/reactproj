@@ -1,0 +1,20 @@
+{
+    "name": "TM",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4164/tm-logo-170-151.png?1505894523",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Talented Android Developer ($1500-$2000)",
+            "link": "https://itviec.com/it-jobs/android-dev-once-in-a-lifetime-opp-tm-4337",
+            "description": "This will probably be the biggest opportunity you will have in your life. We are an exciting start up launching a global project in less than 3 months...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

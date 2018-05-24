@@ -1,0 +1,40 @@
+{
+    "name": "FORIX",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/538/forix-logo-170-151.png?1458890622",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior QA/Tester",
+            "link": "https://itviec.com/it-jobs/senior-qa-tester-forix-3953",
+            "description": "Develop test cases based on specifications Execute test according to the test plan Report bug with detailed information Provide estimations in hours...",
+            "skills": [
+                "Magento",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Junior Magento Developer",
+            "link": "https://itviec.com/it-jobs/junior-magento-developer-forix-2328",
+            "description": "Develop Magento E-commerce and CMS solutions following the software development lifecycle Work on assignments to develop project tasks Work with our...",
+            "skills": [
+                "OOP",
+                "MVC",
+                "Magento"
+            ]
+        },
+        {
+            "name": "PROJECT MANAGER (Up to $2,000)",
+            "link": "https://itviec.com/it-jobs/project-manager-up-to-2-000-forix-2000",
+            "description": "Analyze project requirements base on given document Support on emergency situations, even at night Keep moving to research tools to improve QA work...",
+            "skills": [
+                "English",
+                "Project Manager",
+                "Business Analyst"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,49 @@
+{
+    "name": "Intelligence Business Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/765/intelligence-business-solutions-logo-170-151.gif?1454112853",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[HOT JOB ]Technical Lead - Up to $1800",
+            "link": "https://itviec.com/it-jobs/hot-job-technical-lead-up-to-1800-intelligence-business-solutions-2330",
+            "description": "We are looking for Technical Lead, you will: - Creating excellent solutions for our clients, developing, mentoring and building up a strong team",
+            "skills": [
+                "JavaScript",
+                "English",
+                "Java"
+            ]
+        },
+        {
+            "name": "10 PHP Senior Developers - 1500$",
+            "link": "https://itviec.com/it-jobs/10-php-senior-developers-1500-intelligence-business-solutions-4502",
+            "description": "We are looking for 10 PHP developers (developer & senior level) who enjoy work as same as play with family and friend.    As a Senior PHP Developer,...",
+            "skills": [
+                "HTML5",
+                "English",
+                "PHP"
+            ]
+        },
+        {
+            "name": " [HOT JOB] Team Leader 1800$",
+            "link": "https://itviec.com/it-jobs/hot-job-team-leader-1800-intelligence-business-solutions-3820",
+            "description": "Build a strong team- Increase team productivity- Improve development process & team communication- Act as a trusted partner for customer",
+            "skills": [
+                "Team Leader",
+                "English"
+            ]
+        },
+        {
+            "name": "5 Senior IOS Engineer $1500",
+            "link": "https://itviec.com/it-jobs/5-senior-ios-engineer-1500-intelligence-business-solutions-1020",
+            "description": "+ Design, develop, test and integrate our native mobile iOS applications+ Work with designers to convert designs into exquisite user interfaces for iOS...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "iOS"
+            ]
+        }
+    ]
+},

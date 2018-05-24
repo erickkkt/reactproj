@@ -1,0 +1,20 @@
+{
+    "name": "Athena Studio",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3472/athena-studio-logo-170-151.png?1488272345",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior Backend Developer (NodeJS)",
+            "link": "https://itviec.com/it-jobs/senior-backend-developer-nodejs-athena-studio-0852",
+            "description": "You will join an agile team of a techno-gaming company which using much latest technology and cloud services to serve millions daily active users...",
+            "skills": [
+                "Agile",
+                "SQL",
+                "NodeJS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "CIS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3644/cis-logo-170-151.png?1493364420",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front End Developer (ReactJS)",
+            "link": "https://itviec.com/it-jobs/front-end-developer-reactjs-cis-2154",
+            "description": "Craft Applied are an exciting new Saigon-based company focusing on creating superior frontend UI/UX solutions for our international clients. Our company...",
+            "skills": [
+                "CSS",
+                "UI-UX",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "(HN) Mobile Developer (Android, iOS)",
+            "link": "https://itviec.com/it-jobs/hn-mobile-developer-android-ios-cis-2231",
+            "description": "Tham gia triển khai dự án cụ thể như sau:  Cài đặt ứng dụng lên các thết bị di động. Quản lý, bảo quản trang thiết bị. Làm việc trực tiếp với các đối...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

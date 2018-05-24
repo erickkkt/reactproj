@@ -1,0 +1,20 @@
+{
+    "name": "INTEC Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1718/intec-vietnam-logo-170-151.jpg?1474969019",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "02 Java/.NET Developers (PL/SQL)",
+            "link": "https://itviec.com/it-jobs/java-developer-sql-net-intec-vietnam-0123",
+            "description": "Phát triển, kiểm thử phần mềm theo yêu cầu của khách hàng, công ty Báo cáo công việc mỗi ngày cho cấp quản lý Chủ động trong công việc (báo cáo, liên...",
+            "skills": [
+                "SQL",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

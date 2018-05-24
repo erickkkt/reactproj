@@ -1,0 +1,30 @@
+{
+    "name": "2Click Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2160/2click-solutions-logo-170-151.png?1458802383",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Automated Test Developer (Java or C#)",
+            "link": "https://itviec.com/it-jobs/automated-test-developer-java-or-c-2click-solutions-3205",
+            "description": "We are currently building a new test engineering team at our company and for that purpose we are looking for an experienced Java and/or C# engineer with...",
+            "skills": [
+                "C#",
+                "Java",
+                "Tester"
+            ]
+        },
+        {
+            "name": "Web Developer (C#, .Net) - All Levels",
+            "link": "https://itviec.com/it-jobs/web-developer-c-net-all-levels-2click-solutions-0747",
+            "description": "You want to work in an international environment with international colleagues, you are interested in keeping track of latest technologies? You want to...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "Zien Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/274/zien-solutions-logo-170-151.jpg?1505461041",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Backend Developer (PHP, Java, SQL)",
+            "link": "https://itviec.com/it-jobs/backend-developer-php-java-sql-zien-solutions-4137",
+            "description": "The Sr. Software Engineer (backend) will work in our development team to write usable, scalable backend APIs to support our web and mobile applications....",
+            "skills": [
+                "SQL",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Front end Developer (JS,HTML5,CSS)",
+            "link": "https://itviec.com/it-jobs/front-end-developer-js-html5-css-zien-solutions-4441",
+            "description": "The Software Engineer (front-end) will work in the company’s Web Development team to write beautiful, modular web applications using JavaScript, CSS3,...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Mobile Developers (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/mobile-developers-ios-android-zien-solutions-3812",
+            "description": "The Software Engineer (Android App Developer) will work in the company’s Web Development team to develop robust and structured Android native app. The...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Camso Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3870/camso-vi-t-nam-logo-170-151.png?1498215026",
+    "position": "Others",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "SAP Engineer (.NET, C#, SQL)",
+            "link": "https://itviec.com/it-jobs/sap-programing-engineer-net-c-sql-camso-viet-nam-2841",
+            "description": "Job Overview: Develops, codes, tests, debugs, documents, maintains, modifies and installs programs. ●Maintains availability of system including...",
+            "skills": [
+                "C#",
+                "SAP",
+                ".NET"
+            ]
+        }
+    ]
+},

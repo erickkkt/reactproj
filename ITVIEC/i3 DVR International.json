@@ -1,0 +1,20 @@
+{
+    "name": "i3 DVR International",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1243/i3-dvr-international-logo-170-151.jpg?1454113663",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front-end Dev (HTML5/CSS3/JavaScript)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-html5-css3-javascript-i3-dvr-international-4050",
+            "description": "Developing, implementing and maintaining software projects Writes design/implementation documentation Create, unit test, maintain and troubleshoot...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Company of Software Engineering | CSE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1252/company-of-software-engineering-cse-logo-170-151.jpg?1454113645",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "10 Developers (C++, Java, .NET) ~$1500",
+            "link": "https://itviec.com/it-jobs/10-developers-c-java-net-1500-company-of-software-engineering-cse-5015",
+            "description": "Tham gia xây dựng và phát triển các ứng dụng cho khách hàng. Hỗ trợ, xử lý các lỗi trong quá trình test, phát triển hệ thống hoặc các đơn vị khác khi có...",
+            "skills": [
+                "C++",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

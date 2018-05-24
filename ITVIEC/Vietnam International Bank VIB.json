@@ -1,0 +1,20 @@
+{
+    "name": "Vietnam International Bank (VIB)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1100/vietnam-international-bank-vib-logo-170-151.png?1506065245",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Lập Trình Ngân Hàng Trực Tuyến (C#/Java)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-ngan-hang-truc-tuyen-c-java-vietnam-international-bank-vib-2239",
+            "description": "• Phát triển các ứng dụng, tính năng mới cho website hoặc hệ thống ngân hàng điện tử (Internet Banking)• Phối hợp với các thành viên trong dự án hoặc...",
+            "skills": [
+                "C#",
+                "SQL",
+                "Java"
+            ]
+        }
+    ]
+},

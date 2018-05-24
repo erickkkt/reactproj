@@ -1,0 +1,20 @@
+{
+    "name": "VIETTEL SOFT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3758/viettel-soft-logo-170-151.jpg?1500862785",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "10 Java Developers - Upto $3000",
+            "link": "https://itviec.com/it-jobs/10-java-developers-upto-3000-viettel-soft-2648",
+            "description": "Thiết kế kiến trúc, thiết kế chi tiết hệ thống phần mềm đảm bảo tính mở rộng và hiệu năng cao. Lập trình theo thiết kế, đảm bảo quy định của tập đoàn....",
+            "skills": [
+                "SQL",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

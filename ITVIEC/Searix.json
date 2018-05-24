@@ -1,0 +1,30 @@
+{
+    "name": "Searix",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4042/searix-logo-170-151.png?1502362419",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Mid Level Web Application Full Stack Dev",
+            "link": "https://itviec.com/it-jobs/mid-level-web-application-full-stack-dev-searix-3440",
+            "description": "At Searix, we help companies solve problems through research, design and development using technology. Our analysts work alongside developers to rapidly...",
+            "skills": [
+                "System Engineer",
+                "SQL",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Sr PHP Web Application Backend Developer",
+            "link": "https://itviec.com/it-jobs/sr-php-web-application-backend-developer-searix-3210",
+            "description": "At Searix, we help companies solve problems through research, design and development using technology. Our analysts work alongside developers to rapidly...",
+            "skills": [
+                "System Engineer",
+                "SQL",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Ocean Bank",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1522/ocean-bank-logo-170-151.gif?1454113180",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Application Developer (.NET/Java)",
+            "link": "https://itviec.com/it-jobs/application-developer-net-java-ocean-bank-3317",
+            "description": "- Phân tích, thiết kế hệ thống và xây dựng phần mềm theo những yêu cầu đặt ra của Ngân hàng.  Xây dựng tài liệu, qui trình thao tác - vận hành, hướng...",
+            "skills": [
+                "SQL",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

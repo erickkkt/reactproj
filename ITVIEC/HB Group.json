@@ -1,0 +1,20 @@
+{
+    "name": "HB Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2463/hb-group-logo-170-151.png?1467369293",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-hb-group-0348",
+            "description": "- Xây dựng hệ thống quản lý dữ liệu trên nền website sử dụng ngôn ngữ PHP, MYSQL - Sử dụng framework Yii 2- Công việc cụ thể trao đổi khi phỏng vấn",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

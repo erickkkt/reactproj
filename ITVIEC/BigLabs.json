@@ -1,0 +1,30 @@
+{
+    "name": "BigLabs",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/199/biglabs-logo-170-151.png?1493881926",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Java Developer (IoT, Big Data)",
+            "link": "https://itviec.com/it-jobs/senior-java-developer-biglabs-2756",
+            "description": "Senior Java Software Engineer works with members of the development organization and is responsible for the design, development, and implementation of...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "Frontend Developer (HTML/CSS/JavaScript)",
+            "link": "https://itviec.com/it-jobs/frontend-developer-html-css-javascript-biglabs-2618",
+            "description": "As a Web Developer, you will be responsible for creating and maintaining websites. You will utilise your knowledge and understanding of HTML, CSS and...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

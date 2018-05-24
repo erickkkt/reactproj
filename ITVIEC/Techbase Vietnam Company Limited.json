@@ -1,0 +1,20 @@
+{
+    "name": "Techbase Vietnam Company Limited",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1701/techbase-vietnam-company-limited-logo-170-151.png?1454113574",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "2 Front-end Devs (JavaScript, HTML, CSS)",
+            "link": "https://itviec.com/it-jobs/2-front-end-devs-javascript-html-css-techbase-vietnam-company-limited-5107",
+            "description": "We are looking for 2 Front-end Developers to join our team. Join date: 01 November 2017",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Hawee",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2181/hawee-logo-170-151.png?1459323016",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (.NET, ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/software-developer-net-asp-net-c-hawee-2143",
+            "description": "Với sự Tận tâm của Tập thể CBNV và tinh thần \"Giữ lời hứa\" của Ban lãnh đạo, HaweeGroup liên tiếp đón nhận những tin vui trong năm 2017. Chúng tôi đang...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

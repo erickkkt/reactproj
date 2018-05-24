@@ -1,0 +1,20 @@
+{
+    "name": "VSOURCE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/80/vsource-logo-170-151.png?1489134644",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Director of Engineering",
+            "link": "https://itviec.com/it-jobs/director-of-engineering-vsource-3909",
+            "description": "Scope of position: The Director of Engineering at vsource is responsible for strategically coordinating the Engineering team, to ensure high quality and...",
+            "skills": [
+                "Software Architect",
+                "English",
+                "Manager"
+            ]
+        }
+    ]
+},

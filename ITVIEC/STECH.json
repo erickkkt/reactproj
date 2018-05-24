@@ -1,0 +1,30 @@
+{
+    "name": "STECH",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2495/stech-logo-170-151.png?1467959951",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Developer (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-stech-1543",
+            "description": "-    Nghiên cứu đưa ra các phương án cải tiến nâng cấp các dòng sản phẩm hiện có của công ty. -    Tham gia các dự án nghiên cứu phát triển sản phẩm...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Embedded Engineer (C language, C++)",
+            "link": "https://itviec.com/it-jobs/embedded-engineer-c-language-c-stech-1342",
+            "description": "-    Nghiên cứu đưa ra các phương án cải tiến nâng cấp các dòng sản phẩm hiện có của công ty. -    Tham gia các dự án nghiên cứu phát triển sản phẩm...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

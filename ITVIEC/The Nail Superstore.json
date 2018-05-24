@@ -1,0 +1,20 @@
+{
+    "name": "The Nail Superstore",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4122/the-nail-superstore-logo-170-151.png?1504240444",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": ".NET Developers (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developers-asp-net-c-the-nail-superstore-4634",
+            "description": "Developing an eCommerce system in the United States. Our system must be intelligent, high performance and reliable. Design and develop back end and...",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

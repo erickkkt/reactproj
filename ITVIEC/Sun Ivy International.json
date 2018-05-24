@@ -1,0 +1,20 @@
+{
+    "name": "Sun Ivy International",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1165/sun-ivy-international-logo-170-151.png?1470714140",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": ".NET Developer (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-sun-ivy-international-2930",
+            "description": "Lập trình tùy biến hệ thống CRM và lập trình tích hợp với các hệ thống khác theo từng khách hàng, sử dụng ngôn ngữ ASP.NET, C#, Web Services, MVC Tham...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

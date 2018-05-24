@@ -1,0 +1,20 @@
+{
+    "name": "CASTIS Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3890/castis-corp-logo-170-151.jpg?1498642786",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "(04) QA Engineer/Tester",
+            "link": "https://itviec.com/it-jobs/04-qa-engineer-tester-castis-corp-3901",
+            "description": "Verify our products which are embedded in a variety of devices, such as Set-Top boxes, Mobile devices, Server systems and so on. Write the test cases...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

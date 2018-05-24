@@ -1,0 +1,20 @@
+{
+    "name": "Công Ty Cổ Phần Sản Xuất Nhựa Duy Tân",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3794/cong-ty-c-ph-n-s-n-xu-t-nh-a-duy-tan-logo-170-151.png?1496418630",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": " Senior .NET Developer",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-cong-ty-co-phan-san-xuat-nhua-duy-tan-4800",
+            "description": "Nhận yêu cầu từ khách hàng nội bộ Lên thiết kế chương trình phần mềm/ứng dụng Lập trình, phát triển phần mềm/ứng dụng trên nền Window/Web/Mobile Triển...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

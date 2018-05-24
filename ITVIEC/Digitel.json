@@ -1,0 +1,20 @@
+{
+    "name": "Digitel",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1367/digitel-logo-170-151.jpg?1454113144",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP & MySQL Developer",
+            "link": "https://itviec.com/it-jobs/php-mysql-developer-digitel-4114",
+            "description": "Phát triển các dự án phần mềm Call Center CRM trên nền PHP & MySQL tương tác với hệ thống Linux. Tham gia vào các dự án nghiên cứu nội bộ của công...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        }
+    ]
+},

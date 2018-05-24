@@ -1,0 +1,30 @@
+{
+    "name": "Quantic ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/178/quantic-logo-170-151.jpg?1475139349",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-quantic-0837",
+            "description": "This position is responsible for: - Work with client to clarify requirement, design -   Development of major components or modules and contribute to the...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-quantic-2805",
+            "description": "This position is responsible for: -   Work with client to clarify requirement, design -   Development of major components or modules and contribute to...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

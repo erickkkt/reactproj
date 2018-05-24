@@ -1,0 +1,30 @@
+{
+    "name": "ADVN",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1175/advn-logo-170-151.jpg?1498615628",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "C# Developer Full Stack (.NET/SQL)",
+            "link": "https://itviec.com/it-jobs/c-developer-full-stack-net-sql-advn-3548",
+            "description": "Be a full-stack in website development tools and techniques Be a contact point and coordinator of all stakeholders for technical approach and website...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Mobile App Developer (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/mobile-app-developer-ios-android-advn-5239",
+            "description": "Understand user requirements and participate in technical design Develop and implement system applications in accordance to user requirements Perform...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

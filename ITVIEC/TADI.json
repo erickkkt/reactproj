@@ -1,0 +1,30 @@
+{
+    "name": "TADI",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4134/tadi-logo-170-151.jpg?1504843239",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (HTML, CSS, Javascript)",
+            "link": "https://itviec.com/it-jobs/web-developer-html-css-javascript-tadi-0320",
+            "description": "Tham gia thiết kế, gia công phần mềm. Phát triển các hệ thống Web. Đảm bảo logic và chất lượng code. Thực hiện các công việc khác do quản lý yêu cầu....",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Lập trình viên Mobile App",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-mobile-app-tadi-0102",
+            "description": "Tham gia thiết kế, gia công phần mềm. Phát triển các ứng dụng. Đảm bảo logic và chất lượng code. Thực hiện các công việc khác do quản lý yêu cầu. Trao...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

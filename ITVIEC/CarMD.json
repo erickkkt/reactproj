@@ -1,0 +1,30 @@
+{
+    "name": "CarMD",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/729/carmd-logo-170-151.png?1454112956",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Testers",
+            "link": "https://itviec.com/it-jobs/02-testers-carmd-3559",
+            "description": "Professional Responsibilities:   To perform quality assurance of advanced software development projects. Create and execute test which complies with...",
+            "skills": [
+                "SQL",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "03 .NET Web Developers",
+            "link": "https://itviec.com/it-jobs/03-net-web-developers-carmd-3123",
+            "description": "Professional Responsibilities:   Join full life cycle of software development Create design specifications independently Create systems design with...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

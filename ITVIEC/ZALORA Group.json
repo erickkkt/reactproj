@@ -1,0 +1,40 @@
+{
+    "name": "ZALORA Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/710/zalora-group-logo-170-151.jpg?1478247687",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full Stack Engineer (up to $2000)",
+            "link": "https://itviec.com/it-jobs/full-stack-engineer-up-to-2000-zalora-group-4536",
+            "description": "Global Fashion Group (“GFG”) is the #1 online fashion platform for emerging markets. It operates across four continents and 24 countries and employs...",
+            "skills": [
+                "AngularJS",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "10 Software Developers (PHP,Java,Python)",
+            "link": "https://itviec.com/it-jobs/10-software-developers-php-java-python-zalora-group-0357",
+            "description": "ZALORA Engineering is looking for engineers to work on its cutting edge software stack. This opportunity will offer you a chance to work on a high...",
+            "skills": [
+                "Python",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "JavaScript Developer ($1,000 - $2,000)",
+            "link": "https://itviec.com/it-jobs/1-javascript-developer-1-000-2-000-zalora-group-3148",
+            "description": "ZALORA is seeking a full-time Javascript Developer to work on an innovative full-stack project on the mobile platform. Your code's primary execution...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

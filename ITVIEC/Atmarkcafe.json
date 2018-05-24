@@ -1,0 +1,50 @@
+{
+    "name": "Atmarkcafe",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/551/atmarkcafe-logo-170-151.jpg?1454112865",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Ruby on Rails Developer (Up to $1500)",
+            "link": "https://itviec.com/it-jobs/ruby-on-rails-developer-up-to-1500-atmarkcafe-2056",
+            "description": "Chúng tôi đang cần tìm những bạn yêu ngôn ngữ lập trình Ruby, coi lập trình là một nghệ thuật, yêu thích sự sáng tạo mỗi ngày với các đoạn mã. Bạn sẽ...",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "Ruby on Rails"
+            ]
+        },
+        {
+            "name": "Game Unity ★ Onsite Japan ★ Up to $2500",
+            "link": "https://itviec.com/it-jobs/game-unity-onsite-japan-up-to-1500-atmarkcafe-0855",
+            "description": "ACV cần tuyển lập trình viên Game Unity thực hiện công việc sau:- Onsite dài ngày tại Nhật Bản với mức lương hấp dẫn (1 đến 2 năm)- Lập trình Game với...",
+            "skills": [
+                "C#",
+                "Unity",
+                "C++"
+            ]
+        },
+        {
+            "name": "Game Server/ PHP/ C++",
+            "link": "https://itviec.com/it-jobs/game-server-php-c-atmarkcafe-1733",
+            "description": "ACV cần tuyển lập trình viên Game Server thực hiện công việc sau:- Lập trình phần Server cho Game- Thực hiện các dự án với KH Nhật Bản",
+            "skills": [
+                "C++",
+                "Games",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Project Manager -  N2 (Up To $3000)",
+            "link": "https://itviec.com/it-jobs/project-manager-up-to-3000-atmarkcafe-0317",
+            "description": "ACV cần tuyển Quản lý dự án (PM) thực hiện các công việc sau:- Quản lý các dự án iOS, Android, PHP cho khách hàng Nhật Bản- Họp online với Atmarkcafe...",
+            "skills": [
+                "Japanese",
+                "Project Manager",
+                "Manager"
+            ]
+        }
+    ]
+},

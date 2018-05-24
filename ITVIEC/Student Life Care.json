@@ -1,0 +1,30 @@
+{
+    "name": "Student Life Care",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3905/student-life-care-logo-170-151.jpg?1498811559",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Quality Control (QA QC, Tester)",
+            "link": "https://itviec.com/it-jobs/quality-control-qa-qc-tester-student-life-care-0142",
+            "description": "Having knowledge of quality control system, ability to apply intermediate level of quality control techniques and communicate in technical writing...",
+            "skills": [
+                "Tester",
+                "Business Analyst",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Front-end Developer (JavaScript, HTML5)",
+            "link": "https://itviec.com/it-jobs/front-end-developer-javascript-html5-student-life-care-5913",
+            "description": "Develop new user-facing features Build reusable code and libraries for future use Ensure the technical feasibility of UI/UX designs Optimize application...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "Wordpress"
+            ]
+        }
+    ]
+},

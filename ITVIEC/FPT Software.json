@@ -1,0 +1,90 @@
+{
+    "name": "FPT Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/100/fpt-software-logo-170-151.png?1459494092",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "50 Developers onsite USA -Java/Azure/C#",
+            "link": "https://itviec.com/it-jobs/50-developers-onsite-usa-java-azure-c-fpt-software-4245",
+            "description": "PROJECT INFORMATION & OPPORTUNITY FPT Software is looking for 50 DEVELOPERS in skills: C#/dotNet/ Azure/Java/Angular with at least 1 year of...",
+            "skills": [
+                "C#",
+                "AngularJS",
+                "Java"
+            ]
+        },
+        {
+            "name": "Java/Node.JS Developer work in Singapore",
+            "link": "https://itviec.com/it-jobs/java-node-js-developer-up-to-6000-sgd-fpt-software-3121",
+            "description": "FPT Software is looking for Java/Node.JS Developer onsite long-term in Singapore. Customer is one of world’s top 10 companies in Telecom, among top 2000...",
+            "skills": [
+                "NodeJS",
+                "English",
+                "Java"
+            ]
+        },
+        {
+            "name": "10 AWS Solution Architects (Up to $2500)",
+            "link": "https://itviec.com/it-jobs/10-aws-solution-architects-up-to-2500-fpt-software-1445",
+            "description": "FPT Software is looking for 10 AWS Solution Architects with at least 2 years of experience. The customer is an Australia‘s largest telecommunication and...",
+            "skills": [
+                "MySQL",
+                "Software Architect",
+                "Java"
+            ]
+        },
+        {
+            "name": "6 Azure Solution Architects work in USA ",
+            "link": "https://itviec.com/it-jobs/azure-solution-architect-work-in-usa-fpt-software-4654",
+            "description": "PROJECT INFORMATION & OPPORTUNITY   FPT Software is looking for 06 SA Azure with at least 3 years of experience. The customer is one of the big USA...",
+            "skills": [
+                "Linux",
+                "Software Architect",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Junior/Senior .Net Developer Up to $1200",
+            "link": "https://itviec.com/it-jobs/junior-senior-net-developer-up-to-1200-fpt-software-5455",
+            "description": "FPT Software is looking for many Junior/Senior .Net Developer. The customer is one of the biggest companies in USA and Japan  When you join with us, you...",
+            "skills": [
+                "Database",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Junior/Senior C++ Developer Up to $1200",
+            "link": "https://itviec.com/it-jobs/junior-senior-c-developer-up-to-1200-fpt-software-5019",
+            "description": "Participate in projects developing application for Japanese Healthcare and Logistic companies.  Work with project members, responsible for the...",
+            "skills": [
+                "OOP",
+                "C++",
+                "C language"
+            ]
+        },
+        {
+            "name": "05 Full Stack Developers up to 1500 USD",
+            "link": "https://itviec.com/it-jobs/05-full-stack-developers-up-to-1500-usd-fpt-software-5032",
+            "description": "Review business requirements working with team members Perform a technical analysis of requirements Produce a solid, detailed technical design Develop...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Senior Android Developer (700 – 1000USD)",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-700-1000usd-fpt-software-5512",
+            "description": "FPT Software is looking for 05 ANDROID DEVELOPERS with at least 2 years of experience. The customer is one of the big EU companies that focus in the...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

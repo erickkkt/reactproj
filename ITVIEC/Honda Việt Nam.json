@@ -1,0 +1,30 @@
+{
+    "name": "Honda Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/684/honda-vi-t-nam-logo-170-151.png?1504162801",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Phó phòng Hạ tầng CNTT (Manager)",
+            "link": "https://itviec.com/it-jobs/pho-phong-ha-tang-cntt-manager-honda-viet-nam-4900",
+            "description": "Đảm bảo hạ tầng mạng, máy chủ và hệ thống cơ sở dữ liệu hoạt động an toàn, liên tục và tin cậy; Đảm bảo các thiết bị Công nghệ thông tin khác hoạt động...",
+            "skills": [
+                "System Engineer",
+                "Networking",
+                "Manager"
+            ]
+        },
+        {
+            "name": "NV Phát triển & bảo trì ứng dụng ASP.NET",
+            "link": "https://itviec.com/it-jobs/nhan-vien-phat-trien-va-bao-tri-ung-dung-honda-viet-nam-2355",
+            "description": "Triển khai, bảo trì, khắc phục sự cố cho các ứng dụng, cũng như đề xuất thêm các chức năng phù hợp với thực tế sử dụng tại công ty. Phát triển các ứng...",
+            "skills": [
+                "SQL",
+                "Oracle",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

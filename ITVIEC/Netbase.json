@@ -1,0 +1,20 @@
+{
+    "name": "Netbase",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/533/netbase-logo-170-151.jpg?1461569459",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "10 Magento Developer (Virtuemart, PHP)",
+            "link": "https://itviec.com/it-jobs/10-magento-developer-virtuemart-php-netbase-4007",
+            "description": "Tham gia phát triển các dự án lập trình website, các ứng dụng trên nền web sử dụng ngôn ngữ PHP, mã nguồn mở Magento, Virtuemart. Đáp ứng đa nền tảng...",
+            "skills": [
+                "NodeJS",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

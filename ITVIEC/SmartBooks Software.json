@@ -1,0 +1,20 @@
+{
+    "name": "SmartBooks Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1106/smartbooks-software-logo-170-151.png?1504163754",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 PHP Developers ( 1 năm kinh nghiệm)",
+            "link": "https://itviec.com/it-jobs/03-php-developers-1-nam-kinh-nghiem-smartbooks-software-2528",
+            "description": "- Phát triển các sản phẩm thương mại về phần mềm quản lý: kế toán, quản trị doanh nghiệp (ERP), quản lý dự án, quan hệ khách hàng (CRM),… - Tham gia...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

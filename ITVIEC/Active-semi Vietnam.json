@@ -1,0 +1,20 @@
+{
+    "name": "Active-semi Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2257/active-semi-vietnam-logo-170-151.png?1461661587",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Embedded Firmware Engineer",
+            "link": "https://itviec.com/it-jobs/embedded-firmware-engineer-active-semi-vietnam-2210",
+            "description": "Work as a team with other application engineer and designer to evaluate the new development to ensure high quality product to customer.  Evaluation...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

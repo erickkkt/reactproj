@@ -1,0 +1,50 @@
+{
+    "name": "Digital Arts Labs",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3571/digital-arts-labs-logo-170-151.gif?1505804550",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Talent Test Leader (Tester, QA QC)",
+            "link": "https://itviec.com/it-jobs/talent-test-leader-digital-arts-labs-1315",
+            "description": "Be a talent leader to manager for Software Quality Administrator [What are you doing in this company?]   - Develop module/software with PHP and Server...",
+            "skills": [
+                "Manager",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Talent PHP Engineer (MySQL)",
+            "link": "https://itviec.com/it-jobs/talent-php-engineer-digital-arts-labs-5346",
+            "description": "[What are you doing in this company?]   - Develop module/software with PHP and Server site technologies - Implement most advanced Internet Security,...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Talent Javascript Engineer (CSS/ JQuery)",
+            "link": "https://itviec.com/it-jobs/talent-javascript-engineer-digital-arts-inc-0120",
+            "description": "A talent Javascript Engineer for advanced Internet Security Application. [What is the position about]  An talented JavaScript / Full-Stack developer for...",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "JQuery"
+            ]
+        },
+        {
+            "name": "Talent C++ Engineer (OOP, SQL)",
+            "link": "https://itviec.com/it-jobs/talent-c-engineer-digital-arts-labs-2020",
+            "description": "A talent C++ engineer to develop i-Filter and Finalcode [What are you doing in this company?]   - Develop module/software on Window environment (C++) -...",
+            "skills": [
+                "OOP",
+                "SQL",
+                "C++"
+            ]
+        }
+    ]
+},

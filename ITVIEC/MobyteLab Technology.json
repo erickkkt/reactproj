@@ -1,0 +1,20 @@
+{
+    "name": "MobyteLab Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/825/mobytelab-technology-logo-170-151.png?1503042818",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Junior JavaScript Developers (NodeJS)",
+            "link": "https://itviec.com/it-jobs/junior-javascript-developer-html5-css-mobytelab-technology-0305",
+            "description": "MobyteLab is looking for outstanding Software Engineer to join our team and help contribute to our ongoing growth. Are you interested in learning...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

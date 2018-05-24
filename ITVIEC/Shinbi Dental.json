@@ -1,0 +1,30 @@
+{
+    "name": "Shinbi Dental",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4007/shinbi-dental-logo-170-151.png?1501385254",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web PHP Developer",
+            "link": "https://itviec.com/it-jobs/web-php-developer-shinbi-dental-0821",
+            "description": "- Có kinh nghiệm tốt trong việc lập trình các cấu trúc website bằng PHP ( Framework : Wordpress, joomla … )- Cắt layout, code web theo file thiết kế...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "System Admin",
+            "link": "https://itviec.com/it-jobs/system-admin-shinbi-dental-0748",
+            "description": "Hỗ trợ Quản lý CNTT: Cài đặt, vận hành, xử lý các sự cố phát sinh và quản trị máy chủ, hệ thống máy tính, hệ thống mạng (bao gồm cả các thiết bị như...",
+            "skills": [
+                "System Admin",
+                "Database",
+                "Networking"
+            ]
+        }
+    ]
+},

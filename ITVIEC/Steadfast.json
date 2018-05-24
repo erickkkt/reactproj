@@ -1,0 +1,20 @@
+{
+    "name": "Steadfast",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/889/steadfast-logo-170-151.jpg?1471252219",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Game Mobile Developer (Up to 25m vnd)",
+            "link": "https://itviec.com/it-jobs/game-mobile-developer-up-to-25m-vnd-steadfast-3333",
+            "description": "- Lập trình và phát triển game online trên các thiết bị di động iOS, Android. - Thiết kế, coding và kiểm thử hệ thống hoặc chức năng sau khi hoàn thành.",
+            "skills": [
+                "Mobile Apps",
+                "JavaScript",
+                "Games"
+            ]
+        }
+    ]
+},

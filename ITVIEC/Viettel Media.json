@@ -1,0 +1,40 @@
+{
+    "name": "Viettel Media",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2659/viettel-media-logo-170-151.png?1470043291",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Leader",
+            "link": "https://itviec.com/it-jobs/system-leader-viettel-media-4335",
+            "description": "- Vận hành các hệ thống CNTT website âm nhạc, OTT, tin tức video của công ty media - Xây dựng các hệ thống cảnh báo giám sát, CPU, RAM, băng thông,...",
+            "skills": [
+                "System Admin",
+                "Team Leader",
+                "Manager"
+            ]
+        },
+        {
+            "name": "PHP Team Leader up to 30 mil",
+            "link": "https://itviec.com/it-jobs/php-team-leader-viettel-media-1841",
+            "description": "Phát triển ứng dụng mạng xã hội âm nhạc cho thị trường VN và các thị trường do Viettel đầu tư.   Nghiên cứu các công nghệ mới của .php framework để áp...",
+            "skills": [
+                "Team Leader",
+                "SQL",
+                "PHP"
+            ]
+        },
+        {
+            "name": ".NET Team Leader upto 30 Mil",
+            "link": "https://itviec.com/it-jobs/net-team-leader-viettel-media-1622",
+            "description": "Phát triển các ứng dụng tin tức, video, phim, crawler dựa trên nền tảng .net   Nghiên cứu các công nghệ mới của .net framework để áp dụng vào các sản...",
+            "skills": [
+                "Team Leader",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

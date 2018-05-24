@@ -1,0 +1,30 @@
+{
+    "name": "MCredit",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2355/mcredit-logo-170-151.jpg?1505880157",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Chuyên viên Vận hành ứng dụng (Linux)",
+            "link": "https://itviec.com/it-jobs/chuyen-vien-van-hanh-ung-dung-linux-mfinance-5251",
+            "description": "Vận hành, quản trị hệ thống CNTT  Tham gia cài đặt, cấu hình và quản trị, giám sát tải các hệ thống máy chủ ứng dụng IIS, Apache, Nginx, MySQL,...",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "Oracle"
+            ]
+        },
+        {
+            "name": "Tích hợp hệ thống ESB (Java/.NET)",
+            "link": "https://itviec.com/it-jobs/tich-hop-he-thong-esb-java-net-mfinance-4859",
+            "description": "- Phát triển các service tích hợp phục vụ cho việc mở rộng hợp tác kinh doanh của MCredit.  Phát triển các báo cáo, modul đối soát.  Tham gia các công...",
+            "skills": [
+                "MySQL",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

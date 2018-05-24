@@ -1,0 +1,40 @@
+{
+    "name": "Luci",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4160/luci-logo-170-151.png?1505702409",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior PHP Developers - Up to 25M",
+            "link": "https://itviec.com/it-jobs/senior-php-developers-up-to-25m-luci-0201",
+            "description": "Tham gia vào phân tích yêu cầu, thiết kế business, thiết kế và thực thi các tính năng mới cho hệ thống. Phát triển hệ thống từ backend đến frontend Phụ...",
+            "skills": [
+                "MVC",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "03 Front-end Developers - Up to 15M",
+            "link": "https://itviec.com/it-jobs/03-front-end-developers-up-to-15m-luci-0235",
+            "description": "Phát triển webapplication và app trên android/iOS Công việc chính là kết hợp với designer để tạo nên sản phẩm hoàn thiện về mặt UI, UX. Xử lý tầng View...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "05 PHP Developers (JavaScript, MVC)",
+            "link": "https://itviec.com/it-jobs/05-php-developers-javascript-mvc-luci-0942",
+            "description": "Tham gia vào phân tích yêu cầu, thiết kế business, thiết kế và thực thi các tính năng mới cho hệ thống. Phát triển hệ thống từ backend đến frontend ",
+            "skills": [
+                "MVC",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

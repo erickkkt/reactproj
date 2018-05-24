@@ -1,0 +1,20 @@
+{
+    "name": "D-TAG Viet Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1489/d-tag-viet-nam-logo-170-151.png?1454113074",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Developer +  Architect",
+            "link": "https://itviec.com/it-jobs/php-developer-up-to-1500-d-tag-viet-nam-0909",
+            "description": "We focus on implementing platforms for online advertising and now opening software development positions to:   Design and Implement modules, features...",
+            "skills": [
+                "OOP",
+                "Software Architect",
+                "PHP"
+            ]
+        }
+    ]
+},

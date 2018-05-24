@@ -1,0 +1,20 @@
+{
+    "name": "Designveloper (DSV)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1163/designveloper-dsv-logo-170-151.png?1482828271",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full-stack JavaScript Developer ($1,500)",
+            "link": "https://itviec.com/it-jobs/full-stack-javascript-developer-1-500-designveloper-dsv-0853",
+            "description": "We are looking for Full-stack Developers with excellent programming skills to join our team. We need a person who, as part of a team, can create highly...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

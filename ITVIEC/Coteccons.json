@@ -1,0 +1,20 @@
+{
+    "name": "Coteccons",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3258/coteccons-logo-170-151.png?1481612411",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (C#, .NET, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/software-developer-c-net-asp-net-coteccons-2730",
+            "description": "• Thu thập, phân tích yêu cầu, xây dựng quy trình vận hành của các phòng ban chức năng.• Giám sát tiến độ, chạy thử nghiệm phần mềm trong quá trình phát...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

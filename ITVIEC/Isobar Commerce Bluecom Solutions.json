@@ -1,0 +1,40 @@
+{
+    "name": "Isobar Commerce (Bluecom Solutions)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/181/isobar-commerce-bluecom-solutions-logo-170-151.jpg?1502178386",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Web Developers (Javascript/ NodeJS/ PHP)",
+            "link": "https://itviec.com/it-jobs/web-developers-javascript-nodejs-php-isobar-commerce-bluecom-solutions-4140",
+            "description": "We are seeking potential developers who are motivated and dedicated web developers to work on various e-commerce projects for well-known brands. You...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "PHP"
+            ]
+        },
+        {
+            "name": "03 PHP Developers",
+            "link": "https://itviec.com/it-jobs/03-php-developers-isobar-commerce-bluecom-solutions-4942",
+            "description": "We are seeking for ambitious PHP Developers from junior to senior levels who are motivated and dedicated PHP Developers to work on various e-commerce...",
+            "skills": [
+                "HTML5",
+                "Magento",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Automation Testers",
+            "link": "https://itviec.com/it-jobs/automation-testers-isobar-commerce-bluecom-solutions-4608",
+            "description": "- Read and Verify Requirements/Design Specification- Design and development of automated functional and load tests- Select tools to be used for...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Tester"
+            ]
+        }
+    ]
+},

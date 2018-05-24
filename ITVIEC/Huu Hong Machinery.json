@@ -1,0 +1,20 @@
+{
+    "name": "Huu Hong Machinery",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1440/huu-hong-machinery-logo-170-151.png?1452224460",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (C#, ASP.NET, SQL)",
+            "link": "https://itviec.com/it-jobs/web-developer-c-asp-net-sql-huu-hong-machinery-4715",
+            "description": "+ Xây dựng Web Service, Web site, phần mềm điều khiển thu thập dữ liệu từ các thiết bị qua giao tiếp RS485/RS232/RF/GPRS/3G;+ Xây dựng phần mềm (C#, VB...",
+            "skills": [
+                "C#",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

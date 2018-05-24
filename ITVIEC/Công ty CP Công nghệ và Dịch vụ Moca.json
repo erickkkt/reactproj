@@ -1,0 +1,50 @@
+{
+    "name": "Công ty CP Công nghệ và Dịch vụ Moca",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1588/cong-ty-cp-cong-ngh-va-d-ch-v-moca-logo-170-151.png?1504683808",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Junior Java Engineer (SQL/MVC)",
+            "link": "https://itviec.com/it-jobs/senior-java-engineer-moca-4441",
+            "description": "Xây dựng ứng dụng dựa trên yêu cầu sản phẩm. Phát huy kiến thức về cấu trúc dữ liệu và giải thuật, lập trình hướng đối tượng và các quy tắc xây dựng...",
+            "skills": [
+                "MVC",
+                "SQL",
+                "Java"
+            ]
+        },
+        {
+            "name": "Sr. System & Network Operating Engineer",
+            "link": "https://itviec.com/it-jobs/software-project-manager-moca-4720",
+            "description": "- Tổ chức, quản lý và vận hành các hoạt động của hệ thống CNTT nhằm đảm bảo dịch vụ, hệthống cơ sở hạ tầng, truyền thông hoạt động ổn định, an toàn,...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Java Developer (MongoDB/SQL/Banking)",
+            "link": "https://itviec.com/it-jobs/java-dev-mongodb-banking-moca-5037",
+            "description": "Xây dựng các cổng kết nối với ngân hàng. Xây dựng các chức năng phục vụ việc thanh toán bằng thẻ ATM, kiểm tra thông tin thẻ ATM. Cải tiến kết nối hiện...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Java"
+            ]
+        },
+        {
+            "name": "Mobile Developer (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/mobile-developer-ios-android-moca-5722",
+            "description": "Thiết kế và phát triển phần mềm cho nền tảng di động (iOS, Android) Xây dựng, tối ưu hóa, bảo trì ứng dụng di động Góp phần vào việc thiết kết và xây...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

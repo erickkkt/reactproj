@@ -1,0 +1,20 @@
+{
+    "name": "Smartlog",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3068/smartlog-logo-170-151.png?1476775177",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Developer .NET/Angular2/NodeJS",
+            "link": "https://itviec.com/it-jobs/software-developer-net-angular2-nodejs-smartlog-3758",
+            "description": "Mục đích và tiềm năng của công việc   Với vai trò là nhà lập trình phần mềm bạn không chỉ tham gia vào xây dựng phần mềm mà còn có cơ hội xây dựng những...",
+            "skills": [
+                "AngularJS",
+                "NodeJS",
+                ".NET"
+            ]
+        }
+    ]
+},

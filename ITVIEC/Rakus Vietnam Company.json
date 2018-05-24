@@ -1,0 +1,20 @@
+{
+    "name": "Rakus Vietnam Company",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/466/rakus-vietnam-company-logo-170-151.png?1469675293",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "GẤP - JAVA Developer (Junior - Senior) ",
+            "link": "https://itviec.com/it-jobs/gap-java-developer-junior-senior-rakus-vietnam-company-1750",
+            "description": "- Dùng kỹ năng của bạn cùng Team JAVA xây dựng các ứng dụng web dựa trên công nghệ Cloud - Hỗ trợ hoàn thiện sản phẩm của Rakus dựa trên kiến thức và...",
+            "skills": [
+                "JavaScript",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

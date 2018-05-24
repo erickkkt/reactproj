@@ -1,0 +1,20 @@
+{
+    "name": "TH Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1095/th-group-logo-170-151.png?1454113674",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "(Urgent) 05.NET Developer ",
+            "link": "https://itviec.com/it-jobs/urgent-05-net-developer-th-group-5909",
+            "description": "Phân tích và phát triển các ứng dụng phục vụ hoạt động nội bộ tập đoàn TH. Triển khai hệ thống phần mềm theo yêu cầu. Quản lý bảo trì toàn bộ hệ thống...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

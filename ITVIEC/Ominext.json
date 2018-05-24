@@ -1,0 +1,30 @@
+{
+    "name": "Ominext",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/492/ominext-logo-170-151.png?1486971578",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developer [Up to $1500]",
+            "link": "https://itviec.com/it-jobs/java-developer-up-to-1500-ominext-4948",
+            "description": "- Tham gia phát triển các ứng dụng trên nền tảng Java cho khách hàng Nhật Bản- Được tham gia đồng hành cũng với các startup trẻ hoặc những tập đoàn lớn...",
+            "skills": [
+                "HTML5",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": ".NET Developer [Up to $1500]",
+            "link": "https://itviec.com/it-jobs/net-developer-up-to-1500-ominext-3806",
+            "description": "- Tham gia phát triển các ứng dụng trên nền tảng .NET cho khách hàng Nhật Bản- Được tham gia đồng hành cũng với các startup trẻ hoặc những tập đoàn lớn...",
+            "skills": [
+                "C#",
+                "MVC",
+                ".NET"
+            ]
+        }
+    ]
+},

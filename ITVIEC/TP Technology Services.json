@@ -1,0 +1,20 @@
+{
+    "name": "TP Technology Services",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3444/tp-technology-services-logo-170-151.png?1487236613",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Android Team Leader",
+            "link": "https://itviec.com/it-jobs/android-team-leader-tp-technology-services-4918",
+            "description": "- Điều phối công việc và hỗ trợ các thành viên khác trong team.  Phát triển các ứng dụng trên nền tảng Android.  Nghiên cứu công nghệ mới. ",
+            "skills": [
+                "Team Leader",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

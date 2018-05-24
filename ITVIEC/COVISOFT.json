@@ -1,0 +1,20 @@
+{
+    "name": "COVISOFT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1795/covisoft-logo-170-151.png?1506656915",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Back-end Developer (PHP, NodeJS, MySQL)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-php-nodejs-covisoft-1702",
+            "description": "Implement APIs web-service based on the design specifications Deploy APIs with server system on Linux or Window to support web-service for operation on...",
+            "skills": [
+                "MySQL",
+                "NodeJS",
+                "PHP"
+            ]
+        }
+    ]
+},

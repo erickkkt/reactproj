@@ -1,0 +1,19 @@
+{
+    "name": "Intratech Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4178/intratech-corp-logo-170-151.png?1506052624",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "QA QC/ Tester",
+            "link": "https://itviec.com/it-jobs/qa-qc-engineer-intratech-corp-5923",
+            "description": "Develop, maintain and execute manual test cases for major projects, maintenance, and emergency releases Identify, analyze and report test results...",
+            "skills": [
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

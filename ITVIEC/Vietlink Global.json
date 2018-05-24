@@ -1,0 +1,30 @@
+{
+    "name": "Vietlink Global",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4145/vietlink-global-logo-170-151.png?1505096397",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Technical Lead (MySQL) - Up to $2000",
+            "link": "https://itviec.com/it-jobs/php-technical-lead-vietlink-global-2426",
+            "description": "Phân tích yêu cầu nghiệp vụ, tham gia các buổi thảo luận về kỹ thuật, kiến trúc hệ thống. Tham gia các buổi họp scrum theo qui trình Agile. Thảo luận để...",
+            "skills": [
+                "MySQL",
+                "Team Leader",
+                "PHP"
+            ]
+        },
+        {
+            "name": "PHP Developer (MySQL/Linux) up to $1300",
+            "link": "https://itviec.com/it-jobs/php-developer-vietlink-global-2105",
+            "description": "Phát triên các tính năng / Sản phẩm mới phục vụ nhu cầu kinh doanh (Fontend và Backend). Tham gia các buổi họp scrum theo qui trình Agile. Thảo luận để...",
+            "skills": [
+                "MySQL",
+                "Linux",
+                "PHP"
+            ]
+        }
+    ]
+},

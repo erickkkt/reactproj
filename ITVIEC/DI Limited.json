@@ -1,0 +1,20 @@
+{
+    "name": "D.I Limited",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3777/d-i-limited-logo-170-151.jpg?1496198172",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Developer (PHP, .NET, C#)",
+            "link": "https://itviec.com/it-jobs/software-developer-php-net-c-d-i-limited-2436",
+            "description": "Job Description   Collect/Study/Analysis user request/requirement. Produce Object Oriented source code in respect of local best practices and...",
+            "skills": [
+                "C#",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

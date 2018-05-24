@@ -1,0 +1,30 @@
+{
+    "name": "VietSunshine",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3210/vietsunshine-logo-170-151.png?1480579298",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Product Manager",
+            "link": "https://itviec.com/it-jobs/system-product-manager-vietsunshine-1705",
+            "description": "· Nắm bắt sản phẩm, giải pháp về CNTT / ATTT · Xây dựng giải pháp tích hợp hệ thống phù hợp với nhu cầu và định hướng của khách hàng · Cập nhật thông...",
+            "skills": [
+                "System Admin",
+                "Product Manager",
+                "Manager"
+            ]
+        },
+        {
+            "name": "ERP Technical Specialist",
+            "link": "https://itviec.com/it-jobs/erp-technical-specialist-vietsunshine-3000",
+            "description": "- Nghiên cứu, triển khai các dự án về CNTT / ATTT - Hỗ trợ xây dựng phương án tích hợp hệ thống phù hợp với nhu cầu và định hướng của khách hàng - Thiết...",
+            "skills": [
+                "ERP",
+                "Sales Engineer",
+                "Networking"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Visnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3810/visnam-logo-170-151.png?1496979497",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "15 .NET Developers (C#)",
+            "link": "https://itviec.com/it-jobs/15-net-developers-c-visnam-2314",
+            "description": "Tham gia nghiên cứu, phát triển các giải pháp phần mềm của công ty và cho khách hàng. Lập trình tính năng của phần mềm, website, Quản trị & xử lý...",
+            "skills": [
+                "C#",
+                "OOP",
+                ".NET"
+            ]
+        }
+    ]
+},

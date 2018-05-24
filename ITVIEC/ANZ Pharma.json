@@ -1,0 +1,20 @@
+{
+    "name": "ANZ Pharma",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2491/anz-pharma-logo-170-151.png?1467886786",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (PHP, MySQL, Wordpress)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-mysql-wordpress-anz-pharma-0710",
+            "description": "Phát triển, xây dựng các dự án website sử dụng ngôn ngữ lập trình PHP và/ hoặc trên nền mã nguồn WordPress. Phát triển, xây dựng các dự án Thiết kế...",
+            "skills": [
+                "MySQL",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

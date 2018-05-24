@@ -1,0 +1,50 @@
+{
+    "name": "MySquar",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/90/mysquar-logo-170-151.png?1454113862",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Game Server Developer (Java, C#)",
+            "link": "https://itviec.com/it-jobs/game-server-developer-java-c-mysquar-1818",
+            "description": "At MySQUAR, we love to build products that resonate with people's feelings. We build products for users first and for us second. Our main product is a...",
+            "skills": [
+                "C#",
+                "Games",
+                "Java"
+            ]
+        },
+        {
+            "name": "2 Java Engineers (up to Senior level)",
+            "link": "https://itviec.com/it-jobs/02-java-web-engineers-mysquar-1320",
+            "description": "At MySQUAR, we love to build products that resonate with people's feelings. We build products for users first and for us second. Being a part of...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "FullStack Javascript/ NodeJS Engineer",
+            "link": "https://itviec.com/it-jobs/fullstack-javascript-nodejs-engineer-mysquar-1750",
+            "description": "We need an experienced engineer motivated by solving interesting technical challenges and building new applications using the latest technology.Our...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "PHP Engineer",
+            "link": "https://itviec.com/it-jobs/php-engineer-mysquar-4621",
+            "description": "At MySQUAR, we love to build products that resonate with people's feelings. We build products for users first and for us second. Our main products are...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

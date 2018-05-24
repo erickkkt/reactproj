@@ -1,0 +1,30 @@
+{
+    "name": "Unitech ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1954/unitech-logo-170-151.png?1461901329",
+    "position": "Da Nang",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "30 Software Developers (Java, .NET, PHP)",
+            "link": "https://itviec.com/it-jobs/30-software-developers-java-net-php-unitech-3004",
+            "description": "Thực hiện công việc lập trình dựa trên mô hình thiết kế hệ thống. Tích hợp các Implementation Component vào hệ thống. Chịu sự điều hành trực tiếp của...",
+            "skills": [
+                "Java",
+                "PHP",
+                ".NET"
+            ]
+        },
+        {
+            "name": "05 Bridge Engineers - Up to 2000$",
+            "link": "https://itviec.com/it-jobs/05-bridge-engineers-up-to-2000-unitech-2716",
+            "description": "Tiếp xúc, ghi nhận yêu cầu dự án từ khách hàng Nhật Bản. Phân tích yêu cầu, xem xét việc đáp ứng yêu cầu phù hợp điều kiện kỹ thuật dự án. Thương lượng,...",
+            "skills": [
+                "Bridge Engineer",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "LIFESTORY VIỆT NAM",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1150/lifestory-vi-t-nam-logo-170-151.jpg?1464748740",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior PHP Developer - Up to $2000",
+            "link": "https://itviec.com/it-jobs/php-team-leader-up-to-1500-lifestory-viet-nam-5728",
+            "description": "Write clean, well designed code with PHP Develop features for our site. The products must have the best performance. Research and apply best practice...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        }
+    ]
+},

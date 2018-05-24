@@ -1,0 +1,30 @@
+{
+    "name": "Arrasol",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1312/arrasol-logo-170-151.png?1454113813",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Unity Game 2D",
+            "link": "https://itviec.com/it-jobs/unity-game-2d-arrasol-2058",
+            "description": "- Tham gia phát triển các dự án game  của công ty. -Thực hiện các công việc khác theo yêu cầu củɑ Bɑn giám đốc. -Thường xuyên báo cáo công việc cho cấp...",
+            "skills": [
+                "Mobile Apps",
+                "Unity",
+                "Games"
+            ]
+        },
+        {
+            "name": "2D Game Artist",
+            "link": "https://itviec.com/it-jobs/2d-game-artist-arrasol-1913",
+            "description": "-Thiết kế BackGround cho Game. -Thiết kế đồ họa cho các sản phẩm game 2D. Lên ý tưởng và thiết kế nhân vật cho game 2D. -Tham gia cùng với đội ngũ phát...",
+            "skills": [
+                "Mobile Apps",
+                "UI-UX",
+                "Games"
+            ]
+        }
+    ]
+},

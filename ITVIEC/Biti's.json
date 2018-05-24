@@ -1,0 +1,20 @@
+{
+    "name": "Biti's",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3335/biti-s-logo-170-151.png?1483588937",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Developer (.NET, SQL, C#)",
+            "link": "https://itviec.com/it-jobs/developer-net-sql-c-biti-s-3013",
+            "description": "Duy trì các phần mềm, ứng dụng hiện có tại công ty như: Quản lý nhân sự, SAP, Thuế… Xây dựng và phát triển các phần mềm trên nền tảng công nghệ...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Ericsson",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3468/ericsson-logo-170-151.PNG?1488000803",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Integration Engineer - Bss",
+            "link": "https://itviec.com/it-jobs/integration-engineer-bss-ericsson-0427",
+            "description": "Job Summary: We are now looking for an Integration Engineer to analyze, prepare, implement and verify the configuration and integration of a node,...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Database"
+            ]
+        }
+    ]
+},

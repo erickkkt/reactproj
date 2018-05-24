@@ -1,0 +1,30 @@
+{
+    "name": "Công Ty Cổ Phần Đầu Tư Bắc Kỳ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4151/cong-ty-c-ph-n-d-u-t-b-c-k-logo-170-151.png?1506180376",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "IT Manager",
+            "link": "https://itviec.com/it-jobs/it-manager-cong-ty-co-phan-dau-tu-bac-ky-2908",
+            "description": "1. Nhiệm vụ quản lý  - Quản lý toàn bộ nhân viên trong phòng, chịu trách nhiệm trước Giám đốc & Tổng giám đốc về mọi hoạt động phòng IT - Quản lý hệ...",
+            "skills": [
+                "System Engineer",
+                "Networking",
+                "Manager"
+            ]
+        },
+        {
+            "name": "Lập Trình Viên Mobile App (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-mobile-app-ios-android-cong-ty-co-phan-dau-tu-bac-ky-4341",
+            "description": "- Lập trình các ứng dụng di động (iOS và Android) theo yêu cầu của BGĐ - Phân tích thiết kế hệ thống, CSDL, triển khai hoàn thiện ứng dụng hoàn chỉnh. -...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

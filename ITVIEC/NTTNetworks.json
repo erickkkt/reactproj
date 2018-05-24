@@ -1,0 +1,30 @@
+{
+    "name": "NTTNetworks",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3639/nttnetworks-logo-170-151.png?1493263196",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Web Developer (PHP, Java)",
+            "link": "https://itviec.com/it-jobs/full-stack-developer-php-java-nttnetworks-3605",
+            "description": "Tham gia đội nghiên cứu & phát triển ứng dụng, phần mềm (ứng dụng, phần mềm Voice). Tham gia thiết kế, phát triển và triển khai sản phẩm/dự án phần...",
+            "skills": [
+                "Java",
+                "Manager",
+                "PHP"
+            ]
+        },
+        {
+            "name": "02 System Engineers (Linux, Networking)",
+            "link": "https://itviec.com/it-jobs/02-system-engineers-nttnetworks-1732",
+            "description": "Tham gia tư vấn, hỗ trợ và triển khai dự án CNTT và viễn thông. Tìm hiểu, nghiên cứu các sản phẩm, giải pháp, công nghệ về mạng và VoIP (Asterisk), mã...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Networking"
+            ]
+        }
+    ]
+},

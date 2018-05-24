@@ -1,0 +1,20 @@
+{
+    "name": "Futurify",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/831/futurify-logo-170-151.png?1493292175",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[Urgent] 02 Junior .NET C# Developers",
+            "link": "https://itviec.com/it-jobs/urgent-02-junior-net-c-developers-futurify-2031",
+            "description": "We're seeking for 02 in-house developers have at least 1 year experience with .NET development. You’ll work within an outsourcing team to build...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

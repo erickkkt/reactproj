@@ -1,0 +1,30 @@
+{
+    "name": "Viettel Cyber Security",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3421/viettel-cyber-security-logo-170-151.png?1503026233",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Dev (Python, Database, AngularJS)",
+            "link": "https://itviec.com/it-jobs/web-dev-python-database-angularjs-viettel-cyber-security-1652",
+            "description": "- Phân tích yêu cầu, thiết kế hệ thống- Phát triển các hệ thống ứng dụng web",
+            "skills": [
+                "Python",
+                "Database",
+                "AngularJS"
+            ]
+        },
+        {
+            "name": "Software Engineer (Java/C++/Python)",
+            "link": "https://itviec.com/it-jobs/software-engineer-java-c-python-viettel-cyber-security-1434",
+            "description": "- Tham gia nghiên cứu, phát triển các giải pháp an ninh mạng :  + Giám sát và phát hiện tấn công.  + Quản lý ATTT cho tổ chức/ doanh nghiệp.  Phân tích...",
+            "skills": [
+                "Python",
+                "C++",
+                "Java"
+            ]
+        }
+    ]
+},

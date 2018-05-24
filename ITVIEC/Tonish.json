@@ -1,0 +1,20 @@
+{
+    "name": "Tonish",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4186/tonish-logo-170-151.png?1506392707",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "iOS Developer - Up to $1000",
+            "link": "https://itviec.com/it-jobs/ios-developer-up-to-1000-tonish-1111",
+            "description": "We are looking for talented iOS Developers to join our engineering team at Tonish Vietnam JSC. Your primary focus will be the development of iOS...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

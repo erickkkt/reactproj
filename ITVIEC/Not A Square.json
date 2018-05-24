@@ -1,0 +1,20 @@
+{
+    "name": "Not A Square",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2421/not-a-square-logo-170-151.png?1466735458",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Fullstack Developer(Python/Node.JS/Web)",
+            "link": "https://itviec.com/it-jobs/fullstack-developer-python-node-js-web-not-a-square-2220",
+            "description": "We're looking for a full-stack software engineer. If you're interested, please send your CV to us today!  Duties:   Maintain and develop...",
+            "skills": [
+                "Python",
+                "System Engineer",
+                "NodeJS"
+            ]
+        }
+    ]
+},

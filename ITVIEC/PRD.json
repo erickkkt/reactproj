@@ -1,0 +1,20 @@
+{
+    "name": "PRD",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2965/prd-logo-170-151.png?1503542508",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Backend Engineer (NodeJS, Ruby on Rails)",
+            "link": "https://itviec.com/it-jobs/backend-engineer-nodejs-ruby-on-rails-prd-2846",
+            "description": "PRD is looking for an experienced software engineer (Backend – Node.js, Ruby on Rails) to join our R&D team of talented engineers. In addition to...",
+            "skills": [
+                "Ruby on Rails",
+                "JavaScript",
+                "NodeJS"
+            ]
+        }
+    ]
+},

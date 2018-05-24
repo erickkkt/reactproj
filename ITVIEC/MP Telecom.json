@@ -1,0 +1,50 @@
+{
+    "name": "MP Telecom",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/908/mp-telecom-logo-170-151.jpg?1505988961",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "[Urgent] 03 .NET Developers -Up to $1000",
+            "link": "https://itviec.com/it-jobs/urgent-03-net-developers-up-to-1000-mp-telecom-0538",
+            "description": "Phát triển các sản phẩm trên nền tảng công nghệ Microsoft   ",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "10 Developers(Java/.Net/PHP)-Up to $2000",
+            "link": "https://itviec.com/it-jobs/10-developers-java-net-php-up-to-2000-mp-telecom-3350",
+            "description": "- Thiết kế, xây dựng và phát triển các phần mềm của công ty và đối tác- Xây dựng các tài liệu phục vụ phát triển phần mềm.  Có khả năng giao tiếp tiếng...",
+            "skills": [
+                "Java",
+                "PHP",
+                ".NET"
+            ]
+        },
+        {
+            "name": "10 Developer Onsite Japan -  Up to $3000",
+            "link": "https://itviec.com/it-jobs/10-developer-onsite-japan-up-to-3000-mp-telecom-2625",
+            "description": "- Do nhu cầu phát triển dự án từ phía khách hàng tại Nhật bản, chúng tôi cần tuyển 10 vị trí Lập trình viên thành thạo một trong các ngôn ngữ Java/ PHP/...",
+            "skills": [
+                "Java",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "20 BrSE work in Japan (up to $3000)",
+            "link": "https://itviec.com/it-jobs/20-brse-work-in-japan-up-to-3000-mp-telecom-2040",
+            "description": "- Tiếp nhận, thảo luận yêu cầu từ khách hàng.  Là cầu nối truyền tải những vấn đề của dự án cho khách hàng và những yêu cầu bổ sung của khách hàng cho...",
+            "skills": [
+                "Bridge Engineer",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

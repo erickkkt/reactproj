@@ -1,0 +1,30 @@
+{
+    "name": "5SKAY",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3957/5skay-logo-170-151.jpg?1499935867",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Senior Android Developer (Up to 20m vnd)",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-up-to-20m-vnd-5skay-0014",
+            "description": "* Phát triển sản phẩm cho công ty   * Thiết kế và viết ứng dụng cho nền tảng android   * Nghiên cứu công nghệ mới, bảo trì ứng dụng.   * Làm việc với...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "05 iOS Developers (Up to 30m vnd)",
+            "link": "https://itviec.com/it-jobs/05-ios-developers-up-to-30m-vnd-5skay-4818",
+            "description": "- Công việc chính: + Phát triển sản phẩm của công ty. + Tham gia phân tích kế hoạch xây dựng sản phẩm cùng đội nhóm. + Build task làm việc theo ngày. +...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

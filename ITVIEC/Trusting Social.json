@@ -1,0 +1,49 @@
+{
+    "name": "Trusting Social",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3862/trusting-social-logo-170-151.jpeg?1502359904",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "10 Back-end Engineer (Java/Python/Ruby)",
+            "link": "https://itviec.com/it-jobs/10-back-end-engineer-java-python-ruby-trusting-social-3728",
+            "description": "Building highly scalable, highly available, fault tolerant Web service API’s to handle millions of transactions per day   Follow Agile and Devops...",
+            "skills": [
+                "Python",
+                "Ruby",
+                "Java"
+            ]
+        },
+        {
+            "name": "02 DevOps/Platform Support Engineers",
+            "link": "https://itviec.com/it-jobs/02-devops-platform-support-engineers-trusting-social-5425",
+            "description": "Install Operating system, deploy middleware and application components using automated deployment scripts and tools Monitor Operating system, Hadoop...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "IT Support"
+            ]
+        },
+        {
+            "name": "05 Data Analyst",
+            "link": "https://itviec.com/it-jobs/05-data-analyst-trusting-social-0312",
+            "description": "Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Research Engineer - Data Scientist",
+            "link": "https://itviec.com/it-jobs/research-engineer-data-scientist-trusting-social-3802",
+            "description": "Responsibilities   Ideating and executing features computation, tuning, and selection Assisting in predictive modeling using state-of- the-art methods...",
+            "skills": [
+                "Python",
+                "SQL"
+            ]
+        }
+    ]
+},

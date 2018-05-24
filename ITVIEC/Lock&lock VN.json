@@ -1,0 +1,20 @@
+{
+    "name": "Lock&lock VN",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4047/lock-lock-vn-logo-170-151.png?1502437590",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (ASP.NET) - Up to $1000",
+            "link": "https://itviec.com/it-jobs/web-developer-asp-net-up-to-1000-lock-lock-vn-2907",
+            "description": "- Tham gia phát triển các dự án website theo yêu cầu của công ty, xuyên suốt quá trình phân tích, thiết kế chức năng, coding và test- Phát triển website...",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

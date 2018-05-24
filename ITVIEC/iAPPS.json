@@ -1,0 +1,20 @@
+{
+    "name": "iAPPS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4004/iapps-logo-170-151.png?1501215387",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "[Senior] 06 PHP - Java Developer",
+            "link": "https://itviec.com/it-jobs/senior-06-php-java-developer-iapps-4655",
+            "description": "We are looking for people with passion in software development and poses good logic sense:    Number: 05 - 06 candidates.  Design and develop quality...",
+            "skills": [
+                "J2EE",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

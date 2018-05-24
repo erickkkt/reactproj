@@ -1,0 +1,20 @@
+{
+    "name": "NOIS",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/913/nois-logo-170-151.png?1454113161",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "[urgent].NET Developer (ASP.NET MVC,WPF)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-mvc-wpf-nois-3700",
+            "description": "Develop ASP.Net MVC based web application or Web API  Apply Azure cloud services on application development  Participate in software design and...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

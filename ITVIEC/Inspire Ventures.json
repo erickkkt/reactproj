@@ -1,0 +1,30 @@
+{
+    "name": "Inspire Ventures",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/852/inspire-ventures-logo-170-151.png?1454113660",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Ruby on Rails Developer",
+            "link": "https://itviec.com/it-jobs/senior-ruby-on-rails-developer-inspire-ventures-2748",
+            "description": "You should be best at   Ruby Ruby on Rails  What You Will Do    You love product development and see your features and ideas being implemented and used...",
+            "skills": [
+                "Ruby on Rails",
+                "PostgreSql",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "Associate Product Manager",
+            "link": "https://itviec.com/it-jobs/associate-product-manager-inspire-ventures-4955",
+            "description": "Scope documentation, use cases, workflows, wireframes, design and product requirements and other materials as needed to support UX design and...",
+            "skills": [
+                "UI-UX",
+                "Product Manager",
+                "English"
+            ]
+        }
+    ]
+},

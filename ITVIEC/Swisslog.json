@@ -1,0 +1,30 @@
+{
+    "name": "Swisslog",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3738/swisslog-logo-170-151.png?1495185789",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Test Engineer (QA QC, Tester)",
+            "link": "https://itviec.com/it-jobs/java-developers-j2ee-sql-swisslog-3055",
+            "description": "Design and creation of the test specifications for the test environment Active implementation of all needed tests, carry out the tests Coordination of...",
+            "skills": [
+                "SQL",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Java Developers (J2EE, SQL)",
+            "link": "https://itviec.com/it-jobs/java-developers-swisslog-3504",
+            "description": "Contribute to the realization of customer projects in the area of automated warehouse and distribution solutions Customer specific configuration of our...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

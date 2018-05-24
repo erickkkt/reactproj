@@ -1,0 +1,20 @@
+{
+    "name": "Nittsu System Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1389/nittsu-system-vietnam-logo-170-151.jpg?1454112556",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Lập Trình Viên Web App (Java, C#)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-web-app-java-c-nittsu-system-vietnam-2257",
+            "description": "Lập trình trên Windows application, Web application Lập trình trên SmartPhone、Tabletapplication Sử dụng ngôn ngữ C#, JavaEE6 hoặcJavaEE7 Lập trình UX/UI...",
+            "skills": [
+                "C#",
+                "UI-UX",
+                "Java"
+            ]
+        }
+    ]
+},

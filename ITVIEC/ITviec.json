@@ -1,0 +1,20 @@
+{
+    "name": "ITviec",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/85/itviec-logo-170-151.jpg?1487660934",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Product Owner - Salary up to 35mil",
+            "link": "https://itviec.com/it-jobs/product-owner-itviec-0145",
+            "description": "- Work with Product team to imagine, design, define and make happen new features and product improvements for ITviec.com. Help our users find the right...",
+            "skills": [
+                "UI-UX",
+                "Product Manager",
+                "English"
+            ]
+        }
+    ]
+},

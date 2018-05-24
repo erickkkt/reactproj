@@ -1,0 +1,20 @@
+{
+    "name": "F5 System",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4167/f5-system-logo-170-151.jpg?1505960759",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "10 Web Application Dev (PHP, .NET, C#)",
+            "link": "https://itviec.com/it-jobs/10-web-application-dev-php-net-c-f5-system-3302",
+            "description": "+ Tham gia duy trì và phát triển sản phẩm phần mềm theo đơn đặt hàng từ thị trường Nhật bản. + Nghiên cứu, tìm hiểu các công nghệ mới.  + Trao đổi với...",
+            "skills": [
+                "C#",
+                "PHP",
+                ".NET"
+            ]
+        }
+    ]
+},

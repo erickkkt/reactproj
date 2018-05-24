@@ -1,0 +1,29 @@
+{
+    "name": "Jilnesta",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3449/jilnesta-logo-170-151.png?1504171383",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-jilnesta-4208",
+            "description": "• Vision:There are a lot of website and Smartphone run on iOS Operating system on the word and you are also one of user and have benefits from this...",
+            "skills": [
+                "Mobile Apps",
+                "iOS"
+            ]
+        },
+        {
+            "name": " Games developer (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/cocos2d-x-game-ios-android-mobile-apps-jilnesta-2941",
+            "description": "Develop game on Cocos2d-x for mobile platform. Working with our studios, service developers, and functional designers in multidisciplinary teams....",
+            "skills": [
+                "Games",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

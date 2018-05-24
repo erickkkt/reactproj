@@ -1,0 +1,20 @@
+{
+    "name": "Dr.Spiller",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3967/dr-spiller-logo-170-151.png?1500172034",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-dr-spiller-2031",
+            "description": "Xây dựng web, các landing page thương mại điện tử, web tin tức bằng các mã nguỗn Magento, Wordpress. Khả năng mở rộng và phát triển module PHP theo...",
+            "skills": [
+                "Wordpress",
+                "Magento",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "B2BE GSS Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2110/b2be-gss-vietnam-logo-170-151.jpg?1457492216",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "【To 1200$】PHP Developers (PHP ,MySQL,JS)",
+            "link": "https://itviec.com/it-jobs/to-1200-php-developers-php-mysql-js-b2be-gss-vietnam-1715",
+            "description": "B2BE is a global IT consulting and software development organisation that helps businesses be more efficient and profitable through the deployment of a...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

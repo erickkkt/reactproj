@@ -1,0 +1,20 @@
+{
+    "name": "Du lịch Tiên Phong",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4141/du-l-ch-tien-phong-logo-170-151.png?1504931746",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (PHP/MySQL)",
+            "link": "https://itviec.com/it-jobs/web-developer-php-mysql-du-lich-tien-phong-3718",
+            "description": "– Lập trình website dựa trên bản thiết kế bố cục và đồ họa của website.– Lập trình chất lượng cao, đảm bảo tốc độ load nhanh, tương thích đa trình duyệt...",
+            "skills": [
+                "MySQL",
+                "MVC",
+                "PHP"
+            ]
+        }
+    ]
+},

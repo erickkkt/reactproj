@@ -1,0 +1,20 @@
+{
+    "name": "ABC CUBE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2427/abc-cube-logo-170-151.png?1472108507",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Web Dev (C#, .NET, SQL) - Up to $1000",
+            "link": "https://itviec.com/it-jobs/web-dev-c-net-sql-up-to-1000-abc-cube-1157",
+            "description": "Web programming, software Join the company's website projects Have knowledge of security, system analysis Ability to analyze, manage and operate the...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

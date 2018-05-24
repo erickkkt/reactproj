@@ -1,0 +1,28 @@
+{
+    "name": "Công ty Liên doanh Vận chuyển Quốc tế Hải Vân",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4094/cong-ty-lien-doanh-v-n-chuy-n-qu-c-t-h-i-van-logo-170-151.png?1503566334",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Graphic Designer",
+            "link": "https://itviec.com/it-jobs/graphic-designer-cong-ty-lien-doanh-van-chuyen-quoc-te-hai-van-2110",
+            "description": "1. Thiết kế website2. Thiết kế các ấn phẩm đồ họa: Logo, catalogue, nhận diện thương hiệu,…3. Thiết kế mẫu mới hoặc thiết kế theo mẫu có sẵn.4. Chịu...",
+            "skills": [
+                "Designer"
+            ]
+        },
+        {
+            "name": "Lập trình viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-cong-ty-lien-doanh-van-chuyen-quoc-te-hai-van-0040",
+            "description": "- Phát triển sản phẩm sàn thương mại điện tử.  Chi tiết trao đổi cụ thể khi phỏng vấn",
+            "skills": [
+                "MySQL",
+                "UI-UX",
+                "PHP"
+            ]
+        }
+    ]
+},

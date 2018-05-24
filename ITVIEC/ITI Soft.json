@@ -1,0 +1,30 @@
+{
+    "name": "ITI Soft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3981/iti-soft-logo-170-151.jpg?1500627692",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên Java",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-java-iti-soft-5616",
+            "description": "- Tham gia xây dựng và phát triển dự án với khách hàng Nhật Bản- Create tài liệu Basic/Detail Design, Coding & Unit test, Combination test.",
+            "skills": [
+                "SQL",
+                "Oracle",
+                "Java"
+            ]
+        },
+        {
+            "name": "Lập trình viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-iti-soft-5634",
+            "description": "- Tham gia xây dựng và phát triển dự án với khách hàng nước ngoài- Create tài liệu Basic/Detail Design, Coding & Unit test, Combination test.",
+            "skills": [
+                "JavaScript",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

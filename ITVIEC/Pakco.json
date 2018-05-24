@@ -1,0 +1,20 @@
+{
+    "name": "Pakco",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3558/pakco-logo-170-151.PNG?1491387605",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Server Developer (Node.JS, JavaScript)",
+            "link": "https://itviec.com/it-jobs/server-developer-node-js-javascript-pakco-0128",
+            "description": "Work on interesting, challenging projects that have high visibility and impact Collaborate with the design team, providing creative input and technical...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "NodeJS"
+            ]
+        }
+    ]
+},

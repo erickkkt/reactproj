@@ -1,0 +1,20 @@
+{
+    "name": "Địa Ốc 19",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3294/d-a-c-19-logo-170-151.PNG?1482596003",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-dia-oc-19-1053",
+            "description": "Thiết kế & lập trình website Trao đổi thêm khi phỏng vấn ",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

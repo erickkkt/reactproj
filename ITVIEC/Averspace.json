@@ -1,0 +1,20 @@
+{
+    "name": "Averspace",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2709/averspace-logo-170-151.png?1470117985",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Frontend Dev (Angular) 1000-1500$",
+            "link": "https://itviec.com/it-jobs/senior-frontend-dev-angular-1000-1500-averspace-0916",
+            "description": "Want to work for a Singapore-based startup? Bored with your current job and want to challenge yourself in a fast and super dynamic environment? You are...",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Saigon BPO",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3013/saigon-bpo-logo-170-151.png?1474961677",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 Java Developers (HTML5/CSS)",
+            "link": "https://itviec.com/it-jobs/05-java-developers-html5-css-saigon-bpo-1103",
+            "description": "Implement applications with commercial grade quality Write design/ implementation documents Adheres to delivery schedules Maintain and troubleshoot on...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Java"
+            ]
+        }
+    ]
+},

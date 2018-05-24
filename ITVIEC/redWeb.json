@@ -1,0 +1,30 @@
+{
+    "name": "redWeb",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1206/redweb-logo-170-151.png?1454113801",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "PHP Developer (Senior and Junior)",
+            "link": "https://itviec.com/it-jobs/php-developer-senior-and-junior-redweb-0038",
+            "description": "We are looking for a Vietnamese developer who has at least 3-year experience in PHP development and preferably good experience with Joomla development...",
+            "skills": [
+                "MVC",
+                "SQL",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Frontend (Javascript, CSS, HTML5)",
+            "link": "https://itviec.com/it-jobs/frontend-javascript-css-html5-redweb-4709",
+            "description": "We are looking for a Vietnamese Frontend developer who has at least 2 years experience as a frontender preferably good experience with Joomla or other...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

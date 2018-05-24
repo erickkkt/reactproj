@@ -1,0 +1,40 @@
+{
+    "name": "Samsung Electronics Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/242/samsung-electronics-vietnam-logo-170-151.jpeg?1454112760",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer Assistant Manager",
+            "link": "https://itviec.com/it-jobs/web-designer-assistant-manager-samsung-electronics-vietnam-5601",
+            "description": "• We are looking for a web designer who can execute all visual design stages from concept to final hand-off to engineering. The successful candidate...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Mobile Testing Tool Development",
+            "link": "https://itviec.com/it-jobs/mobile-testing-tool-development-samsung-electronics-vietnam-5358",
+            "description": "• Developing software solutions (Tools for Automated Testing) by studying information needs; conferring with testers; studying Test items and process,...",
+            "skills": [
+                "C language",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "UI-UX Developer",
+            "link": "https://itviec.com/it-jobs/ui-ux-developer-samsung-electronics-vietnam-5034",
+            "description": "• Developer involve in software development mostly in UI part, including but not limited to web front end development, mobile application development...",
+            "skills": [
+                "HTML5",
+                "Mobile Apps",
+                "UI-UX"
+            ]
+        }
+    ]
+},

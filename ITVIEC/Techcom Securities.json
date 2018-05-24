@@ -1,0 +1,40 @@
+{
+    "name": "Techcom Securities",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/581/techcom-securities-logo-170-151.png?1500004102",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Developer (Python, Java, Linux)",
+            "link": "https://itviec.com/it-jobs/software-developer-python-java-linux-techcom-securities-5757",
+            "description": "Techcom Securities (TCBS) is seeking some  freshly graduated  Software Developers to join our Investment Banking team in our Hanoi and Ho Chi Minh City...",
+            "skills": [
+                "Python",
+                "Linux",
+                "Java"
+            ]
+        },
+        {
+            "name": "Head of User Experience Design (UI-UX)",
+            "link": "https://itviec.com/it-jobs/head-of-user-experience-design-ui-ux-techcom-securities-3253",
+            "description": "Techcom Securities (TCBS) is seeking an experienced Head of User Experience Design (UXD) to set up and lead our new User Experience and Design team. We...",
+            "skills": [
+                "UI-UX",
+                "Manager",
+                "Designer"
+            ]
+        },
+        {
+            "name": "QA Engineer",
+            "link": "https://itviec.com/it-jobs/qa-engineer-techcom-securities-3445",
+            "description": "Techcom Securities (TCBS) is seeking some Quality Engineers who will help to assure our products and technology solutions are designed and built in...",
+            "skills": [
+                "Agile",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Dược Sài Gòn (Sapharco)",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4102/d-c-sai-gon-sapharco-logo-170-151.jpg?1503893379",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ERP Specialist (MySQL, SQL)",
+            "link": "https://itviec.com/it-jobs/erp-specialist-mysql-sql-duoc-sai-gon-sapharco-5525",
+            "description": "Bảo trì, khắc phục sự cố, chỉnh sửa phần mềm, hỗ trợ người dùng về phần mềm Quản lý doanh nghiệp - ERP. Nghiên cứu, nắm vững các sản phẩm, công nghệ,...",
+            "skills": [
+                "MySQL",
+                "SQL",
+                "ERP"
+            ]
+        }
+    ]
+},

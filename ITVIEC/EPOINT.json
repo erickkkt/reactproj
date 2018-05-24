@@ -1,0 +1,20 @@
+{
+    "name": "EPOINT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4096/epoint-logo-170-151.png?1503567216",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Project Manager",
+            "link": "https://itviec.com/it-jobs/project-manager-epoint-3538",
+            "description": "Quản lý công việc, tiến độ, chất lượng và chi phí dự án để đảm bảo theo kế hoạch. Quản lý đội ngũ làm thiết kế Web, App, Marketing… Hoạch định và triển...",
+            "skills": [
+                "HTML5",
+                "English",
+                "Project Manager"
+            ]
+        }
+    ]
+},

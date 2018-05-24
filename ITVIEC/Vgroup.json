@@ -1,0 +1,20 @@
+{
+    "name": "Vgroup",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2531/vgroup-logo-170-151.png?1492079375",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Java Developer - Upto $1000",
+            "link": "https://itviec.com/it-jobs/java-developer-upto-1000-vgroup-4911",
+            "description": "- Làm việc trong các dự án cho khách hàng Châu Âu hoặc Nhật Bản. - Tham gia phân tích yêu cầu khách hàng, phân tích nghiệp vụ, thiết kế, lập trình trong...",
+            "skills": [
+                "AngularJS",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

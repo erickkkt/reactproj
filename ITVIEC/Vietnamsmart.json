@@ -1,0 +1,20 @@
+{
+    "name": "Vietnamsmart",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4130/vietnamsmart-logo-170-151.jpg?1504414254",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên .NET (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-net-asp-net-c-vietnamsmart-5404",
+            "description": "- Lập trình các phần mềm ứng dụng theo yêu cầu của Công ty ngôn ngữ lập trình C#, ASP. NET- Tham gia các hạng mục của dự án : Phân tích thiết kế hệ...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "ITE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4112/ite-logo-170-151.jpg?1504080628",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "C.Viên Phát triển ứng dụng/giải pháp",
+            "link": "https://itviec.com/it-jobs/c-vien-phat-trien-ung-dung-giai-phap-ite-2027",
+            "description": "Tham gia nghiên cứu, thiết kế và phát triển, tích hợp các hệ thống ứng dụng phục vụ quản trị, vận hành, kinh doanh trong lĩnh vực Giáo dục và Ngân hàng...",
+            "skills": [
+                "J2EE",
+                "Java",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Network & System Administrator",
+            "link": "https://itviec.com/it-jobs/network-system-administrator-ite-2249",
+            "description": "Xây dựng, triển khai, giám sát, quản trị và tối ưu hóa hệ thống hạ tầng (mạng, máy chủ, hệ thống lưu trữ). Chịu trách nhiệm về kiến trúc hạ tầng mạng,...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "Networking"
+            ]
+        }
+    ]
+},

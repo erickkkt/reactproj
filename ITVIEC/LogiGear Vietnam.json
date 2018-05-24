@@ -1,0 +1,30 @@
+{
+    "name": "LogiGear Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/170/logigear-vietnam-logo-170-151.png?1496896363",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Delivery Manager",
+            "link": "https://itviec.com/it-jobs/delivery-manager-logigear-vietnam-0349",
+            "description": "JOB SUMMARY  The Delivery Manager is a hands-on manager working with Project Leads to ensure the health and quality of the project, customer...",
+            "skills": [
+                "Project Manager",
+                "Manager",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "05 Java Developers",
+            "link": "https://itviec.com/it-jobs/05-java-developers-logigear-vietnam-2139",
+            "description": "Job Summary  LogiGear Corporation, a world leader in software test automation products and services, is seeking a large number of technically inclined,...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

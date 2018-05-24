@@ -1,0 +1,20 @@
+{
+    "name": "AVAT Media",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3961/avat-media-logo-170-151.png?1500002994",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (Up to $1200)",
+            "link": "https://itviec.com/it-jobs/php-developer-up-to-1200-avat-media-3205",
+            "description": "Đọc tài liệu, nắm bắt nghiệp vụ đã phân tích sẵn; Lập trình thiết kế các website. Tham gia đóng góp ý kiến, đề xuất giải pháp kỹ thuật; Phối hợp các bộ...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

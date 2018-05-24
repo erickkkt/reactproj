@@ -1,0 +1,20 @@
+{
+    "name": "Hai Yen Eye Care",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4163/hai-yen-eye-care-logo-170-151.png?1505716868",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên .NET",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-net-hai-yen-eye-care-4254",
+            "description": "- Phát triển và chỉnh sửa website, ứng dụng windows, mobile app bằng C#, ASP.NET, VB.NET.  Phân tích ứng dụng theo yêu cầu nghiệp vụ.  Cài đặt môi...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

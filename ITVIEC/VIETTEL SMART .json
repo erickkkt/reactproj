@@ -1,0 +1,30 @@
+{
+    "name": "VIETTEL SMART ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4162/viettel-smart-logo-170-151.png?1505717907",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web/System Software Engineer (Java/PHP)",
+            "link": "https://itviec.com/it-jobs/web-system-software-engineer-java-php-smart-device-research-center-viettel-group-4223",
+            "description": "Phân tích thiết kế và triển khai hệ thống. Phân tích thiết kế và vẽ lưu đồ thuật toán cho phần mềm. Thiết kế, hiện thực hệ thống cơ sở dữ liệu, hệ thống...",
+            "skills": [
+                "System Engineer",
+                "Java",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Software Engineer (Embedded/Database)",
+            "link": "https://itviec.com/it-jobs/software-engineer-embedded-database-smart-device-research-center-viettel-group-3736",
+            "description": "Phân tích thiết kế và vẽ lưu đồ thuật toán cho phần mềm. Lập trình điều khiển thiết bị; lập trình MCU; lập trình nhúng (embedded system); Device driver;...",
+            "skills": [
+                "Database",
+                "Software Architect",
+                "Embedded"
+            ]
+        }
+    ]
+},

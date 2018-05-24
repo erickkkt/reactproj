@@ -1,0 +1,20 @@
+{
+    "name": "Titan Technology Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/128/titan-technology-corporation-logo-170-151.png?1454112841",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developers",
+            "link": "https://itviec.com/it-jobs/java-developers-titan-technology-corporation-4018",
+            "description": "JOB SUMMARY  You will be part to of the team that is building the test performance framework which supports multiple platform client such as: iOS,...",
+            "skills": [
+                "Linux",
+                "Database",
+                "Java"
+            ]
+        }
+    ]
+},

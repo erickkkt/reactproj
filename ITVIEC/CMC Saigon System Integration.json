@@ -1,0 +1,40 @@
+{
+    "name": "CMC Saigon System Integration",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3989/cmc-saigon-system-integration-logo-170-151.png?1500886025",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Triển khai Contact Center (Upto $3000)",
+            "link": "https://itviec.com/it-jobs/trien-khai-contact-center-upto-3000-cmc-saigon-system-integration-4913",
+            "description": "Tham gia tư vấn và triển khai các dự án về IP Contact Center, IP soft switch, Call center và các ứng dụng liên quan. Tham gia lập trình (API) kết nối...",
+            "skills": [
+                "Linux",
+                "Networking",
+                "Java"
+            ]
+        },
+        {
+            "name": "Tư Vấn Giải Pháp (PRESALES)",
+            "link": "https://itviec.com/it-jobs/tu-van-giai-phap-presales-cmc-saigon-system-integration-4204",
+            "description": "Đánh giá, khảo sát yêu cầu tổng thể hệ thống Thiết kế chức năng (sơ đồ, lựa chọn thiết bị, kiến trúc & vận hành hệ thống …) Tổ chức cấu hình &...",
+            "skills": [
+                "System Engineer",
+                "Product Manager",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Nhân Viên Phân Tích Nghiệp Vụ (BA)",
+            "link": "https://itviec.com/it-jobs/nhan-vien-phan-tich-nghiep-vu-ba-cmc-saigon-system-integration-0644",
+            "description": "Thu thập và làm rõ yêu cầu của khách hàng   Phân tích quy trình nghiệp vụ, đề xuất với khách hàng các giải pháp cải thiện quy trình   Mô tả yêu cầu, quy...",
+            "skills": [
+                "SQL",
+                "Business Analyst",
+                "QA QC"
+            ]
+        }
+    ]
+},

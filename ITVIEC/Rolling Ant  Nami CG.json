@@ -1,0 +1,20 @@
+{
+    "name": "Rolling Ant | Nami CG",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2976/rolling-ant-nami-cg-logo-170-151.jpg?1474017562",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Viên 3D C++, C#",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-3d-c-c-rolling-ant-nami-cg-2908",
+            "description": "- Lập trình phát triển các ứng dụng 3D tương tác trên PC, điện thoại, máy tính bảng, GearVR- Phát triển ứng dụng cho di động sử dụng Unity3D hoặc native...",
+            "skills": [
+                "C#",
+                "Database",
+                "C++"
+            ]
+        }
+    ]
+},

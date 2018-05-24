@@ -1,0 +1,40 @@
+{
+    "name": "BPC Banking Technologies",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/937/bpc-banking-technologies-logo-170-151.jpg?1502684382",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Tester (Bank Segment) - Up to $1,500 net",
+            "link": "https://itviec.com/it-jobs/tester-bank-segment-up-to-1-500-net-bpc-banking-technologies-3134",
+            "description": "Working in large, distributed, international banking integrator the candidate will contribute to mission critical projects for world’s leading company...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "C language Developer (Up to $2,000 net)",
+            "link": "https://itviec.com/it-jobs/c-language-developer-up-to-2-000-net-bpc-banking-technologies-3619",
+            "description": "This is a truly challenging role, suited to an experienced and competent C developer who has strong programming, analytical and communication skills...",
+            "skills": [
+                "SQL",
+                "English",
+                "C language"
+            ]
+        },
+        {
+            "name": "Oracle Developer (Up to $2,000 net)",
+            "link": "https://itviec.com/it-jobs/oracle-developer-up-to-1-500-net-bpc-banking-technologies-0808",
+            "description": "This is a truly challenging role, suited to an experienced and competent PL/SQL developer who has strong programming, analytical and communication...",
+            "skills": [
+                "Database",
+                "SQL",
+                "Oracle"
+            ]
+        }
+    ]
+},

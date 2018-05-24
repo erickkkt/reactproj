@@ -1,0 +1,20 @@
+{
+    "name": "TCSOFT",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1037/tcsoft-logo-170-151.png?1454113756",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 .NET Developers",
+            "link": "https://itviec.com/it-jobs/05-net-developers-tcsoft-4929",
+            "description": "Tham gia lập trình code cho các sản phẩm phần mềm ứng dụng Tham gia vào việc phát triển chức năng mới và sản phẩm mới, Bảo trì các sản phẩm phần mềm của...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

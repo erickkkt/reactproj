@@ -1,0 +1,30 @@
+{
+    "name": "Virtium Viet Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/741/virtium-viet-nam-logo-170-151.png?1492766076",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Automation Testing Engineers",
+            "link": "https://itviec.com/it-jobs/automation-testing-engineers-virtium-viet-nam-5044",
+            "description": "Job Description:  The primary responsibility of the Automation Testing Engineers is working on the development of test scripts, executing the test cases...",
+            "skills": [
+                "Java",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Embedded Software Engineers (C/C++)",
+            "link": "https://itviec.com/it-jobs/embedded-software-engineers-virtium-viet-nam-5246",
+            "description": "Job Description:  Virtium Vietnam (VN) is seeking industrial embedded design software engineers with architect/senior levels of experience for our...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

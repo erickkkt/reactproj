@@ -1,0 +1,30 @@
+{
+    "name": "VRB",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3823/vrb-logo-170-151.png?1497106045",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 System Engineers",
+            "link": "https://itviec.com/it-jobs/03-system-engineers-vrb-0929",
+            "description": "Xây dựng, triển khai, giám sát, quản trị và tối ưu hóa các hệ thống máy chủ, hệ thống lưu trữ, sao lưu/phục hồi dữ liệu, hệ thống mạng truyền thông....",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "IT Support"
+            ]
+        },
+        {
+            "name": "02 Software Engineers (.NET, Java, SQL)",
+            "link": "https://itviec.com/it-jobs/02-software-engineers-net-java-sql-vrb-5539",
+            "description": "Phân tích, thiết kế các phần mềm ứng dụng. Lập trình, phát triển, bảo trì phần mềm ứng dụng và tiện ích phục vụ khách hàng và các đơn vị nghiệp vụ...",
+            "skills": [
+                "SQL",
+                "Java",
+                ".NET"
+            ]
+        }
+    ]
+},

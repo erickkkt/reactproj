@@ -1,0 +1,20 @@
+{
+    "name": "TP&P Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/829/tp-p-technology-logo-170-151.png?1454112510",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "4 x Senior Python Developers (Django)",
+            "link": "https://itviec.com/it-jobs/4-x-senior-python-developers-django-tp-p-technology-2248",
+            "description": "We are looking for Senior Python Developers with excellent programming skills to join our team. We need a person who can create highly scalable web apps...",
+            "skills": [
+                "Python",
+                "Django",
+                "AngularJS"
+            ]
+        }
+    ]
+},

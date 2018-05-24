@@ -1,0 +1,100 @@
+{
+    "name": "CBA Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1372/cba-solutions-logo-170-151.jpg?1506064791",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Principal Business Analyst",
+            "link": "https://itviec.com/it-jobs/principal-business-analyst-cba-solutions-4430",
+            "description": "The Principle Business Analyst is a very senior role in Business Analyst Team. Together with BA Manager, you should boost the quality of business...",
+            "skills": [
+                "Agile",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Java DevOps Engineer",
+            "link": "https://itviec.com/it-jobs/devops-engineer-java-based-commonwealth-bank-group-4201",
+            "description": "Our goal is simple. To be the #1 digital technology team in Vietnam. To achieve this, we’re seeking Java DevOps Engineers to design and build continuous...",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Java"
+            ]
+        },
+        {
+            "name": "Business Analyst",
+            "link": "https://itviec.com/it-jobs/business-analyst-cba-solutions-5150",
+            "description": "The Business Analyst will play a key part in the establishment and build of a new business. This business will act as a centralized hub providing...",
+            "skills": [
+                "Agile",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "Automation QA/ Tester Engineer",
+            "link": "https://itviec.com/it-jobs/automation-qa-engineer-commonwealth-bank-group-1931",
+            "description": "We are looking for a QA Automation Test Engineer with experience in Mobile, Web manual and test automation.  This position offers you an international...",
+            "skills": [
+                "Agile",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "QA Manager",
+            "link": "https://itviec.com/it-jobs/qa-manager-commonwealth-bank-group-1306",
+            "description": "Our goal is simple. To be the #1 digital technology team in Vietnam. To achieve this, we are seeking technical leaders to drive innovation and...",
+            "skills": [
+                "Manager",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Front-end Technical Lead (ReactJS)",
+            "link": "https://itviec.com/it-jobs/front-end-technical-lead-commonwealth-bank-group-3059",
+            "description": "Are you a Front-end Technical Lead with a background in providing technical leadership and delivery to other developers? If so, read on. We are looking...",
+            "skills": [
+                "Team Leader",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Full-stack Java Lead Developer",
+            "link": "https://itviec.com/it-jobs/full-stack-java-lead-developer-commonwealth-bank-group-2354",
+            "description": "We are looking for a talented Full Stack Java Lead Developer with a solid background in building functionalities. CBA Solutions is focused on building...",
+            "skills": [
+                "Software Architect",
+                "Team Leader",
+                "Java"
+            ]
+        },
+        {
+            "name": "Technical Team Leader / Scrum Master",
+            "link": "https://itviec.com/it-jobs/technical-scrum-master-commonwealth-bank-group-4958",
+            "description": "Are you a technical team lead or scrum master that can still code and test when your team requires it? Do you have a experience in product development...",
+            "skills": [
+                "Agile",
+                "Team Leader",
+                "Java"
+            ]
+        },
+        {
+            "name": "Business Analyst Manager",
+            "link": "https://itviec.com/it-jobs/business-analyst-manager-commonwealth-bank-group-1354",
+            "description": "Our goal is simple. To be the #1 digital technology team in Vietnam. To achieve this, we are seeking technical leaders to drive innovation and...",
+            "skills": [
+                "Agile",
+                "Manager",
+                "Business Analyst"
+            ]
+        }
+    ]
+},

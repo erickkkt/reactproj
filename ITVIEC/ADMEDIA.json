@@ -1,0 +1,20 @@
+{
+    "name": "ADMEDIA",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4179/admedia-logo-170-151.png?1506071510",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "React Native Mobile Apps (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/react-native-mobile-apps-ios-android-admedia-2450",
+            "description": "- Develop mobile apps by using React Native framework - 2 vacancies   - Phát triển các ứng dụng trên mobile bằng React Native framework",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

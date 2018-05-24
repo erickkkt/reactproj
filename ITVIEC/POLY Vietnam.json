@@ -1,0 +1,20 @@
+{
+    "name": "POLY Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1353/poly-vietnam-logo-170-151.png?1498034573",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developer (Javascript, SQL)",
+            "link": "https://itviec.com/it-jobs/java-developer-poly-vietnam-2142",
+            "description": "For our POLY Vietnam branch in Ho Chi Minh City (Head Office in Korea), we are currently recruiting 03 Java Developers (both Junior and Senior level) to...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

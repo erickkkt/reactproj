@@ -1,0 +1,20 @@
+{
+    "name": "Creative Future",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4081/creative-future-logo-170-151.jpg?1503385771",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Software Developer (C/ PHP/ Java)",
+            "link": "https://itviec.com/it-jobs/software-developer-c-php-java-creative-future-5328",
+            "description": "Must be comfortable working both client-side and server-side, to join our start-up. Experienced developer with a DOer's attitude. Should not feel...",
+            "skills": [
+                "C language",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

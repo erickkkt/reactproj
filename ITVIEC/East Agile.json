@@ -1,0 +1,30 @@
+{
+    "name": "East Agile",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/44/east-agile-logo-170-151.png?1454112851",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Data Scientist",
+            "link": "https://itviec.com/it-jobs/data-scientist-east-agile-2713",
+            "description": "Make the world a better place by working at East Agile! Work from our offices in Ho Chi Minh City. You will work directly with Silicon Valley Internet...",
+            "skills": [
+                "Python",
+                "Agile",
+                "Database"
+            ]
+        },
+        {
+            "name": "Senior Web And Mobile Developer",
+            "link": "https://itviec.com/it-jobs/senior-web-and-mobile-developer-east-agile-3733",
+            "description": "Choose to work from our offices in Da Nang, Ha Noi, or Ho Chi Minh City. You will work directly, in English, with the founders of new and rapidly...",
+            "skills": [
+                "Python",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

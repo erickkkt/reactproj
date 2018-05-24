@@ -1,0 +1,30 @@
+{
+    "name": "LARION",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/341/larion-logo-170-151.png?1490254675",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior Business Analyst",
+            "link": "https://itviec.com/it-jobs/senior-business-analyst-larion-3140",
+            "description": "Gather business and system requirements from client Assist client to define requirements, suggest ideas, and provide solutions Communicate with...",
+            "skills": [
+                "English",
+                "Manager",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-larion-3145",
+            "description": "Responsibilities  - Design and build advanced applications for the iOS platform - Communicate with a team of BA, Designers, Developers, Quality...",
+            "skills": [
+                "Mobile Apps",
+                "JSON",
+                "iOS"
+            ]
+        }
+    ]
+},

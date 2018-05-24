@@ -1,0 +1,30 @@
+{
+    "name": "Diasoft ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3106/diasoft-logo-170-151.jpg?1504694748",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Software Engineer (SQL,Javascript,Java)",
+            "link": "https://itviec.com/it-jobs/banking-software-engineer-diasoft-0113",
+            "description": "You will interact with TOP Vietnamese bank team and one of the world's leading banking software manufaturer to successfully implement cutting-edge...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Banking Software Implementation Engineer",
+            "link": "https://itviec.com/it-jobs/banking-software-engineer-it-support-diasoft-1332",
+            "description": "Participation in implementation projects of the Company’s software products:  Deployment of the System in the Bank, Setup of the Bank business processes...",
+            "skills": [
+                "SQL",
+                "English",
+                "IT Support"
+            ]
+        }
+    ]
+},

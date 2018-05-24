@@ -1,0 +1,30 @@
+{
+    "name": "FINVIET",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3239/finviet-logo-170-151.png?1481272038",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Front-end Dev (JavaScript, AngularJS)",
+            "link": "https://itviec.com/it-jobs/front-end-dev-javascript-angularjs-finviet-2802",
+            "description": "Implement MIS /Portal designs using HTML5, CSS3, Bootstrap, AngularJS Ajax and RestFull API, Websocket ... Work with NoSQL and Oracle databases Test...",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "Product Manager",
+            "link": "https://itviec.com/it-jobs/product-manager-finviet-0730",
+            "description": "Chịu trách nhiệm hoạch định, xây dựng & phát triển các sản phẩm chiến lược của công ty trên nền tảng mobile/web:  Nghiên cứu, phân tích & xây...",
+            "skills": [
+                "Mobile Apps",
+                "UI-UX",
+                "Product Manager"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "INNOVATUBE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2494/innovatube-logo-170-151.png?1469187313",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "3 Technical Consultant (Agile)",
+            "link": "https://itviec.com/it-jobs/technical-consultant-agile-innovatube-5241",
+            "description": "Manage 3-5 projects from Sales closure to Customer Success Lead company-wide technology asset creations (library, common modules, etc) Make right...",
+            "skills": [
+                "Agile",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "5 Back-end Developer (PHP)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-php-innovatube-4823",
+            "description": "As a BACKEND ENGINEERs (PHP) at INNOVATUBE, you will:  Create extraordinary products to with talented startups globally, mainly from the US, Europe,...",
+            "skills": [
+                "HTML5",
+                "Linux",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Mobile Dev (Android/iOS) – Up to $1300",
+            "link": "https://itviec.com/it-jobs/mobile-dev-android-ios-up-to-1300-innovatube-0858",
+            "description": "The more senior you are in the job, the more you are expected contribute in the projects and in the company as the whole. Also we offer company...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

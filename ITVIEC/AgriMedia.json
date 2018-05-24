@@ -1,0 +1,20 @@
+{
+    "name": "AgriMedia",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3268/agrimedia-logo-170-151.png?1481772451",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "10 Java Developer - Upto $1000",
+            "link": "https://itviec.com/it-jobs/10-java-developer-upto-1000-agrimedia-1552",
+            "description": "- Xây dựng các thành phần / module hệ thống dựa trên thiết kế tổng thể - Lập trình phát triển các sản phẩm trên nền tảng Java / MySQL / MongoDB - Phát...",
+            "skills": [
+                "MySQL",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

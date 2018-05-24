@@ -1,0 +1,20 @@
+{
+    "name": "G9 Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2592/g9-vi-t-nam-logo-170-151.png?1503890037",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "05 .NET/ C#/ Winforms Developer",
+            "link": "https://itviec.com/it-jobs/5-net-c-winforms-developer-1-nam-kn-g9-viet-nam-0142",
+            "description": "Xây dựng và phát triển phần mềm ứng dụng bằng ngôn ngữ C#, MS SQL     Xây dựng và phát triển các dự án trên nền công nghệ Winforms.     Cập nhật kiến...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

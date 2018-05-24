@@ -1,0 +1,20 @@
+{
+    "name": "Asilla",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2879/asilla-logo-170-151.png?1472176628",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Machine Learning (Python, Java, PHP)",
+            "link": "https://itviec.com/it-jobs/machine-learning-python-java-php-asilla-4707",
+            "description": "- Công việc: xây dựng ứng dụng dựa trên công nghệ Deep Learning trong lĩnh vực nhận diện, xử lý hình ảnh, video",
+            "skills": [
+                "Python",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

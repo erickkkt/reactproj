@@ -1,0 +1,60 @@
+{
+    "name": "NashTech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/86/nashtech-logo-170-151.png?1475836460",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "12 Senior Business Analyst",
+            "link": "https://itviec.com/it-jobs/12-senior-business-analyst-nashtech-3140",
+            "description": "The Senior Business Analyst is responsible for ensuring client requirements are fully understood and specified in a manner that will enable full...",
+            "skills": [
+                "Agile",
+                "English",
+                "Business Analyst"
+            ]
+        },
+        {
+            "name": "10 Senior QC Automation",
+            "link": "https://itviec.com/it-jobs/10-senior-qc-automation-nashtech-2821",
+            "description": "The Software QC Engineer is responsible for performing the testing tasks. The duties and responsibilities describe how the Senior Software QC Engineer...",
+            "skills": [
+                "English",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "10 Senior Front-End Developer",
+            "link": "https://itviec.com/it-jobs/10-senior-front-end-developer-nashtech-4720",
+            "description": "To write software programs from design specifications that are in compliance with established coding quality standard of the company; Perform the code...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "05 Principal PHP Developers",
+            "link": "https://itviec.com/it-jobs/05-principal-php-developers-nashtech-4509",
+            "description": "Can play Technical Leader or Technical Architect role in the projects; To contribute to the system architecture design; Contribute to the design...",
+            "skills": [
+                "Drupal",
+                "Magento",
+                "PHP"
+            ]
+        },
+        {
+            "name": "30 Senior .Net Developer",
+            "link": "https://itviec.com/it-jobs/30-senior-net-developer-nashtech-4004",
+            "description": "- To write software programs from design specifications that are in compliance with established coding quality standard of the company;- Perform the...",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

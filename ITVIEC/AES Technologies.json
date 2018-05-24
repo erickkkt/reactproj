@@ -1,0 +1,20 @@
+{
+    "name": "AES Technologies",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/827/aes-technologies-logo-170-151.jpg?1454112825",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": ".NET Developer (C#, Xamarin)",
+            "link": "https://itviec.com/it-jobs/mobile-developer-net-xamarin-aes-technologies-2312",
+            "description": "• Analyzing the user requirements with team and draft the design and solutions.• Design, development, implementation and maintenance of mission critical...",
+            "skills": [
+                "C#",
+                "Mobile Apps",
+                ".NET"
+            ]
+        }
+    ]
+},

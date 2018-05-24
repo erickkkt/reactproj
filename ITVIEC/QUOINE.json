@@ -1,0 +1,20 @@
+{
+    "name": "QUOINE",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/620/quoine-logo-170-151.png?1454112603",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Back end Engineer - Ruby on Rails",
+            "link": "https://itviec.com/it-jobs/back-end-engineer-ruby-on-rails-quoine-0009",
+            "description": "If you never work with Ruby on Rails but you are confident that you are top in your field with strong development background, don't hesitate to apply....",
+            "skills": [
+                "Ruby on Rails",
+                "Software Architect",
+                "Ruby"
+            ]
+        }
+    ]
+},

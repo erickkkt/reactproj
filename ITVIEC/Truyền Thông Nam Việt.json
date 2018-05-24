@@ -1,0 +1,30 @@
+{
+    "name": "Truyền Thông Nam Việt",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1054/truy-n-thong-nam-vi-t-logo-170-151.png?1495096150",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "05 PHP Developers (HTML/MySQL/CSS)",
+            "link": "https://itviec.com/it-jobs/05-php-developers-html-mysql-css-truyen-thong-nam-viet-0730",
+            "description": "- Xây dựng và phát triển mảng dịch vụ SMS, Subcriptions, Gateway SMS trên nên tảng PHP- Xây dựng và phát triển các Web/Wap/CMS site trên nền .Net cho...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        },
+        {
+            "name": "02 Lập trình Java - Upto 1200$",
+            "link": "https://itviec.com/it-jobs/02-lap-trinh-java-upto-1200-truyen-thong-nam-viet-1150",
+            "description": "* Lập trình các ứng dụng backend.* Chi tiết về công việc sẽ được trao đổi khi phỏng vấn.",
+            "skills": [
+                "HTML5",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

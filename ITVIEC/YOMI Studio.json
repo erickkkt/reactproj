@@ -1,0 +1,30 @@
+{
+    "name": "YOMI Studio",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1936/yomi-studio-logo-170-151.jpg?1463395481",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Mobile Game Manual Tester ",
+            "link": "https://itviec.com/it-jobs/mobile-game-manual-tester-yomi-studio-3610",
+            "description": "The mobile gaming apps are the most popular among the apps in the AppStore and the Play Market. Thousands of users spend a few hours a day playing on...",
+            "skills": [
+                "Games",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Mobile Game Developer (Unity)",
+            "link": "https://itviec.com/it-jobs/mobile-game-developer-unity-yomi-studio-4355",
+            "description": "Developers play a big part of what makes a great Mobile Game. The job starts hard and will only get harder. We believe that Developer in our team have...",
+            "skills": [
+                "Mobile Apps",
+                "Unity",
+                "Games"
+            ]
+        }
+    ]
+},

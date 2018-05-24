@@ -1,0 +1,20 @@
+{
+    "name": "Công ty Cổ Phần Đối Tác Chân Thật",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4095/cong-ty-c-ph-n-d-i-tac-chan-th-t-logo-170-151.png?1503567039",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "IT System Assistant (Business Analyst)",
+            "link": "https://itviec.com/it-jobs/it-system-assistant-business-analyst-cong-ty-co-phan-doi-tac-chan-that-0411",
+            "description": "- Tiếp nhận và phân tích yêu cầu nghiệp vụ về các chức năng bổ sung với phần mềm đã có và các phần mềm mới.  Đưa ra được tài liệu đặc tả yêu cầu nghiệp...",
+            "skills": [
+                "System Admin",
+                "ERP",
+                "Business Analyst"
+            ]
+        }
+    ]
+},

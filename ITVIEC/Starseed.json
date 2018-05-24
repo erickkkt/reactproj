@@ -1,0 +1,30 @@
+{
+    "name": "Starseed",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/612/starseed-logo-170-151.png?1471579353",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "UI-UX Designer ",
+            "link": "https://itviec.com/it-jobs/ui-designer-starseed-0408",
+            "description": "Chào các bạn thân mến!Starseed Asia - công ty của tụi mình, đang cần tìm thêm đồng bọn để đồng hành cùng các dự án từ to đến lớn, từ hấp dẫn đến...",
+            "skills": [
+                "CSS",
+                "UI-UX",
+                "Designer"
+            ]
+        },
+        {
+            "name": "WordPress Developer (PHP, HTML5/CSS3)",
+            "link": "https://itviec.com/it-jobs/wordpress-developer-php-html5-css3-starseed-0213",
+            "description": "Starseed is looking for WordPress Developer to grow with our team. Our team is located in HCM City, Viet Nam. Work together with our development team to...",
+            "skills": [
+                "MySQL",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

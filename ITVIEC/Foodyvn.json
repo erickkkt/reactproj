@@ -1,0 +1,40 @@
+{
+    "name": "Foody.vn",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/95/foody-vn-logo-170-151.png?1490844355",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": ".NET Developer (ASP.NET, C#) ~ $1,200",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-1-200-foody-vn-3646",
+            "description": "Thực hiện các công việc liên quan đến lập trình trên nền tảng . NET: web Foody, TableNow, DeliveryNow, web API, POS software… Tham gia phân tích và phát...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Senior iOS/Android Devs- up to $1200",
+            "link": "https://itviec.com/it-jobs/senior-ios-android-devs-up-to-1200-foody-vn-0903",
+            "description": "We are looking for a talented Mobile Developer (IOS/Android/Winphone) to join our Foody mobile team. If you're passionate on crafting quality app...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Senior Testers",
+            "link": "https://itviec.com/it-jobs/senior-testers-foody-vn-1612",
+            "description": "Nghiên cứu, Phân tích yêu cầu và viết checklist Lập kế hoạch test, chuẩn bị dữ liệu test Kiểm tra chất lượng Website, Ứng dụng Web và Ứng dụng trên di...",
+            "skills": [
+                "Mobile Apps",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

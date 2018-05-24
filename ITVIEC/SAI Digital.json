@@ -1,0 +1,19 @@
+{
+    "name": "SAI Digital",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/129/sai-digital-logo-170-151.png?1454113475",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Java Developer (All Levels)",
+            "link": "https://itviec.com/it-jobs/java-developer-all-levels-sai-digital-5934",
+            "description": "- Develop user-friendly eCommerce systems and be involved in design discussions- Be part of our agile teams (using Scrum) using Java Enterprise (JSP,...",
+            "skills": [
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

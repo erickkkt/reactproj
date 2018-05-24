@@ -1,0 +1,20 @@
+{
+    "name": "Repu Digital",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2674/repu-digital-logo-170-151.png?1469673409",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập Trình Web PHP - Wordpress",
+            "link": "https://itviec.com/it-jobs/lap-trinh-web-php-wordpress-repu-digital-5952",
+            "description": "- Convert email HTML từ file ảnh design có sẵn- Phát triển và chỉnh sửa website của công ty (WordPress)- Phát triển và chỉnh sửa phần mềm Email...",
+            "skills": [
+                "MySQL",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,30 @@
+{
+    "name": "Creative Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4099/creative-vi-t-nam-logo-170-151.png?1503649678",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer (HTML5/CSS)",
+            "link": "https://itviec.com/it-jobs/web-designer-html5-css-creative-viet-nam-3213",
+            "description": "- Thiết kế đồ họa giao diện website theo yêu cầu của khách hàng- Thiết kế các banner cho website theo yêu cầu của khách hàng- Kết hợp làm việc cùng đội...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Wordpress Developer (HTML5/CSS)",
+            "link": "https://itviec.com/it-jobs/wordpress-developer-html5-css-creative-viet-nam-3028",
+            "description": "- Phát triển, xây dựng các dự án website sử dụng ngôn ngữ lập trình PHP và/ hoặc trên nền mã nguồn WordPress.  Phát triển, xây dựng các dự án Thiết kế...",
+            "skills": [
+                "HTML5",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

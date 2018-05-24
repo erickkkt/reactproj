@@ -1,0 +1,20 @@
+{
+    "name": "Homedy",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2991/homedy-logo-170-151.png?1495420287",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 Web Dev (HTML5, C#, .NET) - Upto $800",
+            "link": "https://itviec.com/it-jobs/03-web-dev-html5-c-net-upto-800-homedy-5610",
+            "description": "Tham gia lập trình xây dựng các hệ thống, Website thuộc Hệ thống Homedy.com. Nhận kế hoạch và bàn giao công việc trực tiếp từ Trưởng nhóm. ",
+            "skills": [
+                "HTML5",
+                "C#",
+                ".NET"
+            ]
+        }
+    ]
+},

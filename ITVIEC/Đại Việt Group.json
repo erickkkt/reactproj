@@ -1,0 +1,70 @@
+{
+    "name": "Đại Việt Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/442/d-i-vi-t-group-logo-170-151.png?1454112952",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "07 Data Analyst Engineer (Java, Scala)",
+            "link": "https://itviec.com/it-jobs/07-data-analyst-engineer-java-scala-dai-viet-group-2043",
+            "description": "- Crawler, mô hình hóa dữ liệu;- Phân tích dữ liệu tracking, crawler;- Xây dựng các kho dữ liệu;- Giải quyết các bài toán liên quan đến lĩnh vực khai...",
+            "skills": [
+                "SQL",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "PHP Team Leader (JavaScript, CSS, HTML)",
+            "link": "https://itviec.com/it-jobs/php-team-leader-javascript-css-html-dai-viet-group-2020",
+            "description": "Tham gia phát triển các dự án truyền thông Công việc cụ thể sẽ trao đổi trong quá trình phỏng vấn ",
+            "skills": [
+                "Team Leader",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "PHP Developer (JavaScript, CSS, HTML)",
+            "link": "https://itviec.com/it-jobs/php-developer-javascript-css-html-dai-viet-group-1957",
+            "description": "- Phát triển các dự án online có lượng truy cập lớn với các công việc chính: + Lập trình PHP + Viết Unit test (nếu cần) + Nghiên cứu công nghệ mới -...",
+            "skills": [
+                "CSS",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": ".NET Developer (C#, HTML5, CSS)",
+            "link": "https://itviec.com/it-jobs/net-developer-c-html5-css-dai-viet-group-1306",
+            "description": "- Tham gia vào các dự án phát triển sản phẩm của Công ty trên nền tảng ASP.NET: + Phát triển, xây dựng các trang sản phẩm của công ty; + Hỗ trợ trưởng...",
+            "skills": [
+                "HTML5",
+                "C#",
+                ".NET"
+            ]
+        },
+        {
+            "name": "iOS Developer",
+            "link": "https://itviec.com/it-jobs/ios-developer-dai-viet-group-5125",
+            "description": "- Lập trình ứng dụng iPhone, iPad.  Xây dựng mới và mở rộng mã code cơ sở hiện tại.  Tích hợp các ứng dụng lên Apple Store.  Cung cấp source code chất...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Android Developer",
+            "link": "https://itviec.com/it-jobs/android-developer-dai-viet-group-5102",
+            "description": "- Lập trình ứng dụng Android. - Xây dựng mới và mở rộng mã code cơ sở hiện tại.  Tích hợp các ứng dụng lên Google Play- Cung cấp source code chất lượng...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

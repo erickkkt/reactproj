@@ -1,0 +1,20 @@
+{
+    "name": "PIISHIP | Ship60",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4113/piiship-ship60-logo-170-151.png?1504085376",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Developer (ASP.NET, C#, HTML5)",
+            "link": "https://itviec.com/it-jobs/web-developer-asp-net-c-html5-piiship-ship60-5222",
+            "description": "- Daily scrum theo mô hình Agile với toàn team - Phân chia công việc theo từng Sprint - Phát triển ứng dụng Web hiện có của Piiship theo product plan:...",
+            "skills": [
+                "HTML5",
+                "C#",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

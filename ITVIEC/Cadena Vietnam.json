@@ -1,0 +1,20 @@
+{
+    "name": "Cadena Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/187/cadena-vietnam-logo-170-151.jpg?1465454241",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Junior & Senior .Net Developer",
+            "link": "https://itviec.com/it-jobs/junior-senior-net-developer-cadena-vietnam-3305",
+            "description": "You will join with our .Net Development team in doing the new Series |5 - a fully web and cloud based version; which is built to deliver an HRMS system...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

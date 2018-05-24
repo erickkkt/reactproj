@@ -1,0 +1,20 @@
+{
+    "name": "VNPAY",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/638/vnpay-logo-170-151.jpg?1454112583",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "09 Java Developers (Oracle, SQL server)",
+            "link": "https://itviec.com/it-jobs/09-java-developers-oracle-sql-server-vnpay-1436",
+            "description": "Chúng tôi đang tìm kiếm những kỹ sư IT làm việc các phòng ban kỹ thuật tại Hà Nội và Thành phố Hồ Chí Minh. VNPAY là một trong những công ty đầu tiên...",
+            "skills": [
+                "SQL",
+                "Oracle",
+                "Java"
+            ]
+        }
+    ]
+},

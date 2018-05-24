@@ -1,0 +1,30 @@
+{
+    "name": "Saigon Securities Inc.",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1187/saigon-securities-inc-logo-170-151.jpg?1487670267",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "System Administrator (HN, HCM)",
+            "link": "https://itviec.com/it-jobs/system-administrator-hn-hcm-saigon-securities-inc-5246",
+            "description": "Thiết kế và thực hiện các hạng mục sau:  Xác định cấu hình yêu cầu phần cứng cho các ứng dụng nội bộ; bao gồm đánh giá quy mô thích hợp và yêu cầu chi...",
+            "skills": [
+                "System Admin",
+                "Database",
+                "IT Support"
+            ]
+        },
+        {
+            "name": ".Net Developer",
+            "link": "https://itviec.com/it-jobs/net-developer-saigon-securities-inc-0229",
+            "description": "Thu thập yêu cầu chi tiết từ các bộ phận và chuẩn bị tài liệu đặc tả yêu cầu để ký kết Phát triển ứng dụng theo tài liệu đặc tả yêu cầu. Các ứng dụng,...",
+            "skills": [
+                "HTML5",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

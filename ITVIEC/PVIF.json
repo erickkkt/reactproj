@@ -1,0 +1,30 @@
+{
+    "name": "PVIF",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1582/pvif-logo-170-151.jpg?1469682825",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (Java, .NET, C#)",
+            "link": "https://itviec.com/it-jobs/software-developer-java-net-c-pvif-3044",
+            "description": "Trao đổi cụ thể khi phỏng vấn ",
+            "skills": [
+                "C#",
+                "Java",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Phó Trưởng Ban CNTT (Manager)",
+            "link": "https://itviec.com/it-jobs/pho-truong-ban-cntt-manager-pvif-2905",
+            "description": "Trao đổi cụ thể khi phỏng vấn ",
+            "skills": [
+                "Team Leader",
+                "Project Manager",
+                "Manager"
+            ]
+        }
+    ]
+},

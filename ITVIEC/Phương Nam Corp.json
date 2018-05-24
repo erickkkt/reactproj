@@ -1,0 +1,20 @@
+{
+    "name": "Phương Nam Corp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1564/ph-ng-nam-corp-logo-170-151.jpg?1473135083",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Technical Network Engineer",
+            "link": "https://itviec.com/it-jobs/technical-network-engineer-phuong-nam-corp-3137",
+            "description": "- Triển khai và vận hành các hệ thống Web Server, DB Server: IIS, Apache, SQL, MySQL, DB Replication, DB Partitioning… trên nền tảng Linux; - Triển khai...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "Networking"
+            ]
+        }
+    ]
+},

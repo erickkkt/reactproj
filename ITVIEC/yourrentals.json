@@ -1,0 +1,20 @@
+{
+    "name": "your.rentals",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3423/your-rentals-logo-170-151.png?1486621563",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Sr. Full-stack web dev (HTML5, NodeJS)",
+            "link": "https://itviec.com/it-jobs/sr-full-stack-web-dev-html5-nodejs-your-rentals-4014",
+            "description": "As Senior full-stack web developer, you’ll be expected to code using service-oriented architecture (SOA), building for scale, performance and...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "NodeJS"
+            ]
+        }
+    ]
+},

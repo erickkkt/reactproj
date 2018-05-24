@@ -1,0 +1,30 @@
+{
+    "name": "iDentalSoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2998/identalsoft-logo-170-151.png?1490861572",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Software Tester / QA / QC",
+            "link": "https://itviec.com/it-jobs/02-software-tester-qa-qc-identalsoft-4219",
+            "description": "We are a Reseach and Development office of a US based company. Our product has been sold to many customers in the US. Now we need more good engineer to...",
+            "skills": [
+                "Database",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "02 Software Developer (Java, Database)",
+            "link": "https://itviec.com/it-jobs/02-software-developer-java-javascript-identalsoft-4248",
+            "description": "The accepted candidate will join the core team to develop company product. Everyone in the team is expected to coordinate with the others as well as...",
+            "skills": [
+                "Database",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

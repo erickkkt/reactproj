@@ -1,0 +1,30 @@
+{
+    "name": "Execution Lab",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3422/execution-lab-logo-170-151.png?1486567043",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full Stack Developer (up to 2000$)",
+            "link": "https://itviec.com/it-jobs/full-stack-developer-up-to-2000-execution-lab-4947",
+            "description": "- Manage database (SQL & NoSQL), query data for specific purposes- Research about System/Backend/AWS services to develop all new financial services....",
+            "skills": [
+                "Ruby on Rails",
+                "Database",
+                "Team Leader"
+            ]
+        },
+        {
+            "name": "Senior WEB Developer (Rails or NodeJS) ",
+            "link": "https://itviec.com/it-jobs/senior-web-developer-rails-or-nodejs-execution-lab-3322",
+            "description": "- Research, maintain and develop some new financial services.  Using many AWS services to improve the quality of production.  Participate in user...",
+            "skills": [
+                "Ruby on Rails",
+                "Database",
+                "NodeJS"
+            ]
+        }
+    ]
+},

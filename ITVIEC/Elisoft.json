@@ -1,0 +1,20 @@
+{
+    "name": "Elisoft",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/229/elisoft-logo-170-151.png?1454112741",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Android Developer (Team Leader)",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-team-lead-elisoft-3304",
+            "description": "- Taking part in conference call in ENGLISH with our customers, partners.  Coordinate the development efforts of multiple Android teams.  Design and...",
+            "skills": [
+                "Mobile Apps",
+                "English",
+                "Android"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "HiggsUp",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2254/higgsup-logo-170-151.png?1499333614",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "20+ Software Developer (Java/JavaScript)",
+            "link": "https://itviec.com/it-jobs/20-software-developer-java-javascript-higgsup-0035",
+            "description": "We are looking for Software Developers to develop enterprise software and solutions, build startup products, or become high-quality hiring personel for...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "Java"
+            ]
+        }
+    ]
+},

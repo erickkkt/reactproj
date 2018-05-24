@@ -1,0 +1,20 @@
+{
+    "name": "BHD Star",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4015/bhd-star-logo-170-151.png?1501490509",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Network & System Engineer",
+            "link": "https://itviec.com/it-jobs/network-system-engineer-bhd-star-1018",
+            "description": "MỤC TIÊU CỦA VỊ TRÍ CÔNG VIệC • Đảm bảo rằng tất cả các chi nhánh , phòng ban của công ty có hệ thống đáp ứng đầy đủ nhu cầu hoạt động hiệu quả và độ...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "Networking"
+            ]
+        }
+    ]
+},

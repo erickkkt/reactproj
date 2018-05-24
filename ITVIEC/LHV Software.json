@@ -1,0 +1,40 @@
+{
+    "name": "LHV Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/184/lhv-software-logo-170-151.jpg?1454113206",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Ruby on Rails Developer",
+            "link": "https://itviec.com/it-jobs/ruby-on-rails-developer-lhv-software-0625",
+            "description": "Develop & maintain software systems & web applications. Read & understand technical specifications, analyze product requirements, design...",
+            "skills": [
+                "MySQL",
+                "Ruby on Rails",
+                "Ruby"
+            ]
+        },
+        {
+            "name": "20 Sr. Java Developers - 1 month bonus",
+            "link": "https://itviec.com/it-jobs/20-sr-java-developers-1-month-bonus-lhv-software-4315",
+            "description": "You have a good chance to work in a professional environment with customer companies from Europe, US in a cloud-based business intelligence and big data...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "Java"
+            ]
+        },
+        {
+            "name": "Senior Android Developer - 1 month bonus",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-1-month-bonus-lhv-software-5701",
+            "description": "We are looking for an Android Developer pioneer to join our team. This position offers an inspirational space to create the next innovation in mobile...",
+            "skills": [
+                "Mobile Apps",
+                "OOP",
+                "Android"
+            ]
+        }
+    ]
+},

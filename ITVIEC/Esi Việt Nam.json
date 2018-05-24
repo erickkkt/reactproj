@@ -1,0 +1,20 @@
+{
+    "name": "Esi Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2184/esi-vi-t-nam-logo-170-151.png?1503805394",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Front-End Developer",
+            "link": "https://itviec.com/it-jobs/web-front-end-developer-esi-viet-nam-3212",
+            "description": "Lập trình ứng dụng web, đảm nhiệm công việc phát triển phần web front-end (chủ yếu). Viết mã phần front-end với: JavaScript/ECMAScript 5, HTML5,...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "JQuery"
+            ]
+        }
+    ]
+},

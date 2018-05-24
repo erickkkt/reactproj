@@ -1,0 +1,20 @@
+{
+    "name": "Meed Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4103/meed-vietnam-logo-170-151.png?1503745095",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System and Network Admin",
+            "link": "https://itviec.com/it-jobs/system-and-network-admin-meed-vietnam-2233",
+            "description": "Supporting users in IT technical issues in line with the company’s policies/processes. Helping ensuring the operability, reliability and security of the...",
+            "skills": [
+                "System Admin",
+                "English",
+                "Networking"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "AEON",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4119/aeon-logo-170-151.png?1504170002",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Executive",
+            "link": "https://itviec.com/it-jobs/system-executive-aeon-5320",
+            "description": "- Server Designing and Implementation.  Network Designing and Implementation.  Network, Server, PC Maintain/ Monitor and operate. - Plan implements...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "Networking"
+            ]
+        }
+    ]
+},

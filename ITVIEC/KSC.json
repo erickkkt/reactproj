@@ -1,0 +1,30 @@
+{
+    "name": "KSC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2533/ksc-logo-170-151.png?1487059528",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Game Developer (cocos2D)",
+            "link": "https://itviec.com/it-jobs/game-developer-cocos2d-ksc-0128",
+            "description": "- Tham gia xây dựng, phát triển các dự án, sản phẩm game (Web, Android, IOS) dựa trên các nền tảng Cocos2d-js; - Chi tiết công việc sẽ được trao đổi tại...",
+            "skills": [
+                "Unity",
+                "JavaScript",
+                "Games"
+            ]
+        },
+        {
+            "name": ".NET Developer (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-ksc-2409",
+            "description": "- Lập trình phát triển các dự án phần mềm trên nền tảng web; - Lập trình phát triển các ứng dụng trên di động OTT, trên nền tảng công nghệ của IOS,...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

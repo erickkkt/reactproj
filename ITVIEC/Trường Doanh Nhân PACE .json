@@ -1,0 +1,30 @@
+{
+    "name": "Trường Doanh Nhân PACE ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1101/tr-ng-doanh-nhan-pace-logo-170-151.jpg?1496370705",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Network and System Admin",
+            "link": "https://itviec.com/it-jobs/network-and-system-admin-truong-doanh-nhan-pace-0132",
+            "description": "Thiết kế, cài đặt, bảo trì, vận hành các hệ thống thiết bị bao gồm: hệ thống máy tính (phần cứng, phần mềm), máy in, máy chiếu; Phân quyền, quản trị...",
+            "skills": [
+                "System Engineer",
+                "System Admin",
+                "Networking"
+            ]
+        },
+        {
+            "name": ".NET Developer (C#, ASP.NET, SQL)",
+            "link": "https://itviec.com/it-jobs/net-developer-c-asp-net-sql-truong-doanh-nhan-pace-3659",
+            "description": "Triển khai lập trình và phát triển các wesites quan trọng thuộc hệ thống PACE, bao gồm cả việc tái cấu trúc, sửa chữa, khắc phục lỗi … trên các...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

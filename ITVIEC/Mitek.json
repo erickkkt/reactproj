@@ -1,0 +1,20 @@
+{
+    "name": "Mitek",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2870/mitek-logo-170-151.png?1472022782",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer (MySQL, JavaScript)",
+            "link": "https://itviec.com/it-jobs/php-developer-mysql-javascript-mitek-1654",
+            "description": "– Xây dựng và phát triển các sản phẩm hoặc hệ thống lớn với số lượng người sử dụng và truy cập cao.– Xây dựng kiến trúc và thiết kế các sản phẩm, tính...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

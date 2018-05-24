@@ -1,0 +1,30 @@
+{
+    "name": "IT Consultis",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2098/it-consultis-logo-170-151.png?1457326198",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Medior Wordpress Developer - Hot salary",
+            "link": "https://itviec.com/it-jobs/medior-wordpress-developer-hot-salary-it-consultis-0006",
+            "description": "Responsibilities  Work as a developer inside projects assigned Develop new features using Wordpress Analyze, debug and test code Write well-engineered...",
+            "skills": [
+                "HTML5",
+                "Wordpress",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Senior Android Developer - Hot salary",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-hot-salary-it-consultis-5204",
+            "description": "Responsibility  Accountable for designing and building advanced applications for the Android platform Leading team to deliver and execute on a project...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        }
+    ]
+},

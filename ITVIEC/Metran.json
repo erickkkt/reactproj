@@ -1,0 +1,20 @@
+{
+    "name": "Metran",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2997/metran-logo-170-151.jpg?1503891543",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "2 C/C++ Embedded Software Engineers",
+            "link": "https://itviec.com/it-jobs/2-c-c-embedded-software-engineers-metran-5827",
+            "description": "Metran Vietnam is looking for embedded engineers with good background of programing skills to develop embedded systems in the field of medical and...",
+            "skills": [
+                "C++",
+                "C language",
+                "Embedded"
+            ]
+        }
+    ]
+},

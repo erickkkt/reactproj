@@ -1,0 +1,40 @@
+{
+    "name": "K.System And Solutions",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1417/k-system-and-solutions-logo-170-151.png?1464418421",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "C# .NET Developer",
+            "link": "https://itviec.com/it-jobs/c-net-developer-k-system-and-solutions-4357",
+            "description": "Responsible for the solutions for business logic challenges of development projects Analyze system requirements and review specifications Participate in...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Fullstack PHP Developer",
+            "link": "https://itviec.com/it-jobs/fullstack-php-developer-k-system-and-solutions-2436",
+            "description": "We are looking for an experienced andpassionate full stack developer to help developing server-side logic, definition and maintenance of the central...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Frontend Developer (ReactJS, Javascript)",
+            "link": "https://itviec.com/it-jobs/frontend-developer-reactjs-javascript-k-system-and-solutions-1250",
+            "description": "Project objective is to transform a Opencart Hybrid platform into New-Age UI. Technology stack includes Mariadb as backend, current UI of Hybrid App and...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "ReactJS"
+            ]
+        }
+    ]
+},

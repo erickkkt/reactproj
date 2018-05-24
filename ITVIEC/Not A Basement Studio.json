@@ -1,0 +1,30 @@
+{
+    "name": "Not A Basement Studio",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/478/not-a-basement-studio-logo-170-151.jpg?1454112897",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Senior iOS Mobile Apps Developer ",
+            "link": "https://itviec.com/it-jobs/senior-mobile-apps-ios-developer-not-a-basement-studio-2252",
+            "description": "DESCRIPTIONS:  We are making apps for users all over the world with millions of users using our apps currently. One of the key ingredients to achieve...",
+            "skills": [
+                "Mobile Apps",
+                "English",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Senior Android Mobile Apps Developer",
+            "link": "https://itviec.com/it-jobs/senior-android-developer-1-100-1-300-not-a-basement-studio-1905",
+            "description": "We are making apps for users all over the world with millions of users using our apps currently. One of the key ingredients to achieve such number and...",
+            "skills": [
+                "Mobile Apps",
+                "English",
+                "Android"
+            ]
+        }
+    ]
+},

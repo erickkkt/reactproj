@@ -1,0 +1,20 @@
+{
+    "name": "Retail Exchange Network",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3853/retail-exchange-network-logo-170-151.png?1497955679",
+    "position": "Da Nang",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "03 .NET Developers (VB6, VB.NET…)",
+            "link": "https://itviec.com/it-jobs/03-net-developers-vb6-vb-net-retail-exchange-network-5208",
+            "description": "Phát triển hệ thống quản lý thân thiện với người dùng bằng những công nghệ phát triển ứng dụng hiện đại nhất. Phát triển các hệ thống dịch vụ quy mô lớn...",
+            "skills": [
+                "SQL",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

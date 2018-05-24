@@ -1,0 +1,20 @@
+{
+    "name": "Aleph Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1138/aleph-vietnam-logo-170-151.png?1469000766",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "(Senior) Sitecore .Net Developer",
+            "link": "https://itviec.com/it-jobs/senior-sitecore-net-developer-aleph-vietnam-4827",
+            "description": "THE ROLE The Sr. Sitecore.NET Developer position is responsible for back end development of public website which uses Sitecore platform. This is a...",
+            "skills": [
+                "Software Architect",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

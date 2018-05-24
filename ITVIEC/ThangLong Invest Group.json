@@ -1,0 +1,20 @@
+{
+    "name": "ThangLong Invest Group",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3824/thanglong-invest-group-logo-170-151.png?1497107203",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "ERP System Developer (C#, .NET)",
+            "link": "https://itviec.com/it-jobs/erp-system-developer-c-net-thanglong-invest-group-5726",
+            "description": "• Phát triển, quản trị hệ thống phần mềm ERP• Phát triển các ứng dụng phần mềm quản lý cho Công ty; Tổ chức quản trị và ứng dụng các giải pháp CNTT và...",
+            "skills": [
+                "C#",
+                "ERP",
+                ".NET"
+            ]
+        }
+    ]
+},

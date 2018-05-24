@@ -1,0 +1,20 @@
+{
+    "name": "Wakka Data Service",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2261/wakka-data-service-logo-170-151.png?1502686128",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Front-end Engineer (JavaScript, HTML5)",
+            "link": "https://itviec.com/it-jobs/front-end-engineer-javascript-html5-wakka-data-service-3414",
+            "description": "【Nội dung công việc của bạn】 - Code HTML/CSS/JS-Jquery theo yêu cầu từ file PSD, AI,... (thường là sẽ làm trên theme wordpress code mới hoặc chỉnh sửa...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

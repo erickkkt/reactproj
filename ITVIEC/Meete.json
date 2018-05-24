@@ -1,0 +1,30 @@
+{
+    "name": "Meete",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3563/meete-logo-170-151.png?1491707313",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front-end Dev (JavaScript, HTML5, CSS)",
+            "link": "https://itviec.com/it-jobs/frontend-dev-javascript-html5-css-meete-5115",
+            "description": "Working with designers and project team for the front-end layer. Architect, develop and maintain front-end librabries. Do research on new UI...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "PHP Back-end Developer",
+            "link": "https://itviec.com/it-jobs/php-back-end-developer-meete-4900",
+            "description": "Backend, work with current IT team to develop new functions. ",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "PHP"
+            ]
+        }
+    ]
+},

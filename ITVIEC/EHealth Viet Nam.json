@@ -1,0 +1,20 @@
+{
+    "name": "EHealth Viet Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3440/ehealth-viet-nam-logo-170-151.png?1487647239",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 PHP Developers (JavaScript, MySQL)",
+            "link": "https://itviec.com/it-jobs/03-php-developers-javascript-mysql-ehealth-viet-nam-1104",
+            "description": "Chúng tôi đang tìm kiếm ứng viên tài năng cho các dự án phần mềm về lĩnh vực y tế & chăm sóc sức khỏe.  Thành viên của VEMR sẽ được: - Tham gia lập...",
+            "skills": [
+                "MySQL",
+                "CSS",
+                "PHP"
+            ]
+        }
+    ]
+},

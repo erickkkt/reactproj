@@ -1,0 +1,20 @@
+{
+    "name": "Luxoft Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/326/luxoft-vietnam-logo-170-151.png?1472758793",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "Senior C++ Developers (HMI systems)",
+            "link": "https://itviec.com/it-jobs/senior-developer-c-luxoft-vietnam-5321",
+            "description": "Be part of a multinational team of engineers responsible for developing software for automotive instrument clusters and/or HMI systems. Job scope...",
+            "skills": [
+                "C++",
+                "English",
+                "Embedded"
+            ]
+        }
+    ]
+},

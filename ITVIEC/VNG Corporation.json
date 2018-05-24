@@ -1,0 +1,49 @@
+{
+    "name": "VNG Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/81/vng-corporation-logo-170-151.jpg?1454112693",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Mobile Developer (Android/ iOS) ~ 2000$",
+            "link": "https://itviec.com/it-jobs/mobile-developer-android-ios-2000-vng-corporation-0249",
+            "description": "Being responsible for designing, developing and optimizing VNG products on the Android/iOS platform. Possess problem solving and analytical skills,...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "Java Developer (Open level) - Up to $2k",
+            "link": "https://itviec.com/it-jobs/java-developer-open-level-up-to-2k-vng-corporation-0055",
+            "description": "We’re looking for Java Developer (Open level):   Developing Server API for VNG's Products (Zing, Zalo, Zalo Pay, 123Pay...) Developing web applications...",
+            "skills": [
+                "MySQL",
+                "OOP",
+                "Java"
+            ]
+        },
+        {
+            "name": "Product Owner",
+            "link": "https://itviec.com/it-jobs/product-owner-vng-corporation-1237",
+            "description": "Responsible for the product planning and execution based on life cycle and vertical business, including:  Conducting market & user research, to get...",
+            "skills": [
+                "UI-UX",
+                "Product Manager"
+            ]
+        },
+        {
+            "name": " .NET Developer (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-vng-corporation-0127",
+            "description": "Lập trình phát triển các sản phẩm nội dung đặc thù của báo chí. Lập trình phát triển các công cụ quản lý / xử lý dữ liệu lớn. ",
+            "skills": [
+                "C#",
+                "JavaScript",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

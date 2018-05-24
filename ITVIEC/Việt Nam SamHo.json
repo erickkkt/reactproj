@@ -1,0 +1,20 @@
+{
+    "name": "Việt Nam SamHo",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2384/vi-t-nam-samho-logo-170-151.gif?1465546608",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Engineer (.NET, C#, SQL)",
+            "link": "https://itviec.com/it-jobs/software-engineer-net-c-sql-viet-nam-samho-1107",
+            "description": "- Plan, organize, control and evaluate IT and electronic data operations.  Ensure security of data, network access and backup systems.  Act in alignment...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,19 @@
+{
+    "name": "Carlsberg Việt Nam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1990/carlsberg-vi-t-nam-logo-170-151.gif?1454112994",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Technical Service Engineer (.NET, SQL)",
+            "link": "https://itviec.com/it-jobs/technical-service-engineer-net-sql-carlsberg-viet-nam-2244",
+            "description": "• Triển khai các ứng dụng và hỗ trợ đội ngũ bán hàng, khách hàng của Carlsberg trên toàn quốc• Thường xuyên theo dõi tình hình sử dụng phần mềm của...",
+            "skills": [
+                "SQL",
+                ".NET"
+            ]
+        }
+    ]
+},

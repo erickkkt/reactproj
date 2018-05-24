@@ -1,0 +1,30 @@
+{
+    "name": "CodeLink",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3074/codelink-logo-170-151.png?1476957849",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Product Manager / Project Manager",
+            "link": "https://itviec.com/it-jobs/product-manager-project-manager-codelink-0440",
+            "description": "Lead Product Development in an Agile environment for our International client base!    Work on rapidly creating new Web and Mobile products for a...",
+            "skills": [
+                "Product Manager",
+                "Project Manager",
+                "Designer"
+            ]
+        },
+        {
+            "name": "Full-stack web developer",
+            "link": "https://itviec.com/it-jobs/full-stack-web-developer-codelink-3616",
+            "description": "We have team of talented and motivated engineers and designers. We are looking for developers who have solid background about web development, care...",
+            "skills": [
+                "Ruby on Rails",
+                "JavaScript",
+                "ReactJS"
+            ]
+        }
+    ]
+},

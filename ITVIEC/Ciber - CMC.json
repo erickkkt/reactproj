@@ -1,0 +1,28 @@
+{
+    "name": "Ciber - CMC",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/744/ciber-cmc-logo-170-151.jpg?1504596362",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 ABAP Developer (SAP)",
+            "link": "https://itviec.com/it-jobs/02-abap-developer-sap-ciber-cmc-4402",
+            "description": "As a ABAP Developer you will be:  Responsible for execution and coordination of development work, typically executed in collaboration with oversees and...",
+            "skills": [
+                "SAP"
+            ]
+        },
+        {
+            "name": "Senior .NET Developer",
+            "link": "https://itviec.com/it-jobs/senior-net-developer-ciber-cmc-5923",
+            "description": "At Ciber, business and technology consulting isn't just your career…it's your passion. And that means more than just working with new innovations. It...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

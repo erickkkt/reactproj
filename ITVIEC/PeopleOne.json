@@ -1,0 +1,20 @@
+{
+    "name": "PeopleOne",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3096/peopleone-logo-170-151.png?1477556640",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Web Developer (Wordpress)",
+            "link": "https://itviec.com/it-jobs/php-web-developer-wordpress-peopleone-4114",
+            "description": "- Phụ trách front end của web application trên nền PHP Wordpress, AngularJS và JSON API. - Phát triển tiếp front end trên nền PHP, ReactJS - Kết nối...",
+            "skills": [
+                "JavaScript",
+                "Wordpress",
+                "PHP"
+            ]
+        }
+    ]
+},

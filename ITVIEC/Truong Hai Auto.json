@@ -1,0 +1,30 @@
+{
+    "name": "Truong Hai Auto",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1386/truong-hai-auto-logo-170-151.jpg?1454112731",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Web Developer (C#)",
+            "link": "https://itviec.com/it-jobs/web-developer-c-truong-hai-auto-5344",
+            "description": "Quản lý tất cả kỹ thuật của website của Tổng công ty như mã nguồn lập trình, dữ liệu website, thông tin quản trị domain, hoạt động của server. Thực hiện...",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Software Developer (C#)",
+            "link": "https://itviec.com/it-jobs/software-developer-c-truong-hai-auto-5142",
+            "description": "Tham gia phát triển phần mềm để phục vụ nhu cầu quản trị các hoạt động sản xuất kinh doanh của công ty theo các công đoạn sau: Phân tích nghiệp vụ và...",
+            "skills": [
+                "C#",
+                "SQL",
+                "Oracle"
+            ]
+        }
+    ]
+},

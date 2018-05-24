@@ -1,0 +1,30 @@
+{
+    "name": "GMO-Z.com RUNSYSTEM",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/447/gmo-z-com-runsystem-logo-170-151.png?1463381252",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "04 Senior Java Developers",
+            "link": "https://itviec.com/it-jobs/04-senior-java-developers-gmo-z-com-runsystem-3745",
+            "description": "Tham gia vào dự án outsource cho khách hàng Nhật Bản   Tham gia lập trình các module từ đơn giản đến phức tạp. Có thể review code,...",
+            "skills": [
+                "MySQL",
+                "Oracle",
+                "Java"
+            ]
+        },
+        {
+            "name": "03 PHP Developers",
+            "link": "https://itviec.com/it-jobs/03-php-developers-gmo-z-com-runsystem-3715",
+            "description": "Mô tả dự án: Là các dự án mảng phát triển Web cho khách hàng Nhật Bản và Việt Nam.  Mô tả công việc:    Tham gia thiết kế và...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

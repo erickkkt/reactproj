@@ -1,0 +1,20 @@
+{
+    "name": "Gimper SZ Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1598/gimper-sz-technology-logo-170-151.png?1454473778",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Automotive Embedded Software Tester ",
+            "link": "https://itviec.com/it-jobs/automotive-embedded-software-tester-gimper-sz-technology-4423",
+            "description": "1) Software testing in automotive industry (preferably Cluster product)2) Knowledge in communication protocol: CAN, I2C, LIN, UDS, KWP2000 3) Experience...",
+            "skills": [
+                "C language",
+                "Embedded",
+                "Tester"
+            ]
+        }
+    ]
+},

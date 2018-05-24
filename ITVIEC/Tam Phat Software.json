@@ -1,0 +1,20 @@
+{
+    "name": "Tam Phat Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3975/tam-phat-software-logo-170-151.png?1500616485",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-tam-phat-software-3736",
+            "description": "- Xây dựng Web dựa trên nền tảng PHP/MySQL/CI framework- Lập trình website dựa trên giao diện thiết kế và framework của công ty.  Phối hợp với các thành...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

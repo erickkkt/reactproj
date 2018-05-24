@@ -1,0 +1,50 @@
+{
+    "name": "Simpson Strong-tie Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/905/simpson-strong-tie-vietnam-logo-170-151.jpg?1454112646",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": ".NET Application Developer (C#, ASP.NET)",
+            "link": "https://itviec.com/it-jobs/net-application-developer-c-asp-net-simpson-strong-tie-vietnam-4226",
+            "description": "The Application Developer is responsible for the development of Web-based/ Windows Desktop Applications and solutions in support of Simpson Strong-Tie’s...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "C#/.NET Software Developer",
+            "link": "https://itviec.com/it-jobs/c-net-software-developer-simpson-strong-tie-vietnam-5001",
+            "description": "The Application Developer is responsible for the development of .NET applications in support of Simpson Strong-Tie’s business requirements....",
+            "skills": [
+                "C#",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Application QA Engineer",
+            "link": "https://itviec.com/it-jobs/application-qa-engineer-simpson-strong-tie-vietnam-4535",
+            "description": "Job Summary The Application QA is responsible for the testing of Web-based/ Windows Desktop applications, SAP ERP and solutions in support of Simpson...",
+            "skills": [
+                "ERP",
+                "English",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Java Developer (J2EE, JavaScript)",
+            "link": "https://itviec.com/it-jobs/java-developer-j2ee-javascript-simpson-strong-tie-vietnam-3908",
+            "description": "The Java Application Developer is responsible for the development of Software Applications and Solutions in support of Simpson Strong-Tie’s business...",
+            "skills": [
+                "JavaScript",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "SGH Asia",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/140/sgh-asia-logo-170-151.gif?1454112589",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Dynamic Senior Java Developer",
+            "link": "https://itviec.com/it-jobs/dynamic-senior-java-developer-sgh-asia-3652",
+            "description": "SGH Asia Ltd (100% FDI from SGH AG, Germany) provides a competitive advantage to partners, like SIEMENS, KAERCHER, NOVARTIS, LUFTHANSA, L’OREAL, and...",
+            "skills": [
+                "MySQL",
+                "AngularJS",
+                "Java"
+            ]
+        }
+    ]
+},

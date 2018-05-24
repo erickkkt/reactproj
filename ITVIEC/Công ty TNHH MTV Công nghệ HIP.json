@@ -1,0 +1,29 @@
+{
+    "name": "Công ty TNHH MTV Công nghệ HIP",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1994/cong-ty-tnhh-mtv-cong-ngh-hip-logo-170-151.png?1466152017",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "TESTER/QC",
+            "link": "https://itviec.com/it-jobs/tester-qc-cong-ty-tnhh-mtv-cong-nghe-hip-1300",
+            "description": "- Đọc phân tích yêu cầu để hiểu rõ hệ thống. Lập kế hoạch kiểm thử (Test Plan). Viết tài liệu kịch bản kiểm thử (Test Case). Chuẩn bị các dữ liệu kiểm...",
+            "skills": [
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Backend Developer(PHP/Python/JavaScript)",
+            "link": "https://itviec.com/it-jobs/backend-developer-php-python-javascript-cong-ty-tnhh-mtv-cong-nghe-hip-1518",
+            "description": "Hiện nay HIP đang phát triển dự án Upbox - Ứng dụng lưu trữ đám mây với một số lượng lớn người dùng, trên cả nhiều nền tảng Website, Windows, và...",
+            "skills": [
+                "Python",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

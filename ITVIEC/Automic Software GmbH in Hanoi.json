@@ -1,0 +1,39 @@
+{
+    "name": "Automic Software GmbH in Hanoi",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/602/automic-software-gmbh-in-hanoi-logo-170-151.jpg?1497259173",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Java Developer",
+            "link": "https://itviec.com/it-jobs/java-developer-automic-software-gmbh-in-hanoi-2213",
+            "description": "*** About the position: Your main tasks will be developing and testing components and logics, and integrating it with our backendarchitecture. You will...",
+            "skills": [
+                "Java",
+                ".NET"
+            ]
+        },
+        {
+            "name": ".NET Developer",
+            "link": "https://itviec.com/it-jobs/net-developer-automic-software-gmbh-in-hanoi-2132",
+            "description": "*** About the position: Your main tasks will be around maintaining, testing, and developing components and logics, andintegrating it with our backend...",
+            "skills": [
+                "C#",
+                "Java",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Technical Support",
+            "link": "https://itviec.com/it-jobs/technical-support-automic-software-gmbh-in-hanoi-2317",
+            "description": "Job Purpose/ Objective: Provide TECHNICAL SUPPORT on the company's software products residing in customer’s environments to ensure highsatisfaction....",
+            "skills": [
+                "System Admin",
+                "English",
+                "IT Support"
+            ]
+        }
+    ]
+},

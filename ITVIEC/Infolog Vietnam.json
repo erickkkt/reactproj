@@ -1,0 +1,20 @@
+{
+    "name": "Infolog Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2303/infolog-vietnam-logo-170-151.JPG?1463366660",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "5 .NET Developers (ASP.NET, SQL, MVC)",
+            "link": "https://itviec.com/it-jobs/5-net-developers-asp-net-sql-mvc-infolog-vietnam-2151",
+            "description": "Work closely with Project Team and Customer Understand business requirements requiring customizations Propose design options and recommend best solution...",
+            "skills": [
+                "MVC",
+                "SQL",
+                "ASP.NET"
+            ]
+        }
+    ]
+},

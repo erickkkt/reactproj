@@ -1,0 +1,30 @@
+{
+    "name": "PadITech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2128/paditech-logo-170-151.png?1457837191",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Senior Mobile Dev (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/senior-mobile-dev-ios-android-paditech-2754",
+            "description": "Tham gia vào các dự án phần mềm với các đối tác hàng đầu Nhật Bản Phát triển các ứng dụng trên iOS/Android, tìm hiểu các công nghệ mới. Tối ưu hóa ứng...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "05 PHP Developers (Up to $1500)",
+            "link": "https://itviec.com/it-jobs/05-php-developers-up-to-1500-paditech-1330",
+            "description": "Tham gia vào các dự án phần mềm với các đối tác hàng đầu Nhật Bản và Việt Nam Phát triển các ứng dụng WEB , tìm hiểu các công nghệ mới. Tối ưu hóa ứng...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "PHP"
+            ]
+        }
+    ]
+},

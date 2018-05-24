@@ -1,0 +1,20 @@
+{
+    "name": "Công nghệ Aladdin",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3370/cong-ngh-aladdin-logo-170-151.jpg?1506330592",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 PHP Developers ( HTML, Java)",
+            "link": "https://itviec.com/it-jobs/05-php-developers-cong-nghe-aladdin-0908",
+            "description": "- Thực hiện mô tả, phân tích các yêu cầu của dự án/ sản phẩm- Tìm kiếm, nghiên cứu, đề xuất, thiết kế giải pháp để hoàn thành dự án/ sản phẩm- Lên kế...",
+            "skills": [
+                "HTML5",
+                "Java",
+                "PHP"
+            ]
+        }
+    ]
+},

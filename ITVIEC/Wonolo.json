@@ -1,0 +1,30 @@
+{
+    "name": "Wonolo",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3504/wonolo-logo-170-151.png?1489475940",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Front end Engineer (CSS,JS,NodeJS)",
+            "link": "https://itviec.com/it-jobs/front-end-engineer-css-js-nodejs-wonolo-5300",
+            "description": "The Role We have a rapidly growing engineering team in Ho Chi Minh City (Binh Thanh District). Today the team is 9 people and growth will continue in...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Backend Engineer (ROR,Javascript)",
+            "link": "https://itviec.com/it-jobs/backend-engineer-ror-javascript-wonolo-2820",
+            "description": "The Role We have a rapidly growing engineering team in Ho Chi Minh City (Binh Thanh District). Today the team is 9 people and growth will continue in...",
+            "skills": [
+                "Agile",
+                "Ruby on Rails",
+                "JavaScript"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "Innotech Vietnam Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1003/innotech-vietnam-corporation-logo-170-151.jpg?1454112989",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "[URGENT] Senior Java Web - up to $1800",
+            "link": "https://itviec.com/it-jobs/urgent-senior-java-web-up-to-1800-innotech-vietnam-corporation-1452",
+            "description": "We are looking for Talent Java Developers to join our new projects. The main tasks will involve in the development of front-end, server-side logic,...",
+            "skills": [
+                "Agile",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "Fullstack Senior Java Dev - up to $1700",
+            "link": "https://itviec.com/it-jobs/urgent-fullstack-senior-java-developer-innotech-vietnam-corporation-3105",
+            "description": "We are looking for Talent Fullstack Senior Java Developers to join our EUROPE clients. The main tasks will involve in the development of front-end,...",
+            "skills": [
+                "PostgreSql",
+                "Java",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "[Urgent] Full-stack PHP Dev- up to $1300",
+            "link": "https://itviec.com/it-jobs/urgent-full-stack-php-dev-up-to-1300-innotech-vietnam-corporation-2320",
+            "description": "Development of web based software projects PHP (system, website, medium application), Develop API/ Integration using PHP stack. Working in a challenging...",
+            "skills": [
+                "Linux",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

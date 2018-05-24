@@ -1,0 +1,20 @@
+{
+    "name": "Softfront Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/247/softfront-vietnam-logo-170-151.png?1476335622",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "5 Junior-Senior PHP Developers (~$1,500)",
+            "link": "https://itviec.com/it-jobs/5-junior-senior-php-developers-1-500-softfront-vietnam-3321",
+            "description": "Sử dụng các framework PHP để phát triển các ứng dụng Web cũng như xây dựng giải pháp và hệ thống cho các công ty hàng đầu của Nhật  Trách nhiệm công...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Apptitude",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1291/apptitude-logo-170-151.png?1454112476",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Sr. Xamarin (.NET) Developer",
+            "link": "https://itviec.com/it-jobs/sr-xamarin-net-developer-up-to-1500-apptitude-2901",
+            "description": "We are looking for senior developers with 3+ year’s experiences of Xamarin Mobile Development Platform.",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

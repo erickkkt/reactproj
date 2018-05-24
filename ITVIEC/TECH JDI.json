@@ -1,0 +1,20 @@
+{
+    "name": "TECH JDI",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3352/tech-jdi-logo-170-151.jpg?1484676524",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Lead/Senior Java Developers",
+            "link": "https://itviec.com/it-jobs/lead-senior-java-developers-tech-jdi-1524",
+            "description": "[This job offers you an opportunity to work in an English-speaking environment, therefore the ability to communicate in English is a must.]  Are you...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

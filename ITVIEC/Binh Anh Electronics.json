@@ -1,0 +1,20 @@
+{
+    "name": "Binh Anh Electronics",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1448/binh-anh-electronics-logo-170-151.png?1454113010",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 iOS Developers",
+            "link": "https://itviec.com/it-jobs/02-ios-developers-binh-anh-electronics-5046",
+            "description": "Tham gia vào nhóm lập trình iOS, phát triển các ứng dụng của công ty. Tham gia phân tích, thiết kế UX, đóng góp ý tưởng để xây dựng ứng dụng. Thiết kế,...",
+            "skills": [
+                "Mobile Apps",
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "AITS | Vietnam Airlines",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1626/aits-vietnam-airlines-logo-170-151.jpg?1454112894",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": ".NET Developer (ASP.NET, C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-aits-vietnam-airlines-5846",
+            "description": "- Tham gia Phân tích, thiết kế hệ thống chương trình ứng dụng.  Tham gia xây dựng, Customize hệ thống chương trình ứng dụng.  Tham gia testing các hệ...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

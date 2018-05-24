@@ -1,0 +1,50 @@
+{
+    "name": "FLYNK",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3539/flynk-logo-170-151.png?1490798494",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Application Developer (C# .NET)",
+            "link": "https://itviec.com/it-jobs/senior-application-developer-c-net-flynk-3652",
+            "description": "We’re looking for a highly skilled application developer who is experienced in building mobile apps and/or server applications. You’ll play a key role...",
+            "skills": [
+                "C#",
+                "Database",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Tech Lead / Development Manager",
+            "link": "https://itviec.com/it-jobs/tech-lead-development-manager-flynk-5406",
+            "description": "We are looking for a hands on Tech Lead who is interested in being challenged with the Development Manager role. This is a transitional role where you...",
+            "skills": [
+                "Team Leader",
+                "English",
+                "Manager"
+            ]
+        },
+        {
+            "name": "Lead/Senior Java Developer",
+            "link": "https://itviec.com/it-jobs/lead-senior-java-developer-flynk-0248",
+            "description": "We are looking for a Java developer responsible for building Java applications. This includes anything between complex groups of back-end services and...",
+            "skills": [
+                "SQL",
+                "J2EE",
+                "Java"
+            ]
+        },
+        {
+            "name": "Front-end Developer (HTML5, ReactJS)",
+            "link": "https://itviec.com/it-jobs/senior-reactjs-webapp-developer-flynk-2502",
+            "description": "We are looking for a great JavaScript developer who is proficient with React.js. Your primary focus will be on developing user interface components and...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "ReactJS"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,60 @@
+{
+    "name": "Kyanon Digital",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1158/kyanon-digital-logo-170-151.png?1503982657",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Quality Control Engineer (QA QC/Tester)",
+            "link": "https://itviec.com/it-jobs/quality-control-engineer-kyanon-digital-3335",
+            "description": "We are looking for an outstanding Quality Control Engineer who will love to work in agile environment. You will be responsible for controlling the...",
+            "skills": [
+                "SQL",
+                "Tester",
+                "QA QC"
+            ]
+        },
+        {
+            "name": "Project Manager (Up to $2,000)",
+            "link": "https://itviec.com/it-jobs/react-developer-kyanon-digital-3045",
+            "description": "We are looking for a super star Project Manager who will help deliver innovative and inspiring solutions for our diverse client base. You will be...",
+            "skills": [
+                "Agile",
+                "English",
+                "Project Manager"
+            ]
+        },
+        {
+            "name": "PHP Technical Architect (Up to $3,000)",
+            "link": "https://itviec.com/it-jobs/php-technical-architect-up-to-3-000-kyanon-digital-0724",
+            "description": "The Technical Architect is responsible to writing complex software programs from design specifications, plans, executes and documents unit tests,...",
+            "skills": [
+                "Software Architect",
+                "SQL",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Back-end Developer (PHP)",
+            "link": "https://itviec.com/it-jobs/back-end-developer-php-kyanon-digital-5702",
+            "description": "We are looking for a back-end developer who is dedicated to his craft, writes code that is proud of and can hit the ground running. We need you to write...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Front-end Developer -HTML/CSS/JavaScript",
+            "link": "https://itviec.com/it-jobs/front-end-developer-kyanon-digital-0527",
+            "description": "We are looking for a Front-end developer with expertise in with HTML5, CSS & JavaScript. You will be part of a passionate and high energy team that...",
+            "skills": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

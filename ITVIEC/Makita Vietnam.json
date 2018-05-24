@@ -1,0 +1,20 @@
+{
+    "name": "Makita Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4146/makita-vietnam-logo-170-151.png?1505113424",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "IT Manager",
+            "link": "https://itviec.com/it-jobs/it-manager-makita-vietnam-0559",
+            "description": "Setup and organize the IT environment, including infrastructures, equipment and software solutions of the Vietnam offices Provide Day to day...",
+            "skills": [
+                "System Admin",
+                "Networking",
+                "Manager"
+            ]
+        }
+    ]
+},

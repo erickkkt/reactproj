@@ -1,0 +1,20 @@
+{
+    "name": "VTech",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/788/vtech-logo-170-151.png?1479783508",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Saturday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 PHP Developers - Up to $1200",
+            "link": "https://itviec.com/it-jobs/03-php-developers-vtech-1454",
+            "description": "- Tham gia xây dựng các trang Web và ứng dụng trên nền web, cho các dịch vụ, dự án của Công ty dựa trên nền tảng dịch vụ sẵn có là Mạng xã hội âm thanh...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

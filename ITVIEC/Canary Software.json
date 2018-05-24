@@ -1,0 +1,30 @@
+{
+    "name": "Canary Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3171/canary-software-logo-170-151.png?1505185896",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "React Developer",
+            "link": "https://itviec.com/it-jobs/react-developer-canary-software-0931",
+            "description": "- Develop web applications, mobile applications using ReactJS & React Native  - Research & work on assigned tasks; deliver & report result...",
+            "skills": [
+                "AngularJS",
+                "JavaScript",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "PHP Developer",
+            "link": "https://itviec.com/it-jobs/php-developer-canary-software-0823",
+            "description": "- Develop web applications, e-commerce websites using on of these PHP frameworks: Magento, Symfony, Wordpress, Laravel….  - Research & work on...",
+            "skills": [
+                "MySQL",
+                "HTML5",
+                "PHP"
+            ]
+        }
+    ]
+},

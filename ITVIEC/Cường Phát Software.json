@@ -1,0 +1,39 @@
+{
+    "name": "Cường Phát Software",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3977/c-ng-phat-software-logo-170-151.png?1504854274",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "(URGENT) 3 Junior, Senior PHP Developers",
+            "link": "https://itviec.com/it-jobs/urgent-3-junior-senior-php-developers-cuong-phat-software-5455",
+            "description": "- Làm việc tại Hà Nội- Tham gia thực hiện các dự án và xây dựng sản phẩm website (backend, frontend)- Thực hiện mô tả, phân tích các yêu cầu của dự án/...",
+            "skills": [
+                "HTML5",
+                "UI-UX",
+                "PHP"
+            ]
+        },
+        {
+            "name": "3 Android  Dev Kinh Nghiệm từ 6 tháng",
+            "link": "https://itviec.com/it-jobs/urgent-03-android-developer-cuong-phat-software-5038",
+            "description": "- Tham gia thực hiện các dự án và xây dựng sản phẩm ứng dụng di động trên nền tảng Android - Thực hiện mô tả, phân tích các yêu cầu của dự án/ sản phẩm...",
+            "skills": [
+                "Mobile Apps",
+                "Java",
+                "Android"
+            ]
+        },
+        {
+            "name": "03 iOS Dev ( KN từ 6 tháng up to 1000$)",
+            "link": "https://itviec.com/it-jobs/ios-developer-hicom-3823",
+            "description": "- Yêu cầu làm việc tại Hà Nội - Tham gia thực hiện các dự án và xây dựng sản phẩm ứng dụng di động trên nền tảng iOS (iphone, ipad) - Thực hiện mô tả,...",
+            "skills": [
+                "Objective C",
+                "iOS"
+            ]
+        }
+    ]
+},

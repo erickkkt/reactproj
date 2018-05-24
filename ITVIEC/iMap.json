@@ -1,0 +1,39 @@
+{
+    "name": "iMap",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4107/imap-logo-170-151.png?1503811764",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Lập trình viên web (Javascript, Jquery)",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-web-javascript-jquery-imap-3734",
+            "description": "• Phát triển và duy trì hệ thống website.• Hỗ trợ khách hàng.• Làm việc nhóm, đảm bảo deadline của dự án.",
+            "skills": [
+                "UI-UX",
+                "JavaScript",
+                "JQuery"
+            ]
+        },
+        {
+            "name": "Lập trình viên Java",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-java-imap-3557",
+            "description": "- Tham gia thiết kế và lập trình các giải pháp liên quan các hệ thống viễn thông; các hệ thống thanh toán, các dịch vụ - Tham gia các dự án thương mại...",
+            "skills": [
+                "SQL",
+                "Oracle",
+                "Java"
+            ]
+        },
+        {
+            "name": "Lập trình viên Android",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-android-imap-3446",
+            "description": "- Tham gia thiết kế và lập trình các giải pháp liên quan các hệ thống viễn thông- Tham gia các dự án thương mại điện tử và ứng dụng mobile, desktop-...",
+            "skills": [
+                "Mobile Apps",
+                "Android"
+            ]
+        }
+    ]
+},

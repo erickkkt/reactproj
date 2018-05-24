@@ -1,0 +1,40 @@
+{
+    "name": "PAL TECH",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1705/pal-tech-logo-170-151.png?1454112601",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "Extra days off for OT",
+    "jobs": [
+        {
+            "name": "Senior Front End Developer",
+            "link": "https://itviec.com/it-jobs/senior-front-end-developer-pal-tech-3418",
+            "description": "Position Summary  Perform development activities to build and maintain web-based applications by using PHP frameworks, Joomla (CMS) frameworks and...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Systems Cum Network Engineer (On Shift)",
+            "link": "https://itviec.com/it-jobs/systems-cum-network-engineer-on-shift-pal-tech-3420",
+            "description": "Position Summary  To design and maintain the systems and network architecture with redundancy and resilience, to ensure optimal performance for the...",
+            "skills": [
+                "Linux",
+                "System Admin",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Java Web Developer",
+            "link": "https://itviec.com/it-jobs/java-web-developer-pal-tech-3416",
+            "description": "Position Summary    Perform development activities to build and maintain WEB-based software systems using J2EE, SPRING frameworks, JavaScript frameworks...",
+            "skills": [
+                "JavaScript",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,20 @@
+{
+    "name": "Vinacontrol",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4187/vinacontrol-logo-170-151.png?1506397304",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "System and Network Engineer",
+            "link": "https://itviec.com/it-jobs/system-and-network-engineer-vinacontrol-5254",
+            "description": "Tập đoàn Vinacontrol cần tuyển dụng vị trí: Chuyên viên IT làm việc tại Văn phòng Tập đoàn 54 Trần Nhân Tông, Hai Bà Trưng, Hà Nội. - Quản lý thiết bị...",
+            "skills": [
+                "System Engineer",
+                "ERP",
+                "Networking"
+            ]
+        }
+    ]
+},

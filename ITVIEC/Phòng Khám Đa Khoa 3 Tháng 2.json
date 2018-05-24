@@ -1,0 +1,28 @@
+{
+    "name": "Phòng Khám Đa Khoa 3 Tháng 2",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4140/phong-kham-da-khoa-3-thang-2-logo-170-151.png?1504929519",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Web Designer",
+            "link": "https://itviec.com/it-jobs/web-designer-phong-kham-da-khoa-3-thang-2-0023",
+            "description": "+ Thiết kế giao diện Website+ Thiết kế Logo, nhận diện thương hiệu+ Thiết kế các ấn phẩm truyền thông: Banner, poster, brochure, catalogue+ Ưu tiên biết...",
+            "skills": [
+                "Designer"
+            ]
+        },
+        {
+            "name": "Lập Trình Viên PHP",
+            "link": "https://itviec.com/it-jobs/lap-trinh-vien-php-phong-kham-da-khoa-3-thang-2-0258",
+            "description": "Lập trình và thiết kế Website, các phần mềm ứng dụng trên nền Web theo yêu cầu của Công ty.Có khả năng tư duy tốt, chăm chỉ, có trách nhiệm.Công việc cụ...",
+            "skills": [
+                "MySQL",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

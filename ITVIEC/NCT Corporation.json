@@ -1,0 +1,20 @@
+{
+    "name": "NCT Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1244/nct-corporation-logo-170-151.jpg?1454112789",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Back-end JAVA Developer (Open level)",
+            "link": "https://itviec.com/it-jobs/java-developer-backend-nct-corporation-3201",
+            "description": "Project: NhacCuaTui.comBạn mong muốn tìm hiểu ứng dụng công nghệ mới, mong muốn có cơ hội làm những sản phẩm lớn đáp ứng được hàng triệu Users. Chán...",
+            "skills": [
+                "Database",
+                "IT Support",
+                "Java"
+            ]
+        }
+    ]
+},

@@ -1,0 +1,40 @@
+{
+    "name": "Viladata",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3371/viladata-logo-170-151.jpg?1506652503",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "02 Mobile Apps Dev (iOS/Android)",
+            "link": "https://itviec.com/it-jobs/02-mobile-apps-dev-ios-android-viladata-5234",
+            "description": "Khảo sát, phân tích yêu cầu các dự án của công ty Viết tài liệu đặc tả kỹ thuật liên quan đến công việc dự án Tham gia lập trình các sản phẩm dự án của...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "name": "02 .NET Developers",
+            "link": "https://itviec.com/it-jobs/02-net-developers-viladata-5017",
+            "description": "Khảo sát, phân tích yêu cầu các dự án của công ty Viết tài liệu đặc tả kỹ thuật liên quan đến công việc dự án Tham gia lập trình các sản phẩm dự án của...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        },
+        {
+            "name": "04 .NET Developers",
+            "link": "https://itviec.com/it-jobs/04-net-developers-xe-dien-ev-2151",
+            "description": "Phát triển các hệ thống dịch vụ của công ty Mô tả công việc:      Tham gia vào các dự án của công ty trên nền .NET và C#   Phối hợp...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

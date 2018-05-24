@@ -1,0 +1,30 @@
+{
+    "name": "Nexle Corporation",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/412/nexle-corporation-logo-170-151.png?1468319761",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Web Developer (NodeJS/ReactJS)",
+            "link": "https://itviec.com/it-jobs/web-developer-nodejs-reactjs-nexle-corporation-4903",
+            "description": "Review business requirements working with team members Perform a technical analysis of requirements Produce a solid, detailed technical design Write...",
+            "skills": [
+                "JavaScript",
+                "NodeJS",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Senior JAVA Developer - URGENT ",
+            "link": "https://itviec.com/it-jobs/senior-java-developer-urgent-nexle-corporation-4334",
+            "description": "Review business requirements working with team members Perform a technical analysis of requirements Produce a solid, detailed technical design Write...",
+            "skills": [
+                "NodeJS",
+                "Java",
+                "ReactJS"
+            ]
+        }
+    ]
+},

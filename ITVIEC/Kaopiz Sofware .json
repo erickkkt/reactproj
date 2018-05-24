@@ -1,0 +1,20 @@
+{
+    "name": "Kaopiz Sofware ",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1706/kaopiz-sofware-logo-170-151.png?1454112765",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "Extra salary for OT",
+    "jobs": [
+        {
+            "name": "3 PHP Developers Laravel/Yii up to 1000$",
+            "link": "https://itviec.com/it-jobs/3-php-developers-laravel-yii-up-to-1000-kaopiz-sofware-5822",
+            "description": "Tham gia các dự án sử dụng ngôn ngữ lập trình PHP và các công nghệ liên quan cho các khách hàng đến từ Nhật Bản. Phân tích thiết kế và lập trình chức...",
+            "skills": [
+                "Japanese",
+                "AngularJS",
+                "PHP"
+            ]
+        }
+    ]
+},

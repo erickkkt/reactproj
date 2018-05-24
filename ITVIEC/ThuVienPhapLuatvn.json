@@ -1,0 +1,20 @@
+{
+    "name": "ThuVienPhapLuat.vn",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1182/thuvienphapluat-vn-logo-170-151.png?1454113277",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "05 Web Developers (ASP.NET MVC)",
+            "link": "https://itviec.com/it-jobs/05-web-developers-asp-net-mvc-thuvienphapluat-vn-2458",
+            "description": "THƯ VIỆN PHÁP LUẬT có 170 nhân viên trẻ, nhiệt huyết và tận tâm, với 1.700.000 (một triệu bảy trăm ngàn) khách hàng là các Luật Sư, Thẩm Phán, Viên...",
+            "skills": [
+                "MVC",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},

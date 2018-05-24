@@ -1,0 +1,30 @@
+{
+    "name": "Transcosmos Technologic Arts",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/78/transcosmos-technologic-arts-logo-170-151.png?1492404828",
+    "position": "Ho Chi Minh",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "03 PHP Dev (Drupal/Agile/PHP) ~$1500",
+            "link": "https://itviec.com/it-jobs/03-php-dev-drupal-agile-php-1500-transcosmos-technologic-arts-4052",
+            "description": "1) Tham gia xây dựng các dự án của team phát triển bằng Laravel, Yii, CakePHP, Zend, EcuCube.Tham gia các chương trình đào tạo kỹ thuật để có cơ hội...",
+            "skills": [
+                "Agile",
+                "Drupal",
+                "PHP"
+            ]
+        },
+        {
+            "name": "03 Ruby on Rails Developer (up to $1500)",
+            "link": "https://itviec.com/it-jobs/03-ruby-on-rails-developer-up-to-1500-transcosmos-technologic-arts-3736",
+            "description": "Develop software solutions by analysing customer and systems requirements ensuring the best in-class software solutions are developed. Designing and...",
+            "skills": [
+                "HTML5",
+                "Agile",
+                "Ruby on Rails"
+            ]
+        }
+    ]
+},

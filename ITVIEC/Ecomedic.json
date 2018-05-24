@@ -1,0 +1,20 @@
+{
+    "name": "Ecomedic",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/3941/ecomedic-logo-170-151.jpg?1501039466",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": null,
+    "jobs": [
+        {
+            "name": "10 Dev (Java web/microservices) ~1000$",
+            "link": "https://itviec.com/it-jobs/java-web-microservices-developers-ecomedic-4252",
+            "description": "Bạn đã chán không gian nhàm chán, bí bách của văn phòng truyền thống? Bạn cần 1 không gian làm việc mở để khơi nguồn cảm hứng sáng tạo? Và chắc hẳn...",
+            "skills": [
+                "MySQL",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

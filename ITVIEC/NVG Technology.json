@@ -1,0 +1,30 @@
+{
+    "name": "NVG Technology",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/821/nvg-technology-logo-170-151.png?1491982202",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "02 Senior Android Developer ",
+            "link": "https://itviec.com/it-jobs/02-senior-android-developer-nvg-technology-0648",
+            "description": "Would you like work on high impact products, grow by working with great people, and in a culture that values the happiness of the team?   Then you...",
+            "skills": [
+                "Mobile Apps",
+                "English",
+                "Android"
+            ]
+        },
+        {
+            "name": "Sr. Frontend-JS, AngularJS, HTML5",
+            "link": "https://itviec.com/it-jobs/sr-frontend-js-angularjs-html5-nvg-technology-0803",
+            "description": "Work with the best international colleagues in a product company. Build the high performant mobile or web product with the latest hybrid javascript...",
+            "skills": [
+                "HTML5",
+                "AngularJS",
+                "JavaScript"
+            ]
+        }
+    ]
+},

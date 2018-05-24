@@ -1,0 +1,30 @@
+{
+    "name": "Canon Vietnam",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1192/canon-vietnam-logo-170-151.jpg?1454113791",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "System Engineer (Linux)",
+            "link": "https://itviec.com/it-jobs/system-engineer-linux-canon-vietnam-2114",
+            "description": "Trao đổi cụ thể trong quá trình phỏng vấn ",
+            "skills": [
+                "Linux",
+                "System Engineer",
+                "Networking"
+            ]
+        },
+        {
+            "name": "Software Engineer (C++, Java, SQL)",
+            "link": "https://itviec.com/it-jobs/software-engineer-c-java-sql-canon-vietnam-1846",
+            "description": "Trao đổi cụ thể trong quá trình phỏng vấn ",
+            "skills": [
+                "SQL",
+                "C++",
+                "Java"
+            ]
+        }
+    ]
+},

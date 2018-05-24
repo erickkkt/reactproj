@@ -1,0 +1,20 @@
+{
+    "name": "Fado.vn",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/2693/fado-vn-logo-170-151.png?1506049183",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Senior Manual Tester (QA QC)",
+            "link": "https://itviec.com/it-jobs/senior-manual-tester-qa-qc-fado-vn-0409",
+            "description": "Understand and analyse requirements Execute manual testing Web applications, mobile applications Create test plan, test case, test scenarios Set-up...",
+            "skills": [
+                "Mobile Apps",
+                "Tester",
+                "QA QC"
+            ]
+        }
+    ]
+},

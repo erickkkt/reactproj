@@ -1,0 +1,30 @@
+{
+    "name": "FCS Computer Systems",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1627/fcs-computer-systems-logo-170-151.png?1464842029",
+    "position": "Ho Chi Minh",
+    "company-type": "Product",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "Full Stack Developer (Java, JavaScript)",
+            "link": "https://itviec.com/it-jobs/full-stack-developer-java-javascript-fcs-computer-systems-0039",
+            "description": "Software coder role – responsible to develop new products. Maintains existing system/product assigned by Section Manager. Involved in full development...",
+            "skills": [
+                "HTML5",
+                "JavaScript",
+                "Java"
+            ]
+        },
+        {
+            "name": "Mobile Developer (iOS & Android)",
+            "link": "https://itviec.com/it-jobs/mobile-developer-ios-android-fcs-computer-systems-5844",
+            "description": "Software coder role – responsible to develop new products. Maintains existing system/product assigned by Section Manager. Involved in full development...",
+            "skills": [
+                "Mobile Apps",
+                "Android",
+                "iOS"
+            ]
+        }
+    ]
+},

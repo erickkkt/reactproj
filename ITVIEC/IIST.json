@@ -1,0 +1,39 @@
+{
+    "name": "IIST",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/1287/iist-logo-170-151.jpg?1469500385",
+    "position": "Ha Noi",
+    "company-type": "Outsourcing",
+    "working-time": "Monday - Friday",
+    "OT": "No OT",
+    "jobs": [
+        {
+            "name": "05 .NET Developers - Upto $1000",
+            "link": "https://itviec.com/it-jobs/05-net-developers-iist-3516",
+            "description": "Tham gia xây dựng và phát triển dự án với các khách hàng Việt Nam và quốc tế. Xây dựng các tài liệu Basic/Detail Design, Coding & Unit test,...",
+            "skills": [
+                "OOP",
+                "SQL",
+                ".NET"
+            ]
+        },
+        {
+            "name": "03 Comtor IT $1000",
+            "link": "https://itviec.com/it-jobs/03-comtor-it-iist-2828",
+            "description": "-Tham gia trực tiếp vào việc biên, phiên dịch dự án về Công nghệ Thông tin. -Làm việc gián tiếp hoặc trực tiếp với khách hàng Nhật",
+            "skills": [
+                "Japanese",
+                "Bridge Engineer"
+            ]
+        },
+        {
+            "name": "15 Junior Java Dev - Upto $1000",
+            "link": "https://itviec.com/it-jobs/05-java-developers-upto-1000-iist-3756",
+            "description": "Tham gia trực tiếp vào giai đoạn phát triển dự án, nắm bắt và phân tích các yêu cầu hệ thống hiện tại của dự án. Xây dựng các tài liệu Basic/Detail...",
+            "skills": [
+                "JavaScript",
+                "J2EE",
+                "Java"
+            ]
+        }
+    ]
+},

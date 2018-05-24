@@ -1,0 +1,20 @@
+{
+    "name": "Tổng Công ty Cổ phần Bảo hiểm BIDV",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4184/t-ng-cong-ty-c-ph-n-b-o-hi-m-bidv-logo-170-151.png?1506231646",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Software Developer (C#, PHP, JavaScript)",
+            "link": "https://itviec.com/it-jobs/software-developer-c-php-javascript-tong-cong-ty-co-phan-bao-hiem-bidv-5028",
+            "description": "Mô tả công việc:  - Tham gia xây dựng mới, nâng cấp các ứng dụng phần mềm quản lý của Công ty - Nghiên cứu công nghệ mới, bảo mật để ứng dụng vào công...",
+            "skills": [
+                "C#",
+                "JavaScript",
+                "PHP"
+            ]
+        }
+    ]
+},

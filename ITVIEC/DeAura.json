@@ -1,0 +1,30 @@
+{
+    "name": "DeAura",
+    "logo": "https://cdn.itviec.com/system/production/employers/logos/4128/deaura-logo-170-151.jpg?1504412233",
+    "position": "Ha Noi",
+    "company-type": "Product",
+    "working-time": null,
+    "OT": null,
+    "jobs": [
+        {
+            "name": "Application Development Manager",
+            "link": "https://itviec.com/it-jobs/application-development-manager-deaura-2218",
+            "description": "· Tổ chức và quản lý phòng, lập kế hoạch & giám sát thực hiện công việc· Quản lý các công việc đã phân công cho cấp dưới đảm bảo đúng tiến độ và...",
+            "skills": [
+                "Database",
+                "Software Architect",
+                "Manager"
+            ]
+        },
+        {
+            "name": ".NET Developer (ASP.NET/ C#)",
+            "link": "https://itviec.com/it-jobs/net-developer-asp-net-c-deaura-1952",
+            "description": "· Tiếp nhận phân tích yêu cầu từ người dùng cho việc lập trình các chức năng bổ sung của các ứng dụng của công ty· Tài liệu hóa các phân tích đã được...",
+            "skills": [
+                "C#",
+                "ASP.NET",
+                ".NET"
+            ]
+        }
+    ]
+},
